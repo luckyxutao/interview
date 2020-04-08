@@ -1,7 +1,5 @@
 
-### leetcode
-
-https://leetcode-cn.com/problemset/lcof/
+[剑指offer](https://leetcode-cn.com/problemset/lcof/)
 
 ### 二叉树相关
 * 之字形打印二叉树
@@ -13,3 +11,6 @@ https://leetcode-cn.com/problemset/lcof/
 
 * 中续遍历（递归/非递归）
 [路径](./src/binary-tree/traversal-inorder.js)
+
+* 前续遍历（递归/非递归）
+[路径](./src/binary-tree/traversal-preorder.js)
