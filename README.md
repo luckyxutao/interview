@@ -10,4 +10,4 @@ https://leetcode-cn.com/problemset/lcof/
 
 * 后续遍历
 递归/非递归
-[路径](./src/traversal-postorder.js)
+[路径](./src/binary-tree/traversal-postorder.js)
