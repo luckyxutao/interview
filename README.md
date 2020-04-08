@@ -1,7 +1,4 @@
 
-##
-剑指offer系列
-
 ### 二叉树相关
 * 之字形打印二叉树
 [路径](./src/binary-tree/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js)
