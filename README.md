@@ -32,3 +32,7 @@
 * 二叉树的深度
 [路径](./src/binary-tree/er-cha-shu-de-shen-du-lcof.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/55-1-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6/)
+
+* (基于前序/中序)重建二叉树
+[路径](./src/binary-tree/zhong-jian-er-cha-shu-lcof.js)
+[解析](https://liweiwei1419.github.io/sword-for-offer/07-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/)
