@@ -36,3 +36,7 @@
 * (基于前序/中序)重建二叉树
 [路径](./src/binary-tree/zhong-jian-er-cha-shu-lcof.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/07-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/)
+
+* (基于前序/中序)重建二叉树
+[路径](./src/binary-tree/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js)
+[解析](https://liweiwei1419.github.io/sword-for-offer/54-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9/)
