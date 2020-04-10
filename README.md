@@ -44,3 +44,7 @@
 * 给定一个二叉树，判断它是否是高度平衡的二叉树。
 [路径](./src/binary-tree/balanced-binary-tree.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
+
+### 数组相关
+[路径](./src/array/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.js)
+[解析](https://liweiwei1419.github.io/sword-for-offer/03-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/)
