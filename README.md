@@ -49,6 +49,11 @@
 [路径](./src/binary-tree/balanced-binary-tree.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
 
+* 二叉树中和为某一值的路径
+[路径](./src/binary-tree/path-sum-ii.js)
+[解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
+
+
 ### 数组相关
 [路径](./src/binary-tree/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/33-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/)
