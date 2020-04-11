@@ -8,7 +8,7 @@ function constructTree(arr) {
         var cur = queue.pop();
         if (count < arr.length) {
             let hasVal = arr[count++];
-            if (hasVal) {
+            if (hasVal!==null) {
                 var left = new TreeNode(hasVal);
                 cur.left = left;
                 queue.unshift(left);
@@ -16,7 +16,7 @@ function constructTree(arr) {
         }
         if (count < arr.length) {
             let hasVal = arr[count++];
-            if (hasVal) {
+            if (hasVal!==null) {
                 var right = new TreeNode(hasVal);
                 cur.right = right;
                 queue.unshift(right);

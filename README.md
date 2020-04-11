@@ -53,6 +53,10 @@
 [路径](./src/binary-tree/path-sum-ii.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
 
+*  二叉搜索树的最近公共祖先
+[路径](./src/binary-tree/lowestCommonAncestor.js)
+[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
 
 ### 数组相关
 [路径](./src/binary-tree/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)
