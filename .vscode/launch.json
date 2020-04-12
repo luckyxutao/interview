@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/binary-tree/lowest-common-ancestor-of-a-binary-tree.js"
+            "program": "${workspaceFolder}/src/fe/server/static/call_apply_bind.js"
         }
     ]
 }

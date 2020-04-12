@@ -6,7 +6,8 @@ const bodyParser = require('koa-bodyparser')
 const static = require('koa-static')
 const views = require('koa-views')
 var router = new KoaRouter();
-app.use(bodyParser())
+const myBodyParser = require('./body-parser')
+app.use(myBodyParser())
 // 加载模板引擎
 app.use(views(path.join(__dirname, './view'), {
     extension: 'ejs'

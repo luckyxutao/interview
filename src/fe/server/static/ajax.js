@@ -43,26 +43,26 @@ function AjaxRequest(options) {
 // });
 
 //post请求x-www/
-var postTest = new AjaxRequest({
-    url: '/post/1',
-    method:'post',
-    headers:{
-        'Content-type':'application/x-www-form-urlencoded'
-    },
-    data : 'a=1&b=2&f=5'
-});
-
-// //post请求withJSON
 // var postTest = new AjaxRequest({
 //     url: '/post/1',
 //     method:'post',
 //     headers:{
-//         'Content-type':'application/json'
+//         'Content-type':'application/x-www-form-urlencoded'
 //     },
-//     data : JSON.stringify({
-//         a:1,
-//         b : 2,
-//         c:3
-//     })
+//     data : 'a=1&b=2&f=5'
 // });
+
+// //post请求withJSON
+var postTest = new AjaxRequest({
+    url: '/post/1',
+    method:'post',
+    headers:{
+        'Content-type':'application/json'
+    },
+    data : JSON.stringify({
+        a:1,
+        b : 2,
+        c:3
+    })
+});
 

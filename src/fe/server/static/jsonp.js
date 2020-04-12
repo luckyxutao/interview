@@ -1,4 +1,10 @@
 
+/**
+ * 1. 浏览器支持好
+ * 2. 只支持get请求
+ * 3. xss
+ * 
+ */
 function JsonpRequest(options) {
     var url = options.url;
     var success = options.success;
