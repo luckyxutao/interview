@@ -18,7 +18,13 @@ app.use(static(
     path.join(__dirname, staticPath)
 ))
 router.get('/get/1', async (ctx, next) => {
-    ctx.body = ctx.query
+    const { callback: callbackName } = ctx.query;
+    if (callbackName) {
+        ctx.body = `${callbackName}(${JSON.stringify(ctx.query)})`;
+        ctx.type = 'text/javascript';
+    } else {
+        ctx.body = ctx.query
+    }
 });
 router.get('/', async (ctx, next) => {
     let title = 'hello koa2'
