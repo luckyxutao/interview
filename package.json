@@ -4,8 +4,7 @@
   "description": "[剑指offer系列](./offer.md) [前端相关](./fe.md)",
   "main": "1.js",
   "scripts": {
-    "start": "node ./src/fe/server/index.js",
-    "debug": "node --inspect-brk ./src/fe/server/index.js"
+    "start": "node ./src/fe/server/index.js"
   },
   "repository": {
     "type": "git",

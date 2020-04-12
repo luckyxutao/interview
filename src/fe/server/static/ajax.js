@@ -37,10 +37,10 @@ function AjaxRequest(options) {
     METHOD_GET ? xhr.send() : xhr.send(data);
 
 }
-//get请求
-var getTest = new AjaxRequest({
-    url: '/get/1?a=1&b=2&u=5'
-});
+// //get请求
+// var getTest = new AjaxRequest({
+//     url: '/get/1?a=1&b=2&u=5'
+// });
 
 //post请求x-www/
 var postTest = new AjaxRequest({
@@ -52,17 +52,17 @@ var postTest = new AjaxRequest({
     data : 'a=1&b=2&f=5'
 });
 
-//post请求withJSON
-var postTest = new AjaxRequest({
-    url: '/post/1',
-    method:'post',
-    headers:{
-        'Content-type':'application/json'
-    },
-    data : JSON.stringify({
-        a:1,
-        b : 2,
-        c:3
-    })
-});
+// //post请求withJSON
+// var postTest = new AjaxRequest({
+//     url: '/post/1',
+//     method:'post',
+//     headers:{
+//         'Content-type':'application/json'
+//     },
+//     data : JSON.stringify({
+//         a:1,
+//         b : 2,
+//         c:3
+//     })
+// });
 

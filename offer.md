@@ -57,6 +57,10 @@
 [路径](./src/binary-tree/lowestCommonAncestor.js)
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
+*  二叉树的最近公共祖先
+[路径](./src/binary-tree/lowest-common-ancestor-of-a-binary-tree)
+[解析](https://liweiwei1419.github.io/sword-for-offer/68-%E6%A0%91%E4%B8%AD%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/)
+
 
 ### 数组相关
 [路径](./src/binary-tree/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)
