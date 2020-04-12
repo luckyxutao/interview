@@ -1,0 +1,29 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "[剑指offer系列](./offer.md) [前端相关](./fe.md)",
+  "main": "1.js",
+  "scripts": {
+    "start": "node ./src/fe/server/index.js",
+    "debug": "node --inspect-brk ./src/fe/server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyxutao/interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyxutao/interview/issues"
+  },
+  "homepage": "https://github.com/luckyxutao/interview#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.1"
+  }
+}
