@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/fe/server/static/instanceOf.js"
+            "program": "${workspaceFolder}/src/fe/server/static/clone.js"
         }
     ]
 }
