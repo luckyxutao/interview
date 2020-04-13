@@ -65,6 +65,9 @@
 [路径](./src/binary-tree/shu-de-zi-jie-gou-lcof.js)
 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/shu-de-zi-jie-gou-pan-ding-shuang-di-gui-by-luckyx/)
 
+*   二叉树的序列化与反序列化
+[路径](./src/binary-tree/serialize-and-deserialize-binary-tree.js)
+[解析](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/bfs-er-cha-shu-xu-lie-yu-fan-xu-lie-hua-by-luckyxu/)
 
 ### 数组相关
 [路径](./src/binary-tree/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)

@@ -50,7 +50,11 @@ function dfsHelper(A,B){
     return dfsHelper(A.left,B.left) && dfsHelper(A.right,B.right);
 }
 
-var treeA = constructTreeFromArray([3,5,0,3,4]);
-var treeB = constructTreeFromArray([1,-4,2,-1,3,-3,-4,0,-3,-1]);
-var result = isSubStructure(treeA,treeB);
-console.log(result);
+// var treeA = constructTreeFromArray([3,5,0,3,4]);
+// var treeB = constructTreeFromArray([1,-4,2,-1,3,-3,-4,0,-3,-1]);
+// var result = isSubStructure(treeA,treeB);
+// console.log(result);
+
+
+var rr = constructTreeFromArray([5, 4, 7, 3, null, 2, null, -1, null, 9]);
+debugger

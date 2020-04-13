@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/fe/server/static/clone.js"
+            "program": "${workspaceFolder}/src/binary-tree/serialize-and-deserialize-binary-tree.js"
         }
     ]
 }
