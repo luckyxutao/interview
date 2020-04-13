@@ -5,7 +5,8 @@
   "main": "1.js",
   "scripts": {
     "start": "node ./src/fe/server/index.js",
-    "debug": "node --inspect-brk ./src/fe/server/index.js"
+    "debug": "node --inspect-brk ./src/fe/server/index.js",
+    "promise-test":"promises-aplus-tests ./src/fe/server/static/promise.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^8.0.8",
     "koa-static": "^5.0.0",
-    "koa-views": "^6.2.1"
+    "koa-views": "^6.2.1",
+    "promises-aplus-tests": "^2.1.2"
   }
 }
