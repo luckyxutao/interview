@@ -69,6 +69,12 @@
 [路径](./src/binary-tree/serialize-and-deserialize-binary-tree.js)
 [解析](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/bfs-er-cha-shu-xu-lie-yu-fan-xu-lie-hua-by-luckyxu/)
 
+
+### 栈
+* 用两个栈实现队列
+[路径](./src/stack/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)
+[解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/shuang-zhan-mo-ni-dui-lie-by-luckyxutao/)
+
 ### 数组相关
 [路径](./src/binary-tree/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/33-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/)
