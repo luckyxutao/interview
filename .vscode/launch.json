@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/binary-tree/shu-de-zi-jie-gou-lcof.js"
+            "program": "${workspaceFolder}/src/fe/server/static/moni_new.js"
         }
     ]
 }
