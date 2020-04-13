@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/fe/server/static/call_apply_bind.js"
+            "program": "${workspaceFolder}/src/binary-tree/shu-de-zi-jie-gou-lcof.js"
         }
     ]
 }
