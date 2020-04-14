@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/stack/min-stack.js"
+            "program": "${workspaceFolder}/src/stack/sliding-window-maximum.js"
         }
     ]
 }
