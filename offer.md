@@ -79,7 +79,7 @@
 [解析](https://leetcode-cn.com/problems/min-stack/solution/shuang-zhan-shi-xian-zui-xiao-zhan-by-luckyxutao/)
 
 * 滑动窗口最大值
-[解析1]（https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/shuang-duan-dui-lie-shi-xian-by-luckyxutao/)
+[解析1](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/shuang-duan-dui-lie-shi-xian-by-luckyxutao/)
 [解析2](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
 
 
