@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/stack/dui-lie-de-zui-da-zhi-lcof.js"
+            "program": "${workspaceFolder}/src/array/spiral-matrix.js"
         }
     ]
 }
