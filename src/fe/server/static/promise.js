@@ -87,6 +87,61 @@ Promise.prototype.then = function (onFulfilled, onRejected) {
 
 }
 
+Promise.prototype.catch = function (onRejected) {
+    this.then(null, onRejected);
+}
+Promise.resolve = function (val) {
+    return new Promise((resolve) => {
+        resolve(val);
+    })
+}
+Promise.reject = function (reason) {
+    return new Promise((resolve, reject) => {
+        reject(reason);
+    })
+}
+
+
+Promise.allSettled = function (promiseArr) {
+    let results = [];
+    let count = 0;
+    return new Promise((resolve, reject) => {
+        for (let i = 0; i < promiseArr.length; i++) {
+            var curr = promiseArr[i];
+            if (curr instanceof Promise) {
+                curr.then(res => {
+                    results[i] = {
+                        status: 'fulfilled',
+                        value: res
+                    }
+                    count++;
+                    if (count >= promiseArr.length) {
+                        resolve(results);
+                    }
+                }, err => {
+                    results[i] = {
+                        status: 'rejected',
+                        reason: err
+                    }
+                    count++;
+                    if (count >= promiseArr.length) {
+                        resolve(results);
+                    }
+                })
+            } else {
+                results[i] = {
+                    status: 'fulfilled',
+                    value: curr
+                }
+                count++;
+                if (count >= promiseArr.length) {
+                    resolve(results);
+                }
+            }
+        }
+    });
+}
+
 
 function resolvePromise(promise2, x, resolve, reject) {
     if (x === promise2) {
