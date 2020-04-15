@@ -82,7 +82,7 @@
 [解析1](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/shuang-duan-dui-lie-shi-xian-by-luckyxutao/)
 [解析2](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
 
-* 队列的最大值  
+* 队列的最大值
 [解析1](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/shuang-dui-lie-shi-xian-dui-lie-de-zui-da-zhi-ii-b/)
 
 ### 数组相关
