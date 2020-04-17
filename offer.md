@@ -87,6 +87,9 @@
 
 ### 数组相关
 
+* 0～n-1中缺失的数字
+[解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
+
 * 在排序数组中查找元素的第一个和最后一个位置
 [解析](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/er-fen-cha-zhao-fa-fen-bie-cha-zhao-zui-zuo-zui-yo/)
 

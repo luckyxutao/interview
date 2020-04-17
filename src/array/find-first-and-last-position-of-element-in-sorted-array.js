@@ -48,5 +48,5 @@ function searchPariton(nums,target, direction){
     }
 }
 
-var res = search([1], 1);
+var res = search([0,1,2,3,4,6,7,8,9]);
 console.log(res)
