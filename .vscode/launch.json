@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/array/spiral-matrix.js"
+            "program": "${workspaceFolder}/src/array/find-first-and-last-position-of-element-in-sorted-array.js"
         }
     ]
 }

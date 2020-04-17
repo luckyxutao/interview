@@ -87,6 +87,9 @@
 
 ### 数组相关
 
+* 在排序数组中查找元素的第一个和最后一个位置
+[解析](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/er-fen-cha-zhao-fa-fen-bie-cha-zhao-zui-zuo-zui-yo/)
+
 * 顺时针打印矩阵
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/si-lu-qing-xi-shun-shi-zhen-gui-ji-mo-ni-by-luckyx/)
 
