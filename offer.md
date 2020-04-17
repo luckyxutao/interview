@@ -69,6 +69,9 @@
 [路径](./src/binary-tree/serialize-and-deserialize-binary-tree.js)
 [解析](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/bfs-er-cha-shu-xu-lie-yu-fan-xu-lie-hua-by-luckyxu/)
 
+### 链表
+* 删除链表的节点
+[解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/yong-yi-ge-zhi-zhen-zhi-xiang-qian-yi-ji-yuan-su-b/)
 
 ### 栈
 * 用两个栈实现队列
