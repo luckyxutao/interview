@@ -71,6 +71,8 @@
 
 ### 链表
 
+* 复制带随机指针的链表
+[解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/die-dai-shi-xian-shen-copydai-sui-ji-zhi-zhen-de-l/)
 * 反转链表
 [解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/shuang-zhi-zhen-xun-huan-shi-xian-by-luckyxutao/)
 * 返回链表倒数第k个节点

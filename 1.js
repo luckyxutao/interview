@@ -5,3 +5,9 @@ var a = './src' + './hello.js'
 console.log(join( './src' ,'./hello.js'));
 
 
+var aa = new Map();
+var s = {};
+var s2 = {};
+aa.set(s,1);
+aa.set(s2,1);
+// console.log(aa.)
