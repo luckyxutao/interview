@@ -71,6 +71,8 @@
 
 ### 链表
 
+* 反转链表
+[解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/shuang-zhi-zhen-xun-huan-shi-xian-by-luckyxutao/)
 * 返回链表倒数第k个节点
 [解析](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution/si-lu-jian-dan-kuai-man-zhi-zhen-by-luckyxutao/)
 
