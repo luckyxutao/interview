@@ -11,3 +11,4 @@ var s2 = {};
 aa.set(s,1);
 aa.set(s2,1);
 // console.log(aa.)
+console.log(aa.size)

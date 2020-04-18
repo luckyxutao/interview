@@ -71,6 +71,9 @@
 
 ### 链表
 
+* 两个链表的第一个公共节点
+[解析](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/lie-biao-chang-du-chai-zhi-ji-suan-by-luckyxutao/)
+
 * 复制带随机指针的链表
 [解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/die-dai-shi-xian-shen-copydai-sui-ji-zhi-zhen-de-l/)
 * 反转链表
