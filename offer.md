@@ -1,6 +1,9 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 回溯
+[路径](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-fa-shi-xian-by-luckyxutao/)
+
 ### 二叉树相关
 
 * dfs后续遍历（递归/非递归）
