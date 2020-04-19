@@ -1,6 +1,10 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 二分
+* 寻找旋转排序数组中的最小值 II
+* https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/
+
 ### 回溯
 * 字符串的全排列
 [路径](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-fa-shi-xian-by-luckyxutao/)
