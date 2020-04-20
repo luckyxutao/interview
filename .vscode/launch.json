@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/reverseWords.js"
+            "program": "${workspaceFolder}/src/zuo-xuan-zhuan-zi-fu-chuan-lcof.js"
         }
     ]
 }

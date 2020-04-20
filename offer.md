@@ -3,16 +3,18 @@
 
 
 ### 字符串
+*  左旋转字符串
+[解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/liang-chong-fang-shi-chu-li-by-luckyxutao/)
 *  翻转单词顺序
 [解析](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/solution/shuang-duan-dui-lie-shi-xian-dan-ci-shun-xu-fan-zh/)
 
 ### 二分
 * 寻找旋转排序数组中的最小值 II
-* https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/
+[解析]https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/
 
 ### 回溯
 * 字符串的全排列
-[路径](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-fa-shi-xian-by-luckyxutao/)
+[解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-fa-shi-xian-by-luckyxutao/)
 
 ### 二叉树相关
 
