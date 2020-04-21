@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/zuo-xuan-zhuan-zi-fu-chuan-lcof.js"
+            "program": "${workspaceFolder}/src/string-to-integer-atoi.js"
         }
     ]
 }

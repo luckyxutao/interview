@@ -3,6 +3,10 @@
 
 
 ### 字符串
+
+* 把字符串转换成整数
+[解析](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/zi-fu-chuan-zhuan-shu-zi-by-luckyxutao/)
+
 *  左旋转字符串
 [解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/liang-chong-fang-shi-chu-li-by-luckyxutao/)
 *  翻转单词顺序
