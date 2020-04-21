@@ -14,7 +14,7 @@
 
 ### 二分
 * 寻找旋转排序数组中的最小值 II
-[解析]https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/
+[解析](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/)
 
 ### 回溯
 * 字符串的全排列
