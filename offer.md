@@ -1,6 +1,10 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 动态规划
+* 爬楼梯
+[解析](https://leetcode-cn.com/problems/climbing-stairs/solution/dpjian-dan-shi-xian-by-luckyxutao/)
+[参考](https://zhuanlan.zhihu.com/p/30754890)
 
 ### 递归
 * 斐波那契数

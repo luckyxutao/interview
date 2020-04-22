@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/fibonacci-number.js"
+            "program": "${workspaceFolder}/src/climbing-stairs.js"
         }
     ]
 }
