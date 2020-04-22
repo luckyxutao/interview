@@ -1,6 +1,11 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 哈希表
+
+* 第一个只出现一次的字符
+[解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/tong-guo-mapjie-jue-by-luckyxutao/)
+
 ### 滑动窗口
 
 * 最长不含重复字符的子字符串

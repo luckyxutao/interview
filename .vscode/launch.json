@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/longest-substring-without-repeating-characters.js"
+            "program": "${workspaceFolder}/src/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.js"
         }
     ]
 }
