@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/string-to-integer-atoi.js"
+            "program": "${workspaceFolder}/src/longest-substring-without-repeating-characters.js"
         }
     ]
 }

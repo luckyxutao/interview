@@ -1,6 +1,15 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 滑动窗口
+
+* 最长不含重复字符的子字符串
+[解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/hua-dong-chuang-kou-jie-jue-zui-chang-zi-chuan-by-/)
+
+* 滑动窗口最大值
+[解析1](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/shuang-duan-dui-lie-shi-xian-by-luckyxutao/)
+[解析2](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
+
 
 ### 字符串
 
@@ -110,10 +119,6 @@
 
 * 最小栈
 [解析](https://leetcode-cn.com/problems/min-stack/solution/shuang-zhan-shi-xian-zui-xiao-zhan-by-luckyxutao/)
-
-* 滑动窗口最大值
-[解析1](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/shuang-duan-dui-lie-shi-xian-by-luckyxutao/)
-[解析2](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
 
 * 队列的最大值
 [解析1](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/shuang-dui-lie-shi-xian-dui-lie-de-zui-da-zhi-ii-b/)
