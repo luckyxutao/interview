@@ -83,9 +83,7 @@ function deepClone(obj, memo = new WeakMap()) {
     if (typeof obj !== 'object' || obj === null) {
         return obj;
     }
-    if (typeof obj === 'function') {
-        return obj;
-    }
+    
     if (obj instanceof Date) {
         return new Date(obj);
     }
@@ -103,21 +101,21 @@ function deepClone(obj, memo = new WeakMap()) {
 }
 
 var cc = {
-    a: 1,
+    // a: 1,
     g:function(){
         console.log('fff')
     },
-    b: {
-        c: 1,
-        h: {
-            w: 2
-        }
-    }
+    // b: {
+    //     c: 1,
+    //     h: {
+    //         w: 2
+    //     }
+    // }
 }
-cc.dup = cc;
+// cc.dup = cc;
 var g = deepClone(cc);
 
-console.log(cc.b.c)
+// console.log(cc.b.c)
 
 
 
