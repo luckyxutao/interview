@@ -25,10 +25,10 @@ function throttle(fn, delay) {
     }
 }
 
-var ff = throttle(console.log, 2000);
+var ff = throttle(console.log, 1000);
 var count=0;
 var id = setInterval(() => {
-    console.log(20, 20)
+    ff(count)
     count++;
     if(count>1000){
         clearInterval(id);
