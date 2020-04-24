@@ -1,6 +1,11 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+
+### 排序
+* 插入排序
+[源码](./src/insert_sort.js)
+
 ### 动态规划
 * 爬楼梯
 [解析](https://leetcode-cn.com/problems/climbing-stairs/solution/dpjian-dan-shi-xian-by-luckyxutao/)

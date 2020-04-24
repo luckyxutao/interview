@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/fe/server/static/call_apply_bind_new_instanceof_debounce_throttle_deepClone.js"
+            "program": "${workspaceFolder}/src/insert_sort.js"
         }
     ]
 }
