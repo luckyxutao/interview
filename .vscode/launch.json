@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/insert_sort.js"
+            "program": "${workspaceFolder}/src/linkedList/merge-two-sorted-lists.js"
         }
     ]
 }
