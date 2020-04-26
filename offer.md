@@ -14,6 +14,9 @@
 
 ### 递归
 
+* 多数元素（递归-分治法实现）
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/fen-zhi-fa-jie-da-by-luckyxutao/)、[官方解析](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
+
 * 二叉搜索树转换双向链表
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/zhong-xu-bian-li-shi-xian-by-luckyxutao/)
 * 合并两个排序的链表
