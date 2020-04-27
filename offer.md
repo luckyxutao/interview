@@ -2,7 +2,9 @@
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
 
-
+### 递归/分治
+* 最小的k个数
+[解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/kuai-su-pai-xu-shi-xian-by-luckyxutao/)
 ### 排序
 * 插入排序
 [源码](./src/insert_sort.js)

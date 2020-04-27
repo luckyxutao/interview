@@ -47,6 +47,8 @@ function swap(nums, i, j) {
     nums[j] = temp;
 }
 
-var arr = [1, 2, 8, 3, 10, 9, 4, 6];
+var arr = [3,2,4,5,6,8];
+
+// var arr = [1, 2, 8, 3, 10, 9, 4, 6];
 quickSort(arr);
 console.log(arr)
