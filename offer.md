@@ -3,6 +3,11 @@
 
 
 ### 递归/分治
+
+* 最大子序和
+[解析2](https://www.yunzhan365.com/basic/77117820.html)
+[解析](https://leetcode-cn.com/problems/maximum-subarray/solution/fen-zhi-fa-qiu-jie-by-luckyxutao/)
+
 * 最小的k个数
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/kuai-su-pai-xu-shi-xian-by-luckyxutao/)
 ### 排序

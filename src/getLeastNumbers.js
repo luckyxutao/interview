@@ -3,6 +3,7 @@
  * @param {number} k
  * @return {number[]}
  */
+//https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961587&idx=1&sn=54bf39db7043cc638315caf70f24d94b&chksm=bd2d0d2f8a5a84395246be4522d10fbfc1f744658047d5fb3fad8e9f3c3d76baab3a2ce84867&scene=0&ascene=7&devicetype=android-27&version=2607023a&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABAAjlx4AS5keAGiZHgBsmR4AAAA=&lang=zh_CN&pass_ticket=CNGHjMe4%20oqSNOfkGh8SdOJnVubfLCtVFspVUC/VdFlhJhG7YjHErceAvGAgjdxF&wx_header=1
 var getLeastNumbers = function (arr, k) {
     let topK = quickSelect(arr, 0, arr.length - 1, k);
     return arr.slice(0,k);
