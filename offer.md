@@ -6,6 +6,8 @@
 ### 排序
 * 插入排序
 [源码](./src/insert_sort.js)
+* 快速排序
+[源码](./src/quickSort.js)
 
 ### 动态规划
 * 爬楼梯
