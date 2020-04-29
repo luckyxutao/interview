@@ -144,6 +144,9 @@
 
 ### 链表
 
+* 从尾到头打印链表
+[解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/xun-huan-dui-lie-by-luckyxutao/)
+
 * 两个链表的第一个公共节点
 [解析](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/lie-biao-chang-du-chai-zhi-ji-suan-by-luckyxutao/)
 
