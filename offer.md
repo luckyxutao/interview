@@ -5,6 +5,9 @@
 * 两数之和
 [解析](https://leetcode-cn.com/problems/two-sum/solution/qiong-ju-fa-sou-suo-by-luckyxutao/)
 
+* 两数之和II
+[解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/shuang-zhi-zhen-chu-li-by-luckyxutao/)
+
 ### 递归/分治
 
 * 最大子序和
