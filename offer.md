@@ -48,6 +48,9 @@
 
 ### 滑动窗口
 
+* 和为s的连续正数序列
+[解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/shuang-zhi-zhen-hua-dong-chuang-kou-si-xiang-by-lu/) 、[解析2](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/shi-yao-shi-hua-dong-chuang-kou-yi-ji-ru-he-yong-h/)、[解析3-双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/)
+
 * 最长不含重复字符的子字符串
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/hua-dong-chuang-kou-jie-jue-zui-chang-zi-chuan-by-/)
 
