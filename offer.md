@@ -5,6 +5,7 @@
 ### 递归/分治
 
 * 最大子序和
+[解析3](https://leetcode-cn.com/problems/maximum-subarray/solution/can-kao-suan-fa-dao-lun-de-fen-zhi-suan-fa-by-ripp/)
 [解析2](https://www.yunzhan365.com/basic/77117820.html)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/fen-zhi-fa-qiu-jie-by-luckyxutao/)
 
