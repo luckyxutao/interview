@@ -2,7 +2,8 @@
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
 ### 暴力搜索
-[两数之和](https://leetcode-cn.com/problems/two-sum/solution/qiong-ju-fa-sou-suo-by-luckyxutao/)
+* 两数之和
+[解析](https://leetcode-cn.com/problems/two-sum/solution/qiong-ju-fa-sou-suo-by-luckyxutao/)
 
 ### 递归/分治
 
