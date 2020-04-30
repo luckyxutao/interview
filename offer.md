@@ -2,6 +2,8 @@
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
 ### 位运算
+* 数组中数字出现的次数
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/solution/wei-yun-suan-jie-jue-by-luckyxutao/)
 * 只出现一次的数字
 [解析](https://leetcode-cn.com/problems/single-number/solution/zhong-fu-liang-ci-shu-zu-zhong-zhao-dao-bu-zhong-f/)
 ### 暴力搜索

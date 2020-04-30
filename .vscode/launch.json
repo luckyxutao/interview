@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/single-number.js"
+            "program": "${workspaceFolder}/src/array/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.js"
         }
     ]
 }
