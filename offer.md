@@ -4,7 +4,7 @@
 ### 位运算
 * 只出现一次的数字
 [解析](https://leetcode-cn.com/problems/single-number/solution/zhong-fu-liang-ci-shu-zu-zhong-zhao-dao-bu-zhong-f/)
-### 暴力搜索
+### 暴力搜索
 * 两数之和
 [解析](https://leetcode-cn.com/problems/two-sum/solution/qiong-ju-fa-sou-suo-by-luckyxutao/)
 
