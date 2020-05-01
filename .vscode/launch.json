@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/number-of-1-bits.js"
+            "program": "${workspaceFolder}/src/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.js"
         }
     ]
 }

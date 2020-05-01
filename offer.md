@@ -3,6 +3,9 @@
 
 ### 位运算
 
+* 数组中数字出现的次数 II
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/wei-yun-suan-fang-shi-shi-xian-cha-zhao-shu-zi-by-/)
+
 * 二进制1的个数
 [官方解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/wei-1de-ge-shu-by-leetcode/)
 
