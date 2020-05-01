@@ -1,6 +1,10 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 快慢指针
+* 调整数组顺序使奇数位于偶数前面
+[解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/kuai-man-zhi-zhen-by-luckyxutao/)
+
 ### 位运算
 
 * 数组中数字出现的次数 II
