@@ -6,7 +6,8 @@
 [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/kuai-man-zhi-zhen-by-luckyxutao/)
 
 ### 位运算
-
+* 不用加减乘除做加法
+[解析](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/wei-cao-zuo-chu-li-bu-yong-yun-suan-fu-qiu-he-by-l/)
 * 数组中数字出现的次数 II
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/wei-yun-suan-fang-shi-shi-xian-cha-zhao-shu-zi-by-/)
 
