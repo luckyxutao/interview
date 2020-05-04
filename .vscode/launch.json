@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.js"
+            "program": "${workspaceFolder}/src/validate-stack-sequences.js"
         }
     ]
 }

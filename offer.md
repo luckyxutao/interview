@@ -184,6 +184,8 @@
 [解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/yong-yi-ge-zhi-zhen-zhi-xiang-qian-yi-ji-yuan-su-b/)
 
 ### 栈
+* 验证栈的压入、弹出序列
+[解析](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/li-yong-fu-zhu-zhan-yan-zheng-zhan-xu-lie-by-lucky/)
 * 用两个栈实现队列
 [路径](./src/stack/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/shuang-zhan-mo-ni-dui-lie-by-luckyxutao/)
