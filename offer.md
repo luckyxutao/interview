@@ -39,7 +39,8 @@
 [源码](./src/insert_sort.js)
 * 快速排序
 [源码](./src/quickSort.js)
-
+* 把数组排成最小的数
+[解析1](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/kuai-su-pai-xu-shi-xian-ba-shu-zu-pai-cheng-zui-xi/)、[解析2](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-s-4/)
 ### 动态规划
 * 爬楼梯
 [解析](https://leetcode-cn.com/problems/climbing-stairs/solution/dpjian-dan-shi-xian-by-luckyxutao/)
