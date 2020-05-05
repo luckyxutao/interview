@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.js"
+            "program": "${workspaceFolder}/src/nth-digit.js"
         }
     ]
 }

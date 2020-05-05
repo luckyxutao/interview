@@ -1,6 +1,10 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+### 数学
+* 数字序列中某一位的数字
+[解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-javascrip/)、[解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-6/)
+
 ### 快慢指针
 * 调整数组顺序使奇数位于偶数前面
 [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/kuai-man-zhi-zhen-by-luckyxutao/)
