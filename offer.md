@@ -2,6 +2,8 @@
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
 ### 数学
+* 构建乘积数组
+[解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/java-pythonchao-xiang-xi-jie-ti-by-yang_hang/)、[解析2](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/shuang-xun-huan-gou-jian-cheng-ji-shu-zu-by-luckyx/)
 * 数字序列中某一位的数字
 [解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-javascrip/)、[解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-6/)
 
