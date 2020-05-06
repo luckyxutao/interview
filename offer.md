@@ -101,6 +101,8 @@
 [解析](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/)
 
 ### 回溯
+* 矩阵中的路径(dfs单词搜索)
+[解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/hui-su-fa-dan-ci-sou-suo-by-luckyxutao/)
 * 字符串的全排列
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-fa-shi-xian-by-luckyxutao/)
 

@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/gou-jian-cheng-ji-shu-zu-lcof.js"
+            "program": "${workspaceFolder}/src/word-search.js"
         }
     ]
 }
