@@ -101,6 +101,8 @@
 [解析](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/er-fen-fa-shi-xian-by-luckyxutao/)
 
 ### 回溯
+* 机器人的运动范围
+[解析](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/solution/hui-su-shi-xian-ji-qi-ren-yun-dong-lu-jing-by-luck/)
 * 矩阵中的路径(dfs单词搜索)
 [解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/hui-su-fa-dan-ci-sou-suo-by-luckyxutao/)
 * 字符串的全排列

@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/word-search.js"
+            "program": "${workspaceFolder}/src/ji-qi-ren-de-yun-dong-fan-wei-lcof.js"
         }
     ]
 }
