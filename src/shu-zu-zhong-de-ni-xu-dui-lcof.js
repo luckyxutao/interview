@@ -5,6 +5,8 @@
 var reversePairs = function (num) {
     const sumObj = {count:0};
     const newArr = helper(num, 0, num.length - 1,sumObj);
+    console.log(newArr);
+    
     return sumObj.count;
 };
 
@@ -22,10 +24,13 @@ function merge(aNum, bNum,sumObj) {
     let res = [];
     while (aNum.length && bNum.length) {
         //left小
-        if (aNum[0] <= bNum[0]) {
+        if(aNum[0] > bNum[0]){
+            sumObj.count = sumObj.count + bNum.length;
             res.push(aNum.shift());
-        } else {//right小
-            sumObj.count = sumObj.count + aNum.length;
+            //等于的不算逆对，只有大于的才算
+        } else if(aNum[0] === bNum[0]){
+            res.push(bNum.shift());
+        } else {
             res.push(bNum.shift());
         }
     }
@@ -33,16 +38,19 @@ function merge(aNum, bNum,sumObj) {
 }
 
 
-console.log(reversePairs([]))
+console.log(reversePairs([1,3,2,3,1]))
 // console.log(reversePairs([7, 5, 6, 4]))
 
+// 7 5, 6 4 
+
+// 2 
+
+// 5,7   4 6
 
 
 
 
-
-
-
+// 7 
 
 
 

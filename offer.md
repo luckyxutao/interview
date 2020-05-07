@@ -33,6 +33,10 @@
 
 ### 递归/分治
 
+* 数组中的逆序对
+[解析-知乎](https://zhuanlan.zhihu.com/p/66115731)
+[题解1-官方](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/shu-zu-zhong-de-ni-xu-dui-by-leetcode-solution/)、[理解2-my](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/gui-bing-pai-xu-si-xiang-shi-xian-tong-ji-ni-xu-du/)
+
 * 最大子序和
 [解析3](https://leetcode-cn.com/problems/maximum-subarray/solution/can-kao-suan-fa-dao-lun-de-fen-zhi-suan-fa-by-ripp/)
 [解析2](https://www.yunzhan365.com/basic/77117820.html)
@@ -49,15 +53,16 @@
 [源码](./src/quickSort.js)
 * 把数组排成最小的数
 [解析1](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/kuai-su-pai-xu-shi-xian-ba-shu-zu-pai-cheng-zui-xi/)、[解析2](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-s-4/)
+
+* 多数元素（递归-分治法实现）
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/fen-zhi-fa-jie-da-by-luckyxutao/)、[官方解析](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
+
 ### 动态规划
 * 爬楼梯
 [解析](https://leetcode-cn.com/problems/climbing-stairs/solution/dpjian-dan-shi-xian-by-luckyxutao/)
 [参考](https://zhuanlan.zhihu.com/p/30754890)
 
 ### 递归
-
-* 多数元素（递归-分治法实现）
-[解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/fen-zhi-fa-jie-da-by-luckyxutao/)、[官方解析](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
 
 * 二叉搜索树转换双向链表
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/zhong-xu-bian-li-shi-xian-by-luckyxutao/)
