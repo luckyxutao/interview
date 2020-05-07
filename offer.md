@@ -43,6 +43,8 @@
 ### 排序
 * 插入排序
 [源码](./src/insert_sort.js)
+* 归并排序
+[解析](https://leetcode-cn.com/problems/sort-an-array/solution/mergesort-by-luckyxutao/)、[解析2](https://leetcode-cn.com/problems/sort-list/solution/sort-list-gui-bing-pai-xu-lian-biao-by-jyd/)
 * 快速排序
 [源码](./src/quickSort.js)
 * 把数组排成最小的数
