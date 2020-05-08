@@ -33,6 +33,8 @@
 
 ### 递归/分治
 
+* 求1+2+…+n
+[解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/li-yong-duan-lu-te-xing-lai-zhong-zhi-di-gui-by-lu/)
 * 数组中的逆序对
 [解析-知乎](https://zhuanlan.zhihu.com/p/66115731)
 [题解1-官方](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/shu-zu-zhong-de-ni-xu-dui-by-leetcode-solution/)、[理解2-my](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/gui-bing-pai-xu-si-xiang-shi-xian-tong-ji-ni-xu-du/)
