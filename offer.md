@@ -43,6 +43,9 @@
 
 ### 递归/分治
 
+* integer-break
+分治思想的解决方法往往是递归，注意到我们每次将一段绳子剪成两段时，剩下的部分可以继续剪，也可以不剪， 因此我们得到了递归函数 F(n)=max(i\times(n-i),i\times F(n-i)),i=1,2,...,n-2F(n)=max(i×(n−i),i×F(n−i)),i=1,2,...,n−2。
+[解析](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/xiang-jie-bao-li-di-gui-ji-yi-hua-ji-zhu-dong-tai-/)、[解析2](https://acm.taifua.com/archives/leetcode343.html)、[解析3](https://coordinate.wang/index.php/archives/2271/)
 * 求1+2+…+n
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/li-yong-duan-lu-te-xing-lai-zhong-zhi-di-gui-by-lu/)
 * 数组中的逆序对
