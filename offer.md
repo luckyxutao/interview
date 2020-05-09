@@ -227,7 +227,8 @@
 [解析1](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/shuang-dui-lie-shi-xian-dui-lie-de-zui-da-zhi-ii-b/)
 
 ### 数组相关
-
+* 扑克牌中的顺子
+[解析](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/bu-ke-pai-de-shun-zi-si-lu-jian-dan-by-luckyxutao/)
 * 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
 

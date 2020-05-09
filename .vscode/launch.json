@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js"
+            "program": "${workspaceFolder}/src/bu-ke-pai-zhong-de-shun-zi-lcof.js"
         }
     ]
 }
