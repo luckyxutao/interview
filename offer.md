@@ -1,10 +1,17 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
+
+
 ### 动态规划
+* 股票买卖问题
+[解析](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-by-luckyxutao/)
+
 * 最长上升子序列
 [解析](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-by-luckyxutao/)、[解析2](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/)
 ### 数学
+* 圆圈中最后剩下的数字
+[题解](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-luc/)
 * 构建乘积数组
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/java-pythonchao-xiang-xi-jie-ti-by-yang_hang/)、[解析2](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/shuang-xun-huan-gou-jian-cheng-ji-shu-zu-by-luckyx/)
 * 数字序列中某一位的数字
