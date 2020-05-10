@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/integer-break.js"
+            "program": "${workspaceFolder}/src/jian-sheng-zi-ii-lcof.js"
         }
     ]
 }

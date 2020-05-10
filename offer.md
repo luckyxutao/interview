@@ -4,6 +4,8 @@
 
 
 ### 动态规划
+* 剪绳子II
+[解析](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/solution/tan-xin-suan-fa-ge-sheng-zi-ii-by-luckyxutao/)
 * 剪绳子 
 [解析](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/dong-tai-gui-hua-shi-xian-jian-sheng-zi-by-luckyxu/)
 * 股票买卖问题
