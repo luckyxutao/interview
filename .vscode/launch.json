@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/jian-sheng-zi-ii-lcof.js"
+            "program": "${workspaceFolder}/src/li-wu-de-zui-da-jie-zhi-lcof.js"
         }
     ]
 }

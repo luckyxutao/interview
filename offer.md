@@ -4,6 +4,8 @@
 
 
 ### 动态规划
+* 礼物的最大价值
+[解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/li-wu-zui-da-de-jie-zhi-dong-tai-gui-hua-by-luckyx/)
 * 剪绳子II
 [解析](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/solution/tan-xin-suan-fa-ge-sheng-zi-ii-by-luckyxutao/)
 * 剪绳子 
