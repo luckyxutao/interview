@@ -4,6 +4,8 @@
 
 
 ### 动态规划
+* 剪绳子 
+[解析](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/dong-tai-gui-hua-shi-xian-jian-sheng-zi-by-luckyxu/)
 * 股票买卖问题
 [解析](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-by-luckyxutao/)
 
@@ -73,7 +75,7 @@
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/fen-zhi-fa-jie-da-by-luckyxutao/)、[官方解析](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
 
 ### 动态规划
-* 爬楼梯
+* 爬楼梯
 [解析](https://leetcode-cn.com/problems/climbing-stairs/solution/dpjian-dan-shi-xian-by-luckyxutao/)
 [参考](https://zhuanlan.zhihu.com/p/30754890)
 
