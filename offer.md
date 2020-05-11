@@ -20,6 +20,8 @@
 * 最长上升子序列
 [解析](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-by-luckyxutao/)、[解析2](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/)
 ### 数学
+* 丑数
+[解析](https://leetcode-cn.com/problems/ugly-number/solution/pan-duan-shi-fou-wei-chou-shu-by-luckyxutao/)
 * 圆圈中最后剩下的数字
 [题解-约瑟夫环的结论](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-luc/)
 * 构建乘积数组
