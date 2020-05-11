@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/nge-tou-zi-de-dian-shu-lcof.js"
+            "program": "${workspaceFolder}/src/find-median-from-data-stream.js"
         }
     ]
 }

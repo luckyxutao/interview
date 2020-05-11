@@ -1,7 +1,9 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
 
-
+### 系统设计
+* 数据流的中位数
+[解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
 
 ### 动态规划
 * 礼物的最大价值
