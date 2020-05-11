@@ -6,6 +6,8 @@
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
 
 ### 动态规划
+* 把数字翻译成字符串
+[解析1-递归](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/ba-shu-zi-fan-yi-cheng-zi-mu-di-gui-shi-xian-by-lu/)、[解析2-dp](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/dpshi-xian-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-by-l/)
 * 礼物的最大价值
 [解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/li-wu-zui-da-de-jie-zhi-dong-tai-gui-hua-by-luckyx/)
 * 剪绳子II
