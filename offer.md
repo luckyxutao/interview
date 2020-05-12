@@ -1,6 +1,10 @@
 
 [剑指offer系列](https://leetcode-cn.com/problemset/lcof/)
-
+### 待熟悉
+* 数字 1 的个数
+[位置](https://leetcode-cn.com/problems/number-of-digit-one/)
+* 圆圈中最后剩下的数字
+[题解-约瑟夫环的结论](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-luc/)
 ### 系统设计
 * 数据流的中位数
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
@@ -26,8 +30,7 @@
 [解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/di-nge-chou-shu-dong-tai-gui-hua-shi-xian-by-lucky/)
 * 丑数
 [解析](https://leetcode-cn.com/problems/ugly-number/solution/pan-duan-shi-fou-wei-chou-shu-by-luckyxutao/)
-* 圆圈中最后剩下的数字
-[题解-约瑟夫环的结论](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-luc/)
+
 * 构建乘积数组
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/java-pythonchao-xiang-xi-jie-ti-by-yang_hang/)、[解析2](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/shuang-xun-huan-gou-jian-cheng-ji-shu-zu-by-luckyx/)
 * 数字序列中某一位的数字
