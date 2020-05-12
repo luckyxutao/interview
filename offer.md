@@ -6,6 +6,8 @@
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
 
 ### 动态规划
+* 第N个丑数
+[解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/di-nge-chou-shu-dong-tai-gui-hua-shi-xian-by-lucky/)
 * 把数字翻译成字符串
 [解析1-递归](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/ba-shu-zi-fan-yi-cheng-zi-mu-di-gui-shi-xian-by-lu/)、[解析2-dp](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/dpshi-xian-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-by-l/)
 * 礼物的最大价值
@@ -20,6 +22,8 @@
 * 最长上升子序列
 [解析](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-by-luckyxutao/)、[解析2](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/)
 ### 数学
+* 第N个丑数
+[解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/di-nge-chou-shu-dong-tai-gui-hua-shi-xian-by-lucky/)
 * 丑数
 [解析](https://leetcode-cn.com/problems/ugly-number/solution/pan-duan-shi-fou-wei-chou-shu-by-luckyxutao/)
 * 圆圈中最后剩下的数字
