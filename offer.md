@@ -5,6 +5,8 @@
 [位置](https://leetcode-cn.com/problems/number-of-digit-one/)
 * 圆圈中最后剩下的数字
 [题解-约瑟夫环的结论](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-luc/)
+* 打印N位数字
+[打印从1到最大的n位数]
 ### 系统设计
 * 数据流的中位数
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
