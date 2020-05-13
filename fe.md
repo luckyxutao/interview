@@ -10,7 +10,7 @@
 ### js实-implement
 * [instanceof](./src/fe/server/static/instanceOf.js)
 * [call_apply_bind_new_instanceof_debounce_throttle_deepClone](./src/fe/server/static/call_apply_bind_new_instanceof_debounce_throttle_deepClone.js)
-* [继承实现](.src/fe/server/src/inherit.js)
+* [继承实现](.src/fe/src/inherit.js)
 * [promise,allSettled实现](./src/fe/server/static/promise.js)
 * [new关键字](./src/fe/server/static/new_keyword.js)
 * [bind_call&apply](./src/fe/server/static/call_apply_bind.js)
