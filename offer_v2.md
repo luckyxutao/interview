@@ -6,7 +6,9 @@
 
 
 
-
+### 数组
+* 0～n-1中缺失的数字
+[解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
 
 
 
