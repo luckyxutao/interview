@@ -1,7 +1,7 @@
 
 ### js
 * [关系型数组转换成树形结构对象](./src/fe/server/src/arrayToTree.js)
-
+* [parseUrl](./src/fe/server/src/parseUrl.js)
 # 基础
 * [call_apply_bind_new_instanceof_debounce_throttle_deepClone](./src/fe/server/static/call_apply_bind_new_instanceof_debounce_throttle_deepClone.js)
 * server
