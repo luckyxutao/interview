@@ -13,6 +13,8 @@
     * 后序
 [解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/dfs-hou-xu-bian-li-die-dai-shi-xian-by-luckyxutao/)
 * BFS遍历
+    * 面试题32 - I. 从上到下打印二叉树
+[解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/ceng-ci-bian-li-li-yong-queue-by-luckyxutao/)
 
 ### 数组
 * 0～n-1中缺失的数字
@@ -188,10 +190,10 @@
 * dfs前续遍历（递归/非递归）
 [路径](./src/binary-tree/traversal-preorder.js) -->
 
-* bfs层次遍历
+<!-- * bfs层次遍历
 从上往下打印出二叉树的每个结点，同一层的结点按照从左到右的顺序打印。
 [路径](./src/binary-tree/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/32-1-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/)
+[解析](https://liweiwei1419.github.io/sword-for-offer/32-1-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/) -->
 
 * 之字形打印二叉树
 [路径](./src/binary-tree/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js)
