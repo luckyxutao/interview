@@ -22,6 +22,22 @@
     * port
     * host
 * 热加载
+### 指纹
+* 类型
+    * hash
+    每次编译有一个文件修改hash会变，所有产出的资源hash都一样
+    * chunkhash
+    依赖本chunk修改情况，chunk所依赖的任一模拟变了，chunkhash就会变，可在MiniCssExtractPlugin配置
+    * contenthash
+    大->小
+    hash变了->chunkhash变了->contenthash没变
+* 占位符
+    * ext
+    * name
+    * path相对路径
+    * folder
+    * contenthash
+    * hash
 ### entry
 ```javascript
 module.exports = {
@@ -89,9 +105,100 @@ module.exports = {
 ### 分离css(extract)
 * mini-css-extract-plugin
 ```javascript
-new MiniCssExtractPlugin({
+rules:[{
+    test:/\.css$/,
+    use:[MiniCssExtractPlugin.loader,'css-loader']
+}]
+plugins:[new MiniCssExtractPlugin({
     filename:'[name].css',
     //main.css
-    chunkFilename:'[id].css' //异步加载时用
-})
+    // chunkFilename:'[id].css' //异步加载时用?
+})]
+```
+### 压缩js和css
+develpoment忽略，prod才会走optimization
+* uglifyjs(old)
+* terser-webpack-plugin支持es6
+* optimize-css
+```javascript
+optimization:{
+    minimizer:[ //优化插件
+        new TerserWebpackPlugin({
+            parallel:true, //多进程
+            cache:true , //缓存
+        })，
+        new OptimizeCssAssetsWebpackPlugin({
+            assetNameRegExp:/\.css$/,
+            cssProcessor:require('cssnano)
+        })
+    ]
+}
+```
+### less和sass
+```javascript
+modules:{
+    rules :[{
+        test : /\.scss$/,
+        use : [MiniCssExtractPlugin.loader,'css-loader','sass-loader']
+    }]
+}
+```
+### 处理css3属性前缀
+.browserlist文件指定兼容的版本
+postcss.config.js
+postcss作用
+    * 把css解析成AST
+    * 调用插件处理AST并生成新代码
+```
+npm i postcss-loader autoprefixer -D
+//postcss.config.js
+module.exports = {
+    plugins:[require('autoprefix)]
+}
+```
+### es6/7/8
+通过@babel/runtime来避免重复引入辅助代码
+.babelrc(JSON格式)
+* loose
+    * false 是通过Object.defineProperty定义属性的
+    * true 类属性赋值
+```javascript
+{
+    test : /\.js$/,
+    use : {
+        loader : 'babel-loader',
+        options:{
+            "presets":['@babel/preset-env','@babel/preset-react'],
+            "plugins":[
+                ['@babel/plugin-proposal-decorators',{legacy:true}],
+                ['@babel/plugin-roposal-class-properties',{loose:true}],
+                [
+                    '@babel/plugin-transform-runtime',{
+                        corejs:false,
+                        helpers:true,
+                        'regenerator':true,
+                        'useESModules:true
+                    }
+                ]
+            ]
+        }
+    }
+}
+```
+* 编译
+    @bable/core
+    @babel/loader
+    @babel/preset
+    @babel/preset-react
+* 插件
+    1. plugin-proposal-decorators
+    2. plugin-roposal-class-properties
+
+### @babel runtime
+* babel 在每个文件都插入了辅助代码，体积过大
+* babel 对一些公共方法使用 非常 小的辅助方法，_extend
+* 默认情况会加到每个文件，通过@babel/rutime作为一个独立模块，避免重复引入
+```
+npm i -D @babel/plugin-transform-runtime
+npm i -D @babel/runtime 
 ```
