@@ -1,7 +1,7 @@
 ### 排列组合(permutations)
 * 全排列
 [解析](https://leetcode-cn.com/problems/permutations/solution/shu-zu-quan-pai-lie-hui-su-fa-shi-xian-by-luckyxut/)
-* 字符串的排列(case有aab情侣)
+* 字符串的排列(case有aab重复)
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
@@ -17,6 +17,9 @@
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/ceng-ci-bian-li-li-yong-queue-by-luckyxutao/)
     * 面试题32 - II. 从上到下打印二叉树 II
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/mian-shi-ti-32-iicong-shang-dao-xia-bian-li-by-luc/)、102. 二叉树的层序遍历 [解析](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/er-cha-shu-ceng-ci-bian-li-bfs-by-luckyxutao/)
+    * 面试题32 - III. 从上到下打印二叉树 III
+[解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/solution/mian-shi-ti-32-iii-cong-shang-dao-xia-da-yin-er-9/)
+    
 ### 数组
 * 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)

@@ -17,15 +17,16 @@ var levelOrder = function (root) {
     }
     let levelSubArr = [];
     let queue = [root];
-    let res = [[root.val]];
+    let res = [];
     let cur;
     while (queue.length) {
+        //记住本层节点数量
         let len = queue.length;
         let i = 0;
+        //此处不能直接取queue.length(不是本层节点了)
         while(i<len){
             cur = queue.pop();
-            cur.left && levelSubArr.push(cur.left.val);
-            cur.right && levelSubArr.push(cur.right.val);
+            levelSubArr.push(cur.val);
             cur.left && queue.unshift(cur.left)
             cur.right && queue.unshift(cur.right)
             i++;
