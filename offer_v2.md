@@ -4,6 +4,10 @@
 * 字符串的排列(case有aab情侣)
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
+### 二叉树
+* 前序遍历
+[解析-迭代](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/dfsqian-duan-bian-li-die-dai-shi-xian-by-luckyxuta/)、[解析-递归](./src/v2/binary-tree-preorder-traversal.js)
+
 
 
 ### 数组
