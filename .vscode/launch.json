@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/que-shi-de-shu-zi-lcof.js"
+            "program": "${workspaceFolder}/src/fe/server/src/arr-lianxu.js"
         }
     ]
 }
