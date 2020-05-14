@@ -5,10 +5,12 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
-* 前序遍历
+* DFS遍历
+    * 前序
 [解析-迭代](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/dfsqian-duan-bian-li-die-dai-shi-xian-by-luckyxuta/)、[解析-递归](./src/v2/binary-tree-preorder-traversal.js)
-
-
+    * 中序
+[解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
+    
 
 ### 数组
 * 0～n-1中缺失的数字
