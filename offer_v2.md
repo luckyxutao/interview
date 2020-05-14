@@ -10,7 +10,9 @@
 [解析-迭代](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/dfsqian-duan-bian-li-die-dai-shi-xian-by-luckyxuta/)、[解析-递归](./src/v2/binary-tree-preorder-traversal.js)
     * 中序
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
-    
+    * 后序
+[解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/dfs-hou-xu-bian-li-die-dai-shi-xian-by-luckyxutao/)
+* BFS遍历
 
 ### 数组
 * 0～n-1中缺失的数字
@@ -177,14 +179,14 @@
 
 ### 二叉树相关
 
-* dfs后续遍历（递归/非递归）
+<!-- * dfs后续遍历（递归/非递归）
 [路径](./src/binary-tree/traversal-postorder.js)
 
 * dfs中续遍历（递归/非递归）
 [路径](./src/binary-tree/traversal-inorder.js)
 
 * dfs前续遍历（递归/非递归）
-[路径](./src/binary-tree/traversal-preorder.js)
+[路径](./src/binary-tree/traversal-preorder.js) -->
 
 * bfs层次遍历
 从上往下打印出二叉树的每个结点，同一层的结点按照从左到右的顺序打印。
