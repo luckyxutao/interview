@@ -1,7 +1,7 @@
 ### 排列组合(permutations)
 * 全排列
 [解析](https://leetcode-cn.com/problems/permutations/solution/shu-zu-quan-pai-lie-hui-su-fa-shi-xian-by-luckyxut/)
-* 字符串的排列(case有aab重复)
+* 面试题38. 字符串的排列(case有aab重复)
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
