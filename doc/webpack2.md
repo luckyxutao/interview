@@ -66,10 +66,4 @@ source-map工作原理(面试题)
 * eval包裹执行，性能最好，
     * why eval?
     Perfect SourceMaps are slow
-
-//# sourceURL=webpack://''
-* 
-```
-source-map
-
-```
+* 实现一个sourcemap

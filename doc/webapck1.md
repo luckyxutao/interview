@@ -93,11 +93,12 @@ module.exports = {
 将图片\字体等资源，拷贝到output目录，返回文件路径
 * url-loader
 当图片小于limit的时候会把图片BASE64编码，大于limit参数的时候还是使用file-loader 进行拷贝
-
+* image-webpack-loader
+压缩图片
 ```javascript
 {
     test:/\.(jpg|png)$/,
-    use : ['file-loader']
+    use : ['file-loader']'
 }
 ```
 * url-loader
@@ -135,6 +136,7 @@ optimization:{
 }
 ```
 ### less和sass
+purgecss-webpack-plugin去掉重复css
 ```javascript
 modules:{
     rules :[{
