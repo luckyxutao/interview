@@ -5,6 +5,8 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
+* 面试题28. 对称的二叉树
+[解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyxut/)
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/fan-zhuan-er-cha-shu-bfs-by-luckyxutao/)
 * DFS遍历

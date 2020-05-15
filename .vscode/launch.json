@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js"
+            "program": "${workspaceFolder}/src/v2/symmetric-tree.js"
         }
     ]
 }
