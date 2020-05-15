@@ -6,7 +6,7 @@
 
 ### 二叉树
 * 面试题55 - II. 平衡二叉树
-[解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyxut/)
+[解析](https://www.youtube.com/watch?v=Be5CUodZliM)、[解析2](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyx-2/)、[解析3](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyxut/)
 * 面试题55 - I. 二叉树的深度
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-by-luckyxut/)
 * 面试题28. 对称的二叉树
