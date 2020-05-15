@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/maximum-depth-of-binary-tree.js"
+            "program": "${workspaceFolder}/src/v2/balanced-binary-tree.js"
         }
     ]
 }
