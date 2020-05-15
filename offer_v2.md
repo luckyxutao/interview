@@ -23,7 +23,9 @@
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/mian-shi-ti-32-iicong-shang-dao-xia-bian-li-by-luc/)、102. 二叉树的层序遍历 [解析](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/er-cha-shu-ceng-ci-bian-li-bfs-by-luckyxutao/)
     * 面试题32 - III. 从上到下打印二叉树 III
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/solution/mian-shi-ti-32-iii-cong-shang-dao-xia-da-yin-er-9/)
-    
+* 回溯
+    * 面试题34. 二叉树中和为某一值的路径
+[解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-12/)
 ### 数组
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
