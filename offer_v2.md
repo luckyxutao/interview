@@ -205,41 +205,15 @@
 
 ### 二叉树相关
 
-* 对称的二叉树
-[路径](./src/binary-tree/dui-cheng-de-er-cha-shu-lcof.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/28-%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/)
-
-* 二叉树的深度
-[路径](./src/binary-tree/er-cha-shu-de-shen-du-lcof.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/55-1-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6/)
-
 * (基于前序/中序)重建二叉树
 [路径](./src/binary-tree/zhong-jian-er-cha-shu-lcof.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/07-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/)
 
-* 二叉搜索树，请找出其中第k大的节点
-[路径](./src/binary-tree/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/54-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9/)
-
-* 给定一个二叉树，判断它是否是高度平衡的二叉树。
-[路径](./src/binary-tree/balanced-binary-tree.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
 
 * 二叉搜索树的后序遍历序列
 [路径](./src/binary-tree/balanced-binary-tree.js)
 [解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
 
-* 二叉树中和为某一值的路径
-[路径](./src/binary-tree/path-sum-ii.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/55-2-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)
-
-*  二叉搜索树的最近公共祖先
-[路径](./src/binary-tree/lowestCommonAncestor.js)
-[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-
-*  二叉树的最近公共祖先
-[路径](./src/binary-tree/lowest-common-ancestor-of-a-binary-tree.js)
-[解析](https://liweiwei1419.github.io/sword-for-offer/68-%E6%A0%91%E4%B8%AD%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/)
 
 *   树的子结构
 [路径](./src/binary-tree/shu-de-zi-jie-gou-lcof.js)
