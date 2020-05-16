@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js"
+            "program": "${workspaceFolder}/src/v2/construct-binary-tree-from-preorder-and-inorder-traversal.js"
         }
     ]
 }
