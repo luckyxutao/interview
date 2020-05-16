@@ -5,9 +5,8 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
-* 面试题68 - II. 二叉树的最近公共祖先
-[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-luc/)
-* 面试题68 - I. 二叉搜索树的最近公共祖先
+* BST(二叉搜索树)
+    * 面试题68 - I. 二叉搜索树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-15/)
 * 面试题55 - II. 平衡二叉树
 [解析](https://www.youtube.com/watch?v=Be5CUodZliM)、[解析2](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyx-2/)、[解析3](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyxut/)
@@ -25,6 +24,8 @@
     * 后序
 [解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/dfs-hou-xu-bian-li-die-dai-shi-xian-by-luckyxutao/)
 * BFS遍历
+    * 面试题54. 二叉搜索树的第k大节点
+[解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-kda-jie--7/)
     * 面试题32 - I. 从上到下打印二叉树
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/ceng-ci-bian-li-li-yong-queue-by-luckyxutao/)
     * 面试题32 - II. 从上到下打印二叉树 II
@@ -34,6 +35,8 @@
 * 回溯
     * 面试题34. 二叉树中和为某一值的路径
 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-12/)
+    * 面试题68 - II. 二叉树的最近公共祖先
+[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-luc/)
 ### 数组
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
