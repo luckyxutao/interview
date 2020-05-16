@@ -5,6 +5,8 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ### 二叉树
+* 面试题68 - I. 二叉搜索树的最近公共祖先
+[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--15/)
 * 面试题55 - II. 平衡二叉树
 [解析](https://www.youtube.com/watch?v=Be5CUodZliM)、[解析2](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyx-2/)、[解析3](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyxut/)
 * 面试题55 - I. 二叉树的深度
