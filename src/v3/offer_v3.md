@@ -97,42 +97,7 @@ var levelOrder = function(root) {
 };
 ```
 ### [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
-* 实现
-```javascript
-/**
- * Definition for a binary tree node.
- * function TreeNode(val) {
- *     this.val = val;
- *     this.left = this.right = null;
- * }
- */
-/**
- * @param {TreeNode} root
- * @return {number[][]}
- */
-var levelOrder = function (root) {
-    let res = [];
-    if (!root) {
-        return res;
-    }
-    /*
-        1. 利用队列先进先出
-    */
-   let queue = [root];
-   let cur;
-   while (queue.length) {
-        cur = queue.pop();
-        res.push(cur.val);
-        //队列，FIFO，先进left,后进right
-        cur.left && queue.unshift(cur.left);
-        cur.right && queue.unshift(cur.right);
-   }
-   return res;
-};
-
-const constructTreeFromArray = require('../lib/constructTreeFromArray');
-console.log(levelOrder(constructTreeFromArray([1, 2, 3, 4, 5, 6, 7])));
-```
+* [实现](./binary-tree-level-order-traversal.js)
 ### [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-by-luckyxutao/)
 * 思路
     1. 目标: 左-右-中
