@@ -2,6 +2,8 @@
 * 树的遍历
 DFS是利用stack，BFS利用的是queue
 ### BFS遍历
+* 面试题54. 二叉搜索树的第k大节点
+[解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-kda-jie--7/)
 * [面试题32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) [[解析]](./cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.js)
 * [面试题32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/submissions/) [[解析]](./cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
 * [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) [[解析]](./binary-tree-level-order-traversal.js)
