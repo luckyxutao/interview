@@ -99,7 +99,7 @@ var preorderTraversal = function(root) {
     return res;
 };
 ```
-### [94. 二叉树的中序遍历]((https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/))
+### [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
 * 思路
     1. 利用栈，每个节点先将该左孩子都推入栈
     2. 从左叶子节点开始出栈
