@@ -1,5 +1,6 @@
 ## 二叉树
-
+* 面试题28. 对称的二叉树(递归/迭代)
+[解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-di-gui-die-/)
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/mian-shi-ti-27-er-cha-shu-de-jing-xiang-by-luckyxu/)
 ### BFS遍历
