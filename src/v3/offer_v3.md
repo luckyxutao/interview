@@ -1,8 +1,44 @@
 ## 二叉树
 * 树的遍历
 DFS是利用stack，BFS利用的是queue
-### 145. 二叉树的后序遍历
-* [题解](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-by-luckyxutao/)
+### [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+* 实现
+```javascript
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number[][]}
+ */
+var levelOrder = function (root) {
+    let res = [];
+    if (!root) {
+        return res;
+    }
+    /*
+        1. 利用队列先进先出
+    */
+   let queue = [root];
+   let cur;
+   while (queue.length) {
+        cur = queue.pop();
+        res.push(cur.val);
+        //队列，FIFO，先进left,后进right
+        cur.left && queue.unshift(cur.left);
+        cur.right && queue.unshift(cur.right);
+   }
+   return res;
+};
+
+const constructTreeFromArray = require('../lib/constructTreeFromArray');
+console.log(levelOrder(constructTreeFromArray([1, 2, 3, 4, 5, 6, 7])));
+```
+### [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-by-luckyxutao/)
 * 思路
     1. 目标: 左-右-中
     2. reverse(前序遍历(先右)) = 左-右-中
@@ -42,8 +78,7 @@ var postorderTraversal = function(root) {
     return res;
 };
 ```
-### 144. 二叉树的前序遍历
-* [解析](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao/)
+### [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao/)
 * 思路
     1. 利用了栈的特性，将左、右节点一直入栈，先push右后push左
 * 实现
@@ -64,8 +99,7 @@ var preorderTraversal = function(root) {
     return res;
 };
 ```
-### 94. 二叉树的中序遍历
-* [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
+### [94. 二叉树的中序遍历]((https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/))
 * 思路
     1. 利用栈，每个节点先将该左孩子都推入栈
     2. 从左叶子节点开始出栈
