@@ -1,6 +1,7 @@
 ## 二叉树
-* 树的遍历
-DFS是利用stack，BFS利用的是queue
+
+* 面试题27. 二叉树的镜像
+[解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/mian-shi-ti-27-er-cha-shu-de-jing-xiang-by-luckyxu/)
 ### BFS遍历
 * 面试题54. 二叉搜索树的第k大节点
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-kda-jie--7/)
