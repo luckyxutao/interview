@@ -60,5 +60,5 @@ function isSubStructureHelper(A, B) {
 }
 const constructTreeFromArray = require('../lib/constructTreeFromArray');
 let treeA = constructTreeFromArray([4, 2, 3, 4, 5, 6, 7, 8, 9]);
-let treeB = constructTreeFromArray([4, 1]);
+let treeB = constructTreeFromArray([4, 8,9]);
 console.log(isSubStructure(treeA, treeB));

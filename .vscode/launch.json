@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/shu-de-zi-jie-gou-lcof.js"
+            "program": "${workspaceFolder}/src/v3/binary-tree-inorder-traversal.js"
         }
     ]
 }

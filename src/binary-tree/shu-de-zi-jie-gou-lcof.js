@@ -56,5 +56,7 @@ function dfsHelper(A,B){
 // console.log(result);
 
 
-var rr = constructTreeFromArray([5, 4, 7, 3, null, 2, null, -1, null, 9]);
-debugger
+// const constructTreeFromArray = require('../lib/constructTreeFromArray');
+let treeA = constructTreeFromArray([4,2,3,4,5,6,7,8,9]);
+let treeB = constructTreeFromArray([4,8,9]);
+console.log(isSubStructure(treeA, treeB));
