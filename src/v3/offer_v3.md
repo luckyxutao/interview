@@ -3,7 +3,7 @@
 DFS是利用stack，BFS利用的是queue
 ### [面试题32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 * 思路
-    1.和水平打印题思路相同，区别在于往tempArr放的顺序
+    1. 和水平打印题思路相同，区别在于往tempArr放的顺序
     2. 用一个变量记录奇偶
 * 实现
 ```javascript
