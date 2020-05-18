@@ -2,9 +2,12 @@
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/mian-shi-ti-53-ii-0n-1zhong-que-shi-de-shu-zi-by-4/)
 
+## 回溯法
+* 面试题38. 字符串的排列(回溯法）
+[解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
 
 ## 二叉树
-### backtracking
+### 回溯法
 * 面试题68 - II. 二叉树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-2/)
 * 面试题34. 二叉树中和为某一值的路径
