@@ -6,9 +6,6 @@
 * 面试题38. 字符串的排列(回溯法）
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
 
-## 数组
-* 面试题03. 数组中重复的数字
-[解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 
 ## 二叉树
 ### 回溯法

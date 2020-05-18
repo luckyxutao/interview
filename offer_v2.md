@@ -1,3 +1,8 @@
+### 数组
+* 面试题03. 数组中重复的数字
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
+
+
 ### 排列组合(permutations)
 * 全排列
 [解析](https://leetcode-cn.com/problems/permutations/solution/shu-zu-quan-pai-lie-hui-su-fa-shi-xian-by-luckyxut/)
