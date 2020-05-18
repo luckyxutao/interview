@@ -5,6 +5,8 @@
 * 面试题34. 二叉树中和为某一值的路径
 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-13/)
 ### 未归类（递归）
+* 面试题07. 重建二叉树
+[解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxut-2/)
 * 面试题68 - I. 二叉搜索树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--15/)
 * 面试题55 - II. 平衡二叉树(自顶向下/自底向上)
