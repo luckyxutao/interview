@@ -1,3 +1,8 @@
+### 二分查找
+* 面试题53 - II. 0～n-1中缺失的数字
+[解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/mian-shi-ti-53-ii-0n-1zhong-que-shi-de-shu-zi-by-4/)
+
+
 ## 二叉树
 ### backtracking
 * 面试题68 - II. 二叉树的最近公共祖先
