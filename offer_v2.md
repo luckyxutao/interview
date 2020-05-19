@@ -1,11 +1,15 @@
+### 链表
+* 面试题06. 从尾到头打印链表(递归/迭代)
+[解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-23/)
 ### 数组
+* 面试题53 - I. 在排序数组中查找数字 I
+[遍历](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-14/)
 * 54. 螺旋矩阵-sb解法
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/54-luo-xuan-ju-zhen-sbjie-fa-by-luckyxutao/)
 * 面试题04. 二维数组中的查找
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-b-3/)
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
-
 
 ### 排列组合(permutations)
 * 全排列
