@@ -1,4 +1,8 @@
 ### 数组
+* 54. 螺旋矩阵-sb解法
+[解析](https://leetcode-cn.com/problems/spiral-matrix/solution/54-luo-xuan-ju-zhen-sbjie-fa-by-luckyxutao/)
+* 面试题04. 二维数组中的查找
+[解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-b-3/)
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 
