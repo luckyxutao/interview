@@ -20,7 +20,7 @@
     *   右侧小于或等于
         1.1 小于呢也要包含在下次搜索
         1.2 等于的话 hi 减1
-可能是最终结果，也可能不是，当前无法判断，下次搜索需要包含mid`
+可能是最终结果，也可能不是，当前无法判断，下次搜索需要包含mid
 
 * 704. 二分查找
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao/)
