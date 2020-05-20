@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/cong-wei-dao-tou-da-yin-lian-biao-lcof.js"
+            "program": "${workspaceFolder}/src/v2/find-minimum-in-rotated-sorted-array-ii.js"
         }
     ]
 }

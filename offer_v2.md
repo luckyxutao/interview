@@ -1,9 +1,23 @@
+### 二分查找
+二分思想
+
+* 面试题11. 旋转数组的最小数字[[解析]](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-sh-20/)
+    *   `下次搜索区间是否需要排除mid`
+    *   本题左侧大于则需要排除mid
+    *   右侧小于或等于
+        1.1 小于呢也要包含在下次搜索
+        1.2 等于的话 hi 减1
+可能是最终结果，也可能不是，当前无法判断，下次搜索需要包含mid`
+
+* 704. 二分查找
+[解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao/)
+
 ### 链表
 * 面试题06. 从尾到头打印链表(递归/迭代)
 [解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-23/)
 ### 数组
 * 面试题53 - I. 在排序数组中查找数字 I
-[遍历](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-14/)
+[遍历](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-15/)
 * 54. 螺旋矩阵-sb解法
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/54-luo-xuan-ju-zhen-sbjie-fa-by-luckyxutao/)
 * 面试题04. 二维数组中的查找
