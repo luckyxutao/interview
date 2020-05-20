@@ -1,6 +1,19 @@
-### 二分查找
-二分思想
+### 哈希map
+* 面试题50. 第一个只出现一次的字符
+[解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
+### 数学
+* 面试题10- I. 斐波那契数列
+[解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-3chong-fu-za/)
 
+### 链表
+* 面试题18. 删除链表的节点
+[解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-l/)
+
+### 字符串
+* 面试题05. 替换空格-迭代
+[解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/mian-shi-ti-05-ti-huan-kong-ge-die-dai-by-luckyxut/)
+
+### 二分查找
 * 面试题11. 旋转数组的最小数字[[解析]](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-sh-20/)
     *   `下次搜索区间是否需要排除mid`
     *   本题左侧大于则需要排除mid
