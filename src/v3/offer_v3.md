@@ -5,7 +5,8 @@
 ### 二维矩阵
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
-
+* 面试题29. 顺时针打印矩阵(思路简单易理解)
+[解析](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-si-lu-/)
 
 ### 二分查找
 * 面试题53 - I. 在排序数组中查找数字 I
