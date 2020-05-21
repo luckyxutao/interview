@@ -1,3 +1,12 @@
+### 双指针
+* 面试题04. 二维数组中的查找(双指针)
+[解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
+
+### 二维矩阵
+* 面试题04. 二维数组中的查找(双指针)
+[解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
+
+
 ### 二分查找
 * 面试题53 - I. 在排序数组中查找数字 I
 [解析](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-16/)

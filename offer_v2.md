@@ -1,3 +1,5 @@
+
+
 ### 双指针
 * 未归类
     * 面试题52. 两个链表的第一个公共节点(`双指针a、b分别指向两个链表，对齐了再比`)
@@ -8,6 +10,8 @@
     * [26. 删除排序数组中的重复项]
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xia-57/)
 * 左右指针
+    * 面试题04. 二维数组中的查找(双指针)
+[解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
     * 面试题21. 调整数组顺序使奇数位于偶数前面
     [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/mian-shi-ti-21-diao-zheng-shu-zu-shun-xu-shi-qi-11/)
     * 面试题57. 和为s的两个数字
@@ -106,4 +110,7 @@
 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-12/)
     * 面试题68 - II. 二叉树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-luc/)
-### 数组
+### 二维矩阵
+* 面试题04. 二维数组中的查找(双指针)
+[解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
+
