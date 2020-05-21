@@ -13,6 +13,8 @@
     * 面试题57. 和为s的两个数字
     [解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-shuang-z/)
 ### 哈希map
+* 面试题03. 数组中重复的数字
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 * 面试题50. 第一个只出现一次的字符
 [解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
 ### 动态规划
@@ -32,6 +34,8 @@
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/mian-shi-ti-05-ti-huan-kong-ge-die-dai-by-luckyxut/)
 
 ### 二分查找
+* 面试题53 - II. 0～n-1中缺失的数字
+[解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
 * 面试题11. 旋转数组的最小数字[[解析]](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-sh-20/)
     *   `下次搜索区间是否需要排除mid`
     *   本题左侧大于则需要排除mid
@@ -103,5 +107,3 @@
     * 面试题68 - II. 二叉树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-luc/)
 ### 数组
-* 面试题53 - II. 0～n-1中缺失的数字
-[解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
