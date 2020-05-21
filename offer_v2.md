@@ -1,4 +1,7 @@
 ### 双指针
+* 未归类
+    * 面试题52. 两个链表的第一个公共节点(`双指针a、b分别指向两个链表，对齐了再比`)
+    [解析](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/mian-shi-ti-52-liang-ge-lian-biao-de-di-yi-ge-g-12/)
 * 快慢指针
     * 面试题22. 链表中倒数第k个节点
     [解析](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution/mian-shi-ti-22-lian-biao-zhong-dao-shu-di-kge-j-30/)
