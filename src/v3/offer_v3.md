@@ -2,10 +2,12 @@
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/mian-shi-ti-53-ii-0n-1zhong-que-shi-de-shu-zi-by-4/)
 
-## 回溯法
+### 回溯法
 * 面试题38. 字符串的排列(回溯法）
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
-
+### 链表
+* 面试题06. 从尾到头打印链表
+[解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-24/)
 
 ## 二叉树
 ### 回溯法
