@@ -2,7 +2,7 @@
 * 快慢指针
     * 面试题22. 链表中倒数第k个节点
     [解析](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution/mian-shi-ti-22-lian-biao-zhong-dao-shu-di-kge-j-30/)
-    * 26. 删除排序数组中的重复项
+    * [26. 删除排序数组中的重复项]
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xia-57/)
 * 左右指针
     * 面试题21. 调整数组顺序使奇数位于偶数前面
