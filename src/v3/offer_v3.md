@@ -1,3 +1,7 @@
+## 动态规划
+* 面试题10- I. 斐波那契数列
+[解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-by-luckyxuta/)
+
 ## 双指针
 ### 左右指针
 * 面试题11. 旋转数组的最小数字
