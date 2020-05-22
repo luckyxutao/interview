@@ -5,22 +5,24 @@
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)、[解析2](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/jian-er-zhi-zhi-er-fen-cha-zhao-by-liweiwei1419-3/)
 
-### 二维矩阵
+## 二维矩阵
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
 * 面试题29. 顺时针打印矩阵(思路简单易理解)
 [解析](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-si-lu-/)
 
-### 二分查找
+## 二分查找
 * 面试题53 - I. 在排序数组中查找数字 I
 [解析](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-16/)
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/mian-shi-ti-53-ii-0n-1zhong-que-shi-de-shu-zi-by-4/)
 
-### 回溯法
+## 回溯法
 * 面试题38. 字符串的排列(回溯法）
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
-### 链表
+## 链表
+* 面试题18. 删除链表的节点
+[解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-3/)
 * 面试题06. 从尾到头打印链表
 [解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-24/)
 
