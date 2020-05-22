@@ -1,4 +1,9 @@
+
 ### 滑动窗口
+* 面试题59 - I. 滑动窗口的最大值
+[解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
+* 面试题57 - II. 和为s的连续正数序列
+[解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu--18/)
 * 面试题48. 最长不含重复字符的子字符串
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-2/)
 
@@ -72,15 +77,14 @@
 * 面试题38. 字符串的排列(case有aab重复)
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
-### 二叉树
+## 二叉树
+### 分治法
+* 面试题33. 二叉搜索树的后序遍历序列
+[解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-16/)
+* 面试题07. 重建二叉树
+[解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxutao/)
 * 面试题26. 树的子结构
 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao/)
-* 重建二叉树
-    * 面试题07. 重建二叉树
-[解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxutao/)
-* BST(二叉搜索树)
-    * 面试题68 - I. 二叉搜索树的最近公共祖先
-[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-15/)
 * 面试题55 - II. 平衡二叉树
 [解析](https://www.youtube.com/watch?v=Be5CUodZliM)、[解析2](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyx-2/)、[解析3](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-by-luckyxut/)
 * 面试题55 - I. 二叉树的深度
@@ -89,8 +93,12 @@
 [解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyxut/)
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/fan-zhuan-er-cha-shu-bfs-by-luckyxutao/)
-* DFS遍历
-    * 前序
+### BST(二叉搜索树)
+* 面试题68 - I. 二叉搜索树的最近公共祖先
+[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-15/)
+
+### DFS遍历
+* 前序
 [解析-迭代](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/dfsqian-duan-bian-li-die-dai-shi-xian-by-luckyxuta/)、[解析-递归](./src/v2/binary-tree-preorder-traversal.js)
     * 中序
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
