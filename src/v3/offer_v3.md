@@ -1,4 +1,12 @@
+## 哈希表
+* 面试题50. 第一个只出现一次的字符
+[地址](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+## 字符串
+* 面试题05. 替换空格
+[解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 ## 动态规划
+* 面试题10- II. 青蛙跳台阶问题
+[解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 * 面试题10- I. 斐波那契数列
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-by-luckyxuta/)
 
