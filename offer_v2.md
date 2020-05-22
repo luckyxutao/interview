@@ -39,6 +39,8 @@
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-3chong-fu-za/)
 
 ### 链表
+* 面试题25. 合并两个排序的链表
+[解析](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/solution/mian-shi-ti-25-he-bing-liang-ge-pai-xu-de-lian--10/)
 * 面试题24. 反转链表
 [解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/mian-shi-ti-24-fan-zhuan-lian-biao-by-luckyxutao/)
 * 面试题18. 删除链表的节点
