@@ -37,6 +37,8 @@
 * 面试题38. 字符串的排列(回溯法）
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
 ## 链表
+* 面试题22. 链表中倒数第k个节点
+[解析](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution/mian-shi-ti-22-lian-biao-zhong-dao-shu-di-kge-j-32/)
 * 面试题24. 反转链表
 [解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/mian-shi-ti-24-fan-zhuan-lian-biao-by-luckyxutao-2/)
 * 面试题18. 删除链表的节点
