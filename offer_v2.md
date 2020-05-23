@@ -38,6 +38,8 @@
     * 面试题57. 和为s的两个数字
     [解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-shuang-z/)
 ## 哈希map
+* 141. 环形链表(map)
+[解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-map-by-luckyxutao/)
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 * 面试题50. 第一个只出现一次的字符
