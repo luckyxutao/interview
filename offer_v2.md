@@ -1,9 +1,13 @@
-### 二维矩阵
+## 栈/队列
+* 面试题09. 用两个栈实现队列
+[解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui-13/)
+
+## 二维矩阵
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
 
 
-### 滑动窗口
+## 滑动窗口
 * 面试题59 - I. 滑动窗口的最大值
 [解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
 * 面试题57 - II. 和为s的连续正数序列
@@ -11,9 +15,9 @@
 * 面试题48. 最长不含重复字符的子字符串
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-2/)
 
-### 双指针
+## 双指针
 * 未归类
-    * 面试题52. 两个链表的第一个公共节点(`双指针a、b分别指向两个链表，对齐了再比`)
+* 面试题52. 两个链表的第一个公共节点(`双指针a、b分别指向两个链表，对齐了再比`)
     [解析](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/mian-shi-ti-52-liang-ge-lian-biao-de-di-yi-ge-g-12/)
 * 快慢指针
     * 面试题22. 链表中倒数第k个节点
@@ -29,18 +33,18 @@
     [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/mian-shi-ti-21-diao-zheng-shu-zu-shun-xu-shi-qi-11/)
     * 面试题57. 和为s的两个数字
     [解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-shuang-z/)
-### 哈希map
+## 哈希map
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 * 面试题50. 第一个只出现一次的字符
 [解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
-### 动态规划
+## 动态规划
 * 面试题10- II. 青蛙跳台阶问题
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solution/mian-shi-ti-10-ii-qing-wa-tiao-tai-jie-wen-ti-by-6/)
 * 面试题10- I. 斐波那契数列
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-3chong-fu-za/)
 
-### 链表
+## 链表
 * 面试题25. 合并两个排序的链表
 [解析](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/solution/mian-shi-ti-25-he-bing-liang-ge-pai-xu-de-lian--10/)
 * 面试题24. 反转链表
@@ -48,11 +52,11 @@
 * 面试题18. 删除链表的节点
 [解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-l/)
 
-### 字符串
+## 字符串
 * 面试题05. 替换空格-迭代
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/mian-shi-ti-05-ti-huan-kong-ge-die-dai-by-luckyxut/)
 
-### 二分查找
+## 二分查找
 * 面试题53 - II. 0～n-1中缺失的数字
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/er-fen-cha-zhao-fa-si-lu-qing-xi-by-luckyxutao/)
 * 面试题11. 旋转数组的最小数字[[解析]](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-sh-20/)
@@ -66,10 +70,10 @@
 * 704. 二分查找
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao/)
 
-### 链表
+## 链表
 * 面试题06. 从尾到头打印链表(递归/迭代)
 [解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-23/)
-### 数组
+## 数组
 * 面试题53 - I. 在排序数组中查找数字 I
 [遍历](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-15/)
 * 54. 螺旋矩阵-sb解法
@@ -79,7 +83,7 @@
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 
-### 排列组合(permutations)
+## 排列组合(permutations)
 * 全排列
 [解析](https://leetcode-cn.com/problems/permutations/solution/shu-zu-quan-pai-lie-hui-su-fa-shi-xian-by-luckyxut/)
 * 面试题38. 字符串的排列(case有aab重复)
