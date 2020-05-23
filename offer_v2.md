@@ -112,6 +112,8 @@
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/)
     * 后序
 [解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/dfs-hou-xu-bian-li-die-dai-shi-xian-by-luckyxutao/)
+    * 589. N叉树的前序遍历
+[解析](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversa)
 * BFS遍历
     * 199. 二叉树的右视图
 [解析](https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/199-er-cha-shu-de-you-shi-tu-by-luckyxutao/)
