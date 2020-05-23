@@ -12,6 +12,8 @@
 
 ## 双指针
 ### 左右指针
+* 面试题57. 和为s的两个数字
+[解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-by-lucky/)
 * 面试题11. 旋转数组的最小数字
 [解析](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-sh-21/)
 * 面试题04. 二维数组中的查找(双指针)
