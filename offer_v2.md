@@ -1,4 +1,6 @@
 ## 栈/队列
+* 面试题30. 包含min函数的栈
+[解析](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/solution/mian-shi-ti-30-bao-han-minhan-shu-de-zhan-by-lucky/)
 * 面试题09. 用两个栈实现队列
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui-13/)
 
