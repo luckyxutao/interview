@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.js"
+            "program": "${workspaceFolder}/src/v2/MaxQueue.js"
         }
     ]
 }
