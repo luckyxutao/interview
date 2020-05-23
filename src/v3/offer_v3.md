@@ -11,6 +11,9 @@
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-by-luckyxuta/)
 
 ## 双指针
+### 快慢指针
+* 26. 删除排序数组中的重复项
+[解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xia-58/)
 ### 左右指针
 * 面试题21. 调整数组顺序使奇数位于偶数前面
 [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/mian-shi-ti-21-diao-zheng-shu-zu-shun-xu-shi-qi-12/)
