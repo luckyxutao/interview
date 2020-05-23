@@ -57,6 +57,8 @@
 [解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-l/)
 
 ## 字符串
+* `面试题58 - II. 左旋转字符串`(余数)
+[解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/mian-shi-ti-58-ii-zuo-xuan-zhuan-zi-fu-chuan-by-lu/)
 * 面试题58 - I. 翻转单词顺序
 [解析](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-by-luckyxut/)
 * 面试题05. 替换空格-迭代

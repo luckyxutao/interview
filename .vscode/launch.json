@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/reverseWords.js"
+            "program": "${workspaceFolder}/src/v2/rotateStr.js"
         }
     ]
 }
