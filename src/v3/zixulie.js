@@ -1,40 +1,29 @@
 /**
- * @param {string} s
- * @return {number}
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number[]}
  */
-var lengthOfLongestSubstring = function(s) {
-    if(!s){
-        return s;
-    }
+var maxSlidingWindow = function(nums, k) {
 
-    let i = 0, j = 0;
-    let maxLen = 0;
+    let hi = 0;
+    let resMax = [];
     //win信息
-    let winCount = {
-        // a:1,
-        // b:2
-        // c:1
-    }
+    let winArr = [];
     //win结束
-    while(j<s.length){
-        /*
-            先加入窗口
-        */
-        let char = s.charAt(j);
-        winCount[char] = (winCount[char]||0) +1
-        j++;//本来是等于0的，走到加加后，变+1了
-
+    //右边快，会先到length
+    while(hi<nums.length){
+        //新新元素放入窗口
+        winArr.push(nums[hi]);
+        hi++;
+        //后边用时要注意
         //检查窗口
-        while(winCount[char]>1){
-            //调整左侧,最左边
-            let leftChar = s.charAt(i);
-            winCount[leftChar]--;
-            i++;
+        while(winArr.length > k){
+            winArr.shift();
         }
-        //调整完毕，挪完窗口后，j++了，移到下一位置了
-        maxLen = Math.max(maxLen,j-i);
+        if(winArr.length == k){
+            resMax.push(Math.max.apply(null,winArr));
+        }
     }
-    return maxLen;
+    return resMax;
 };
-
-lengthOfLongestSubstring('abcabcbb')
+console.log(maxSlidingWindow([1,3,-1,-3,5,3,6,7],3))
