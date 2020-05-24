@@ -41,6 +41,7 @@ var treeToDoublyList = function(root) {
     }
     dfsHelper(root);
     pre.right = head;
+    head.left = pre;
     return head;
 
 };

@@ -69,6 +69,8 @@
 [解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-l/)
 
 ## 字符串
+* 面试题67. 把字符串转换成整数
+[解析](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/mian-shi-ti-67-ba-zi-fu-chuan-zhuan-huan-cheng-z-8/)
 * `面试题58 - II. 左旋转字符串`(余数)
 [解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/mian-shi-ti-58-ii-zuo-xuan-zhuan-zi-fu-chuan-by-lu/)
 * 面试题58 - I. 翻转单词顺序
@@ -127,6 +129,8 @@
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/fan-zhuan-er-cha-shu-bfs-by-luckyxutao/)
 ### BST(二叉搜索树)
+* 98. 验证二叉搜索树
+[解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/98-yan-zheng-er-cha-sou-suo-shu-by-luckyxutao/)
 * 面试题36. 二叉搜索树与双向链表
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xia-12/)
 

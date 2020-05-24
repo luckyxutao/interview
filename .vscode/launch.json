@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/convert-binary-search-tree-to-sorted-doubly-linked-list.js"
+            "program": "${workspaceFolder}/src/v2/validate-binary-search-tree.js"
         }
     ]
 }
