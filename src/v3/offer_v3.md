@@ -1,4 +1,6 @@
 ## 滑动窗口
+* 面试题48. 最长不含重复字符的子字符串
+[解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu--10/)
 * 面试题57 - II. 和为s的连续正数序列
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu--19/)
 

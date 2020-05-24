@@ -1,41 +1,40 @@
 /**
- * @param {number} target
- * @return {number[][]}
+ * @param {string} s
+ * @return {number}
  */
-var findContinuousSequence = function (target) {
-    /*
-        滑动窗口(快慢)
-        lo = 1, hi = target
-    */
-    let i = 0, j = 1;
-    let res = [];
-    /*
-        win信息
-    */
-    //窗口元素
-    let winArr = [];
-    //窗口和
-    let winSum = 0;
-    //win信息结束
-    while (j < target) {
-        //往窗口放元素(1.数组添加元素，2. winSum跟上)
-        winArr.push(j);
-        winSum += j;
-        j++;
-        //调整及检查窗口，如果超出target，则要一直缩小左边
-        while (winSum > target) {
-            //最左边
-            let low = winArr[i];
-            winArr.shift();
-            winSum -= low;
+var lengthOfLongestSubstring = function(s) {
+    if(!s){
+        return s;
+    }
+
+    let i = 0, j = 0;
+    let maxLen = 0;
+    //win信息
+    let winCount = {
+        // a:1,
+        // b:2
+        // c:1
+    }
+    //win结束
+    while(j<s.length){
+        /*
+            先加入窗口
+        */
+        let char = s.charAt(j);
+        winCount[char] = (winCount[char]||0) +1
+        j++;//本来是等于0的，走到加加后，变+1了
+
+        //检查窗口
+        while(winCount[char]>1){
+            //调整左侧,最左边
+            let leftChar = s.charAt(i);
+            winCount[leftChar]--;
             i++;
         }
-        //窗口调整完毕
-        if (winSum == target) {
-            res.push([...winArr])
-        }
+        //调整完毕，挪完窗口后，j++了，移到下一位置了
+        maxLen = Math.max(maxLen,j-i);
     }
-    return res;
+    return maxLen;
 };
 
-console.log(findContinuousSequence(9));
+lengthOfLongestSubstring('abcabcbb')
