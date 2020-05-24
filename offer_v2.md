@@ -1,3 +1,8 @@
+## 排序
+### 快速排序
+* 面试题40. 最小的k个数
+[解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/mian-shi-ti-40-zui-xiao-de-kge-shu-by-luckyxutao/)
+
 ## 栈/队列
 * 面试题59 - II. 队列的最大值
 [解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-luckyxu/)
