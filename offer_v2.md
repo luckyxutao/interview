@@ -45,6 +45,8 @@
 * 面试题50. 第一个只出现一次的字符
 [解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
 ## 动态规划
+* 面试题42. 连续子数组的最大和
+[解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-l/)
 * 面试题10- II. 青蛙跳台阶问题
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solution/mian-shi-ti-10-ii-qing-wa-tiao-tai-jie-wen-ti-by-6/)
 * 面试题10- I. 斐波那契数列
