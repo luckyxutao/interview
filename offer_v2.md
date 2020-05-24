@@ -2,7 +2,8 @@
 ### 快速排序
 * 面试题40. 最小的k个数
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/mian-shi-ti-40-zui-xiao-de-kge-shu-by-luckyxutao/)
-
+* 面试题39. 数组中出现次数超过一半的数字(众数)
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/mian-shi-ti-39-shu-zu-zhong-chu-xian-ci-shu-cha-16/)
 ## 栈/队列
 * 面试题59 - II. 队列的最大值
 [解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-luckyxu/)
@@ -43,6 +44,8 @@
     * 面试题57. 和为s的两个数字
     [解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-shuang-z/)
 ## 哈希map
+* 面试题39. 数组中出现次数超过一半的数字(众数)
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/mian-shi-ti-39-shu-zu-zhong-chu-xian-ci-shu-cha-16/)
 * 141. 环形链表(map)
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-map-by-luckyxutao/)
 * 面试题03. 数组中重复的数字
