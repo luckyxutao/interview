@@ -110,6 +110,7 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/hui-su-shi-xian-by-luckyxutao/)
 
 ## 二叉树
+
 ### 分治法
 * 面试题33. 二叉搜索树的后序遍历序列
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-16/)
@@ -126,6 +127,9 @@
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/fan-zhuan-er-cha-shu-bfs-by-luckyxutao/)
 ### BST(二叉搜索树)
+* 面试题36. 二叉搜索树与双向链表
+[解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xia-12/)
+
 * 面试题68 - I. 二叉搜索树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-15/)
 
