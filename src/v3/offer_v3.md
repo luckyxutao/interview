@@ -25,6 +25,8 @@
 * 26. 删除排序数组中的重复项
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xia-58/)
 ### 左右指针
+* 11. 盛最多水的容器
+[解析](https://leetcode-cn.com/problems/container-with-most-water/solution/11-sheng-zui-duo-shui-de-rong-qi-by-luckyxutao-2/)
 * 面试题21. 调整数组顺序使奇数位于偶数前面
 [解析](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/solution/mian-shi-ti-21-diao-zheng-shu-zu-shun-xu-shi-qi-12/)
 * 面试题57. 和为s的两个数字
@@ -50,6 +52,8 @@
 * 面试题38. 字符串的排列(回溯法）
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa--2/)
 ## 链表
+* 面试题25. 合并两个排序的链表
+[解析](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/solution/mian-shi-ti-25-he-bing-liang-ge-pai-xu-de-lian--10/)
 * 面试题52. 两个链表的第一个公共节点
 [解析](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/mian-shi-ti-52-liang-ge-lian-biao-de-di-yi-ge-g-13/)
 * 面试题22. 链表中倒数第k个节点
