@@ -20,6 +20,8 @@
 * 面试题50. 第一个只出现一次的字符
 [地址](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 ## 字符串
+* 面试题58 - II. 左旋转字符串
+[解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/mian-shi-ti-58-ii-zuo-xuan-zhuan-zi-fu-chuan-by--2/)
 * 面试题58 - I. 翻转单词顺序
 [解析](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/solution/mian-shi-ti-58-i-fan-zhuan-dan-ci-shun-xu-by-lucky/)
 * 面试题05. 替换空格
@@ -107,6 +109,8 @@
 * [面试题32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/submissions/) [[解析]](./cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
 * [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) [[解析]](./binary-tree-level-order-traversal.js)
 ### DFS遍历
+* [589. N叉树的前序遍历( 迭代/递归)]
+[解析](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/solution/589-ncha-shu-de-qian-xu-bian-li-die-dai-di-gui-by-/)
 * [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-by-luckyxutao/) [[解析]](./binary-tree-postorder-traversal.js)
 * [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao/) [[解析]](./binary-tree-preorder-traversal.js)
 * [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/zhong-xu-bian-li-di-gui-die-dai-by-luckyxutao/) [[解析]](./binary-tree-inorder-traversal.js)
