@@ -57,6 +57,8 @@
     * 面试题57. 和为s的两个数字
     [解析](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-sde-liang-ge-shu-zi-shuang-z/)
 ## 哈希map
+* [1. 两数之和]
+[解析](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-ha-xi-biao-yi-ci-bian-li-by-luc/)
 * 面试题39. 数组中出现次数超过一半的数字(众数)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/mian-shi-ti-39-shu-zu-zhong-chu-xian-ci-shu-cha-16/)
 * 141. 环形链表(map)
