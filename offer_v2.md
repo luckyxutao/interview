@@ -13,6 +13,8 @@
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui-13/)
 
 ## 二维矩阵
+* 面试题12. 矩阵中的路径
+[解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/mian-shi-ti-12-ju-zhen-zhong-de-lu-jing-by-luckyxu/)
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
 
@@ -157,8 +159,8 @@
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/mian-shi-ti-32-iicong-shang-dao-xia-bian-li-by-luc/)、102. 二叉树的层序遍历 [解析](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/er-cha-shu-ceng-ci-bian-li-bfs-by-luckyxutao/)
     * 面试题32 - III. 从上到下打印二叉树 III
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/solution/mian-shi-ti-32-iii-cong-shang-dao-xia-da-yin-er-9/)
-* 回溯
-    * 面试题34. 二叉树中和为某一值的路径
+### 回溯法
+* 面试题34. 二叉树中和为某一值的路径
 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-12/)
-    * 面试题68 - II. 二叉树的最近公共祖先
+* 面试题68 - II. 二叉树的最近公共祖先
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-luc/)
