@@ -17,6 +17,8 @@
 * 面试题33. 二叉搜索树的后序遍历序列
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-17/)
 ## 哈希表
+* 141. 环形链表-快慢指针/hashmap
+[解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-kuai-man-zhi-zhen-by-lucky/)
 * 面试题50. 第一个只出现一次的字符
 [地址](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 ## 字符串
@@ -34,6 +36,8 @@
 
 ## 双指针
 ### 快慢指针
+* 141. 环形链表-快慢指针/hashmap
+[解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-kuai-man-zhi-zhen-by-lucky/)
 * 26. 删除排序数组中的重复项
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xia-58/)
 ### 左右指针
