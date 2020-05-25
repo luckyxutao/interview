@@ -20,6 +20,8 @@
 * 面试题50. 第一个只出现一次的字符
 [地址](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 ## 字符串
+* 面试题58 - I. 翻转单词顺序
+[解析](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/solution/mian-shi-ti-58-i-fan-zhuan-dan-ci-shun-xu-by-lucky/)
 * 面试题05. 替换空格
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 ## 动态规划
