@@ -1,5 +1,10 @@
+## 位运算
+* 191. 面试题15. 二进制中1的个数
+[解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao/)
 ## 排序
 ### 快速排序
+* 面试题45. 把数组排成最小的数
+[解析](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-s-9/)
 * 面试题40. 最小的k个数
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/solution/mian-shi-ti-40-zui-xiao-de-kge-shu-by-luckyxutao/)
 * 面试题39. 数组中出现次数超过一半的数字(众数)
