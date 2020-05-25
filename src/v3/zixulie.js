@@ -1,23 +1,55 @@
+var MaxQueue = function() {
+    this._queue = [];
+    this._maxQueue = [];
+};
+
 /**
- * @param {number} x
- * @param {number} n
  * @return {number}
  */
-var myPow = function(x, n) {
-    return n>=0 ? myPowHelper(x,n) : 1/ myPowHelper(x,-n)
+MaxQueue.prototype.max_value = function() {
+    return this._maxQueue.length > 0 ? this._maxQueue[this._maxQueue.length-1] : -1;
 };
-function myPowHelper(x, n) {
-    /*
-        x x2  x4  x8   x16   x31  x64
-        偶数时每个数的pow都等于 x(n/2)的平方
-        比如转的是16
 
-    */
-    if(n == 0){
-        return 1;
+/** 
+ * @param {number} value
+ * @return {void}
+ */
+MaxQueue.prototype.push_back = function(value) {
+    this._queue.unshift(value);
+    if(!this._maxQueue.length){
+        this._maxQueue.push(value);
+    } else {
+        let i = 0;
+        //将queue里比新值小的全换成新值
+        while(this._maxQueue[i] < value && i<this._maxQueue.length){
+            this._maxQueue[i] = value;
+            i++;
+        }
+        this._maxQueue.unshift(value);
     }
-    let y = myPow(x,n>>1);
-    //因为是向下取整，规律是在偶数有效，奇数时少乘了个x
-    return n%2 == 1 ? y*y*x : y*y;
 };
-console.log(myPow(2,16))
+
+/**
+ * @return {number}
+ */
+MaxQueue.prototype.pop_front = function() {
+    this._queue.pop();
+    this._maxQueue.pop();
+};
+
+/**
+ * Your MaxQueue object will be instantiated and called as such:
+ * var obj = new MaxQueue()
+ * var param_1 = obj.max_value()
+ * obj.push_back(value)
+ * var param_3 = obj.pop_front()
+ */
+
+ var maxQueue = new MaxQueue();
+ maxQueue.push_back(3);
+ maxQueue.push_back(5);
+ maxQueue.push_back(2);
+ maxQueue.push_back(4);
+maxQueue.pop_front()
+ console.log(maxQueue.max_value());
+ 

@@ -1,4 +1,6 @@
 ## 栈和队列
+* 面试题59 - II. 队列的最大值
+[解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-lucky-2/)
 * 面试题30. 包含min函数的栈
 [解析](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/solution/mian-shi-ti-30-bao-han-minhan-shu-de-zhan-by-luc-2/)
 * 面试题09. 用两个栈实现队列
