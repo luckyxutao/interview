@@ -13,6 +13,8 @@
 * 面试题39. 数组中出现次数超过一半的数字(众数)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/mian-shi-ti-39-shu-zu-zhong-chu-xian-ci-shu-cha-16/)
 ## 栈/队列
+* 面试题31. 栈的压入、弹出序列
+[解析](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/mian-shi-ti-31-zhan-de-ya-ru-dan-chu-xu-lie-by-luc/)
 * 面试题59 - II. 队列的最大值
 [解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-luckyxu/)
 * 面试题30. 包含min函数的栈
