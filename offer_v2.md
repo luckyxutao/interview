@@ -1,3 +1,6 @@
+## 数学
+面试题16. 数值的整数次方
+[解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-by-luc/)
 ## 位运算
 * 191. 面试题15. 二进制中1的个数
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao/)
