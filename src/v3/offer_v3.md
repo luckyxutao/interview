@@ -1,3 +1,9 @@
+## 栈和队列
+* 面试题30. 包含min函数的栈
+[解析](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/solution/mian-shi-ti-30-bao-han-minhan-shu-de-zhan-by-luc-2/)
+* 面试题09. 用两个栈实现队列
+[解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui--13/)
+
 ## 滑动窗口
 * 面试题59 - I. 滑动窗口的最大值
 [解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
