@@ -1,5 +1,7 @@
 ## 数学
-面试题16. 数值的整数次方
+* 面试题64. 求1+2+…+n
+[解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12n-by-luckyxutao/)
+* 面试题16. 数值的整数次方
 [解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-by-luc/)
 ## 位运算
 * 191. 面试题15. 二进制中1的个数
