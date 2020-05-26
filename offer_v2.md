@@ -4,6 +4,10 @@
 * 面试题16. 数值的整数次方
 [解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-by-luc/)
 ## 位运算
+* 面试题56 - I. 数组中数字出现的次数
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/solution/mian-shi-ti-56-i-shu-zu-zhong-shu-zi-chu-xian-d-24/)
+* 136. 只出现一次的数字
+[解析](https://leetcode-cn.com/problems/single-number/solution/136-zhi-chu-xian-yi-ci-de-shu-zi-by-luckyxutao/)
 * 191. 面试题15. 二进制中1的个数
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao/)
 ## 排序
