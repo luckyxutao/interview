@@ -1,49 +1,39 @@
-// /**
-//  * @param {number[]} nums
-//  * @return {number}
-//  */
-// var singleNumber = function (nums) {
-//     /*
-//     1. 计算每二进制位
-//     */
-//     let res = 0;
-//     let mask = 1;
-//     let middd = 1;
-//     for (let i = 0; i < 32; i++) {
-//         let cnt = 0;
-//         for (let j = 0; j < nums.length; j++) {
-//             let cur = nums[j];
-//             if ((cur & mask) !== 0) {
-//                 cnt++;
-//             }
-//         }
-//         //目标数字i位是0
-//         if (cnt % 3 == 0) {
-//             middd <<= 1;
-//             res = res + middd;
-//         } else {//i位是1
+/**
+ * @param {number[]} arr
+ * @param {number} k
+ * @return {number[]}
+ */
+var getLeastNumbers = function (arr, k) {
+    /*
+        1. 排序
+    */
+    let res = mergeSort(arr, 0, arr.length - 1);
 
-//             res = res + 
-//         }
-//         //左移1位
-//         mask <<= 1;
-//     }
+};
 
-// };
-
-
-// singleNumber([3, 4, 3, 3])
-
-let str = '01010'
-let mask = 1;
-let i = 0;
-let num = 0;
-while(i<str.length){
-    let cur = str.charAt(i);
-    if(cur === '1'){
-        num = num + mask;
+function mergeSort(arr, lo, hi) {
+    if (lo >= hi) {
+        return [arr[lo]]
     }
-    mask<<=1;
-    i++;
+    let mid = lo + Math.floor((hi - lo) / 2);
+    let leftArr = mergeSort(arr, lo, mid);
+    let rightArr = mergeSort(arr, mid + 1, hi);
+    return merge(leftArr, rightArr)
 }
-console.log(num)
+
+function merge(leftArr, rightArr) {
+    /*
+        [1,3], [2,4]
+    */
+    let res = [];
+    while (leftArr.length && rightArr.length) {
+        if (leftArr[0] <= rightArr[0]) {
+            res.push(leftArr.shift())
+        } else if (leftArr[0] > rightArr[0]) {
+            res.push(rightArr.shift())
+        }
+    }
+    return leftArr.length > 0 ? res.concat(leftArr) : res.concat(rightArr);
+}
+
+getLeastNumbers([0,1,2,1])

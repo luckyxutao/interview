@@ -1,3 +1,6 @@
+## 排序
+* 归并排序
+[解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/submissions/)
 ## 栈和队列
 * 面试题59 - II. 队列的最大值
 [解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-lucky-2/)
@@ -29,6 +32,8 @@
 * 面试题05. 替换空格
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 ## 动态规划
+* 面试题42. 连续子数组的最大和
+[解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-3/)
 * 面试题10- II. 青蛙跳台阶问题
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 * 面试题10- I. 斐波那契数列
