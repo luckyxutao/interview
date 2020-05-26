@@ -25,6 +25,8 @@
 * 面试题50. 第一个只出现一次的字符
 [地址](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 ## 字符串
+* 面试题67. 把字符串转换成整数
+[解析](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/mian-shi-ti-67-ba-zi-fu-chuan-zhuan-huan-cheng-z-9/)
 * 面试题58 - II. 左旋转字符串
 [解析](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/mian-shi-ti-58-ii-zuo-xuan-zhuan-zi-fu-chuan-by--2/)
 * 面试题58 - I. 翻转单词顺序
