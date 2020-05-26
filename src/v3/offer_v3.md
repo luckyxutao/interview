@@ -97,6 +97,8 @@
 * 面试题34. 二叉树中和为某一值的路径
 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-13/)
 ### 未归类（递归）
+* [98. 验证二叉搜索树]
+[解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/98-yan-zheng-er-cha-sou-suo-shu-by-luckyxutao-2/)
 * 面试题37. 序列化二叉树
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-by-luckyxutao/)
 * 面试题26. 树的子结构
