@@ -1,39 +1,46 @@
 /**
- * @param {number[]} arr
- * @param {number} k
- * @return {number[]}
+ * @param {number[]} nums
+ * @return {number}
  */
-var getLeastNumbers = function (arr, k) {
-    /*
-        1. 排序
-    */
-    let res = mergeSort(arr, 0, arr.length - 1);
-
+var reversePairs = function (nums) {
+    let res = { count : 0}
+    return mergeSort(nums, 0, nums.length - 1,res);
 };
-
-function mergeSort(arr, lo, hi) {
-    if (lo >= hi) {
-        return [arr[lo]]
+function mergeSort(nums, lo, hi,res) {
+    //只剩下1个元素时中止
+    if(lo == hi){
+        return [nums[lo]];
     }
+    /*
+    1. 先二分
+    2. 直到不能分了，合并
+    */
     let mid = lo + Math.floor((hi - lo) / 2);
-    let leftArr = mergeSort(arr, lo, mid);
-    let rightArr = mergeSort(arr, mid + 1, hi);
-    return merge(leftArr, rightArr)
+    let left = mergeSort(nums, lo, mid,res);//
+    let right = mergeSort(nums, mid + 1, hi,res);
+    return merge(left,right,res);
 }
 
-function merge(leftArr, rightArr) {
+function merge(a,b,res){
+    let newArr = [];
     /*
-        [1,3], [2,4]
+        5,7 ,
+        4,6
     */
-    let res = [];
-    while (leftArr.length && rightArr.length) {
-        if (leftArr[0] <= rightArr[0]) {
-            res.push(leftArr.shift())
-        } else if (leftArr[0] > rightArr[0]) {
-            res.push(rightArr.shift())
+   a = [3,4,8,10] ;
+   b = [2,8,9] 
+    while(a.length && b.length){
+        if(a[0]<b[0]){
+            newArr.push(a.shift())
+        } else {
+            // 以b数组为基准, b[0]<a[0]时，说明目录因为a[0]就是最小的了，b[0]比a[0]还小，
+            //因此a数组每个元素都可以和b[0]构成逆序对
+            res.count = res.count + a.length
+            newArr.push(b.shift())
         }
     }
-    return leftArr.length > 0 ? res.concat(leftArr) : res.concat(rightArr);
+    debugger
+    return a.length > 0 ? newArr.concat(a) : newArr.concat(b);
 }
 
-getLeastNumbers([0,1,2,1])
+console.log(reversePairs([7,5,6,4]))

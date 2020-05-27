@@ -1,9 +1,13 @@
 ## 数学
+* **面试题66. 构建乘积数组**
+[解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-luckyxu/)
 * 面试题64. 求1+2+…+n
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12n-by-luckyxutao/)
 * 面试题16. 数值的整数次方
 [解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-by-luc/)
 ## 位运算
+* 面试题65. 不用加减乘除做加法
+[解析](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-j-14/)
 * 面试题56 - II. 数组中数字出现的次数 II
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 * 面试题56 - I. 数组中数字出现的次数
@@ -13,6 +17,9 @@
 * 191. 面试题15. 二进制中1的个数
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao/)
 ## 排序
+### 归并
+* 面试题51. 数组中的逆序对
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/mian-shi-ti-51-shu-zu-zhong-de-ni-xu-dui-by-luckyx/)
 ### 快速排序
 * 面试题45. 把数组排成最小的数
 [解析](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-s-9/)
@@ -118,6 +125,8 @@
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao/)
 
 ## 链表
+* 面试题35. 复杂链表的复制
+[解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luckyx/)
 * 面试题06. 从尾到头打印链表(递归/迭代)
 [解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-23/)
 ## 数组
@@ -138,6 +147,8 @@
 ## 二叉树
 
 ### 分治法
+* 面试题51. 数组中的逆序对
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/mian-shi-ti-51-shu-zu-zhong-de-ni-xu-dui-by-luckyx/)
 * 面试题33. 二叉搜索树的后序遍历序列
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-16/)
 * 面试题07. 重建二叉树
@@ -153,6 +164,8 @@
 * 面试题27. 二叉树的镜像
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/fan-zhuan-er-cha-shu-bfs-by-luckyxutao/)
 ### BST(二叉搜索树)
+* [450. 删除二叉搜索树中的节点]
+[解析](https://leetcode-cn.com/problems/delete-node-in-a-bst/solution/450-shan-chu-er-cha-sou-suo-shu-zhong-de-jie-di-14/)
 * 98. 验证二叉搜索树
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/98-yan-zheng-er-cha-sou-suo-shu-by-luckyxutao/)
 * 面试题36. 二叉搜索树与双向链表
