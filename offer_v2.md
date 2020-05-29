@@ -1,4 +1,9 @@
+## 待了解
+* 打印N位数字 [打印从1到最大的n位数]
+[解析](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/submissions/)
 ## 数学
+* 面试题62. 圆圈中最后剩下的数字
+[解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-25/)
 * **面试题66. 构建乘积数组**
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-luckyxu/)
 * 面试题64. 求1+2+…+n
