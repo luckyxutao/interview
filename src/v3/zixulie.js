@@ -1,22 +1,31 @@
-/**
- * @param {number} n
- * @param {number} m
- * @return {number}
- */
-var lastRemaining = function (n, m) {
-    //n等于1时肯定是0
-    let res = 0;
-    //自底向上
-    for(let i = 1;i<=n;i++){
-        res = (res + m) % i;
-    }
-    return res;
-};
-
-function helper(n, m) {
-    if (n == 1)
-        return 0;
-    let x = helper(n - 1, m);
-    return (m + x) % n;
+let sp = [4,5];
+let i = sp.length-1;
+let num = 2
+while(i>=0 && num < sp[i]){
+    i--;
 }
-console.log(lastRemaining(70866, 116922))
+sp.splice(i,0,num)
+console.log(sp)
+
+// /**
+//  * @param {number} num
+//  * @return {number}
+//  */
+// var translateNum = function(num) {
+//     if(num<10){
+//         return 1;
+//     }
+//     let str = num + '';
+//     let dp = [1,1];
+
+//     for(let i = 2;i<str.length;i++){
+//             let tmp = parseInt(str.slice(i - 2, i), 10) || 0;
+//             if(tmp >=10 && tmp <=25){
+//                 dp[i] = dp[i-2] + dp[i-1];
+//             } else {
+//                 dp[i] = dp[i-1];
+//             }
+//     }
+//     return dp[dp.length-1]
+// };
+// translateNum(12258)

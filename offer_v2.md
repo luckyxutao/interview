@@ -1,7 +1,15 @@
 ## 待了解
 * 打印N位数字 [打印从1到最大的n位数]
+## 系统设计
+* 面试题41. 数据流中的中位数
+[解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/mian-shi-ti-41-shu-ju-liu-zhong-de-zhong-wei-shu-6/)
 [解析](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/submissions/)
+##  递归
+* 面试题46. 把数字翻译成字符串
+[解析](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chua-9/)
 ## 数学
+* 面试题44. 数字序列中某一位的数字
+[解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-8/)
 * 面试题62. 圆圈中最后剩下的数字
 [解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-25/)
 * **面试题66. 构建乘积数组**
@@ -90,6 +98,10 @@
 * 面试题50. 第一个只出现一次的字符
 [解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
 ## 动态规划
+* 面试题14- II. 剪绳子 II
+[解析](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/solution/mian-shi-ti-14-ii-jian-sheng-zi-ii-by-luckyxutao/)
+* 面试题14- I. 剪绳子
+[解析](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/mian-shi-ti-14-i-jian-sheng-zi-by-luckyxutao/)
 * 面试题42. 连续子数组的最大和
 [解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-l/)
 * 面试题10- II. 青蛙跳台阶问题
