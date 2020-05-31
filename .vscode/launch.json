@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v2/nthUglyNumber.js"
+            "program": "${workspaceFolder}/src/v3/ju-zhen-zhong-de-lu-jing-lcof.js"
         }
     ]
 }

@@ -1,4 +1,12 @@
+## 递归
+* 面试题16. 数值的整数次方(递归）
+[解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-di-g-2/)
+## 位运算
+* 面试题15. 二进制中1的个数
+[解析](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/solution/mian-shi-ti-15-er-jin-zhi-zhong-1de-ge-shu-by-luck/)
 ## 排序
+* 面试题45. 把数组排成最小的数
+[解析](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-10/)
 * 归并排序
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/submissions/)
 ## 栈和队列
@@ -60,6 +68,10 @@
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)、[解析2](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/jian-er-zhi-zhi-er-fen-cha-zhao-by-liweiwei1419-3/)
 
 ## 二维矩阵
+* 面试题13. 机器人的运动范围
+[解析](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/solution/mian-shi-ti-13-ji-qi-ren-de-yun-dong-fan-wei-by--4/)
+* 面试题12. 矩阵中的路径
+[解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/mian-shi-ti-12-ju-zhen-zhong-de-lu-jing-dfshui-su-/)
 * 面试题04. 二维数组中的查找(双指针)
 [解析](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-shu/)
 * 面试题29. 顺时针打印矩阵(思路简单易理解)
