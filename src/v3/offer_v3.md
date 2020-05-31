@@ -10,6 +10,8 @@
 * 归并排序
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/submissions/)
 ## 栈和队列
+* 面试题31. 栈的压入、弹出序列
+[解析](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/mian-shi-ti-31-zhan-de-ya-ru-dan-chu-xu-lie-by-l-2/)
 * 面试题59 - II. 队列的最大值
 [解析](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-lucky-2/)
 * 面试题30. 包含min函数的栈
