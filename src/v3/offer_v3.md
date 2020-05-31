@@ -28,6 +28,8 @@
 * 面试题33. 二叉搜索树的后序遍历序列
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-17/)
 ## 哈希表
+*  两数之和(哈希表)
+[解析](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-ha-xi-biao-by-luckyxutao/)
 * 141. 环形链表-快慢指针/hashmap
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-kuai-man-zhi-zhen-by-lucky/)
 * 面试题50. 第一个只出现一次的字符
