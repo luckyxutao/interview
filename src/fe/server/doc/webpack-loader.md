@@ -1,5 +1,8 @@
-## LOADER
-[不错的文](https://github.com/alienzhou/blog/issues/21)
+### LOADER
+* [常见问题](https://github.com/alienzhou/blog/issues/21)
+* [sass相对路径问题](https://luckyxutao.github.io/2020/04/18/webpack-sass-import/)
+* [css相关loader原理](https://luckyxutao.github.io/2020/05/24/webpack-style-css-sass/)
+
 ### loader作用是什么 ？
 webpack自身只支持js和json这两种格式的文件，对于其他文件需要通过loader将其转换为或者amd/es_modules/commonJS规范的文件后，webpack才能解析到。
 
@@ -8,6 +11,10 @@ webpack自身只支持js和json这两种格式的文件，对于其他文件需�
 * 使用loaderResolver解析loader模块路径
 * 根据rule.modules创建RulesSet规则集
 * 使用loader-runner运行loader
+
+### loader本质
+本质是一个函数，主函数是Normal阶段,参数是前一个loader处理的结果，
+* pitch函数形参(remainingRequest\previousRequest\data)
 
 
 ### webpack编译流程中loader是如何以及在何时发挥作用的？
