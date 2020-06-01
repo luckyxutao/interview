@@ -1,4 +1,6 @@
 ## 递归
+面试题64. 求1+2+…+n(递归）
+[解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12ndi-gui-by-luckyxutao/)
 * 面试题16. 数值的整数次方(递归）
 [解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-di-g-2/)
 ## 位运算
