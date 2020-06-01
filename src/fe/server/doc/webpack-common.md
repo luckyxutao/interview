@@ -15,7 +15,6 @@ rollup或gulp再适合框架和类库产品开发
     * resolve.extension
         extensions默认是[js,json]
 
-***
 ### webpack打包流程
 * 解析合并参数
     * 从命令行读取参数及配置文件合并到webpack默认的配置文件
@@ -42,7 +41,6 @@ rollup或gulp再适合框架和类库产品开发
 * emit(compiler)
     * 根据compilation.assets来往磁盘写文件, outputPath
 * done
-***
 
 ### 热更新步骤
 * 引用HotModuleReplacementPlugin插件
@@ -50,13 +48,13 @@ rollup或gulp再适合框架和类库产品开发
 * 模块代码
     ```js
     function render(){
-    let title = require('./title').default;
-    root.innerHTML= title;
+        let title = require('./title').default;
+        root.innerHTML= title;
     }
     render();
     if(module.hot){
-    //如果title变化 了，会重新调回调函数
-    module.hot.accept(['./title'],render)
+        //如果title变化 了，会重新调回调函数
+        module.hot.accept(['./title'],render)
     }
     ```
 
