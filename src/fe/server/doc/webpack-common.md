@@ -43,9 +43,22 @@ rollup或gulp再适合框架和类库产品开发
     * 根据compilation.assets来往磁盘写文件, outputPath
 * done
 ***
-### 提高效率
-* webpack-merge
-* HotModuleReplacementPlugin
+
+### 热更新步骤
+* 引用HotModuleReplacementPlugin插件
+* webpack.config.js中devServer中hot为true
+* 模块代码
+    ```js
+    function render(){
+    let title = require('./title').default;
+    root.innerHTML= title;
+    }
+    render();
+    if(module.hot){
+    //如果title变化 了，会重新调回调函数
+    module.hot.accept(['./title'],render)
+    }
+    ```
 
 ### 有哪些常见的Plugin？你用过哪些Plugin？
 基于事件流框架 Tapable，插件可以扩展 Webpack 的功能，在 Webpack 运行的生命周期中会广播出许多事件，Plugin 可以监听这些事件，在合适的时机通过 Webpack 提供的 API 改变输出结果。
@@ -53,13 +66,9 @@ rollup或gulp再适合框架和类库产品开发
     * definePlugin
     * clean-webpack-plugin
     * webpack-bundle-analyzer
-```
-html-webpack-plugin
-mini-css-extract-plugin
-PurgeCSS 移除不需要的 CSS
-
-definePlugin
-clean-webpack-plugin
-webpack-bundle-analyzer
-...
+    * 
+* css
+    * html-webpack-plugin
+    * mini-css-extract-plugin
+    * PurgeCSS
 ```
