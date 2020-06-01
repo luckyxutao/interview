@@ -1,4 +1,3 @@
-## loader
 ### webpack默认配置是在哪处理的，loader有什么默认配置么？
 在WebpackOptionDefaulter的process中处理的，默认支持了javascript、json等
 ### webpack中有一个resolver的概念，用于解析模块文件的真实绝对路径，那么loader和普通模块的resolver使用的是同一个么？
@@ -12,11 +11,11 @@ modules、extensions及modules，意义和resolve的相同
 
 ### 如何写一个异步loader，webpack又是如何实现loader的异步化的？
 * 异步loader
-1. callback = this.async()
-2. 异步处理结束后调用callback
+  1. callback = this.async()
+  2. 异步处理结束后调用callback
 * 原理
-1. 通过async函数设置loader-runner函数全局变量为异步模式，并返回一个callback
-2. 异步处理完后，callback再将全局变量改为同步模式，并继续调用iterateNormalLoaders，执行下一个loader
+  1. 通过async函数设置loader-runner函数全局变量为异步模式，并返回一个callback
+  2. 异步处理完后，callback再将全局变量改为同步模式，并继续调用iterateNormalLoaders，执行下一个loader
 ### loaderContext对象结构
 ![](https://s1.ax1x.com/2020/06/01/t8V1aQ.png)
 ### loader function中的this.data是如何实现的？
