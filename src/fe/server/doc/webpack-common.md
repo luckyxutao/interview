@@ -42,6 +42,19 @@ rollup或gulp再适合框架和类库产品开发
     * 根据compilation.assets来往磁盘写文件, outputPath
 * done
 
+### 代码分离
+* 多入口
+* 动态导入(dynamic imports)
+* splitChunks，公共的依赖模块提取到单独chunks
+* 预取/预加载模块(prefetch/preload module)
+这会生成<link rel="prefetch" href="login-modal-chunk.js">并追加到页面头部，指示着浏览器在闲置时间预取 login-modal-chunk.js 文件。
+    ```js
+    import(/* webpackPrefetch: true */ 'LoginModal');
+    ```
+
+### 使用import时，webpack对node_modules里的依赖会做什么?
+* 找node_modules下对应目录，找到package.json里的main字段（可配置），可以找到入口，通常是index.js
+
 ### 热更新步骤
 * 引用HotModuleReplacementPlugin插件
 * webpack.config.js中devServer中hot为true
