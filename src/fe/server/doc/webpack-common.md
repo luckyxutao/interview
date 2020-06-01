@@ -64,9 +64,13 @@ rollup或gulp再适合框架和类库产品开发
     * definePlugin
     * clean-webpack-plugin
     * webpack-bundle-analyzer
-    * 
-* css
     * html-webpack-plugin
+    * speed-measure-webpack-plugin
+* css
     * mini-css-extract-plugin
+    * optimize-css-assets-webpack-plugin
+    * postcss-loader
+        * autoprefixer
     * PurgeCSS
-```
+* js
+    * terser-webpack-plugin(webpack默认)
