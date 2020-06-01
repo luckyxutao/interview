@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v3/singleNums.js"
+            "program": "${workspaceFolder}/src/v3/gou-jian-cheng-ji-shu-zu-lcof.js"
         }
     ]
 }

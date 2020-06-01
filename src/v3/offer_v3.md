@@ -1,3 +1,6 @@
+## 数学
+面试题66. 构建乘积数组
+[解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-lucky-2/)
 ## 递归
 面试题64. 求1+2+…+n(递归）
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12ndi-gui-by-luckyxutao/)
