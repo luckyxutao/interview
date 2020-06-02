@@ -1,27 +1,31 @@
 /**
- * @param {number[]} a
- * @return {number[]}
+ * @param {number} num
+ * @return {number}
  */
-var constructArr = function (a) {
+var translateNum = function(num) {
+
     /*
-        1 2 3 4 5
-                
+    dp[i] = dp[i-1] + dp[i-2](有条件)
     */
-    //   x左边的乘积，不包含x
-    let leftArr = [];
-    let res = [];
-    for (let i = 0; i < a.length; i++) {
-        leftArr[i] = i == 0 ? 1 :  a[i - 1] * leftArr[i - 1];
-    }
-    let rightArr = [];
-    for(let i = a.length-1;i>=0;i-- ){
-        rightArr[i] = i === a.length -1 ? 1 : a[i+1] * rightArr[i+1]; 
-        res.unshift(rightArr[i]*leftArr[i]);
+    let res = 0;
+    while(num>0){
+        let digit = num % 100;
+        num = Math.floor(num / 10);
+        if(digit >=0 && digit <=25){
+            res = res +  helper(n-1) + helper(n-2);
+        } else {
+            res = res +  helper(n-1);
+        }
     }
     return res;
 
 };
 
-constructArr([1, 2, 3, 4, 5])
-//            1  1  2  6  24
-          // 120 60 20 5  1
+function helper(n){
+    if(n==1){
+        return 1;
+    }
+    return 1 + helper(n-1);
+}
+
+translateNum(12258)

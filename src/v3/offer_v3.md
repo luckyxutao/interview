@@ -1,7 +1,12 @@
+## 未归类
+* 面试题61. 扑克牌中的顺子
+[解析](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/mian-shi-ti-61-bu-ke-pai-zhong-de-shun-zi-by-luc-2/)
 ## 数学
 面试题66. 构建乘积数组
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-lucky-2/)
 ## 递归
+* 面试题46. 把数字翻译成字符串
+[解析](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chu-11/)
 面试题64. 求1+2+…+n(递归）
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12ndi-gui-by-luckyxutao/)
 * 面试题16. 数值的整数次方(递归）
@@ -57,6 +62,10 @@
 * 面试题05. 替换空格
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 ## 动态规划
+* 面试题47. 礼物的最大价值
+[解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-by-luckyx-2/)
+* 面试题14- I. 剪绳子
+[解析](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-by-luckyxutao-2/)
 * 面试题42. 连续子数组的最大和
 [解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-3/)
 * 面试题10- II. 青蛙跳台阶问题
