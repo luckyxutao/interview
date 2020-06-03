@@ -26,6 +26,8 @@
 * 归并排序
 [解析](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/submissions/)
 ## 栈和队列
+* 20. 有效的括号(栈)
+[解析](https://leetcode-cn.com/problems/valid-parentheses/solution/20-you-xiao-de-gua-hao-zhan-by-luckyxutao/)
 * 面试题31. 栈的压入、弹出序列
 [解析](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/mian-shi-ti-31-zhan-de-ya-ru-dan-chu-xu-lie-by-l-2/)
 * 面试题59 - II. 队列的最大值
