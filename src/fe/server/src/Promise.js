@@ -149,6 +149,37 @@ Promise.prototype.catch = function(onRejected){
     this.then(null,onRejected);
 }
 
+Promise.allSettled = function(promiseArr){
+    let results = [];
+    let promiseLen = promiseArr.length;
+    let finishedCount = 0;
+    return new Promise((resolve,reject)=>{
+        for(let i = 0;i<promiseLen;i++){
+            if(promiseArr[i] && promiseArr[i].then && typeof promiseArr[i].then === 'function'){
+                promiseArr[i].then(res=>{
+                    results[i] = {status : 'fulfilled'}
+                    finishedCount++;
+                    if(finishedCount >= promiseLen){
+                        resolve(results);
+                    }
+                },err=>{
+                    results[i] = {status : 'rejected'};
+                    finishedCount++;
+                    if(finishedCount >= promiseLen){
+                        resolve(results);
+                    }
+                });
+            } else {
+                results[i] = {status : 'fulfilled'};
+                finishedCount++;
+                if(finishedCount >= promiseLen){
+                    resolve(results);
+                }
+            }
+        }
+    });
+}
+
 Promise.all = function(promiseArr){
     let results = [];
     let len = promiseArr.length;

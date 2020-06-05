@@ -1,12 +1,12 @@
 
 let Promise = require('./Promise')
 // // promise.allSettled
-// const promise1 = Promise.resolve(3);
-// const promise2 = new Promise((resolve, reject) => setTimeout(reject, 100, 'foo'));
-// const promises = [promise1, promise2];
+const promise1 = Promise.resolve(3);
+const promise2 = new Promise((resolve, reject) => setTimeout(reject, 100, 'foo'));
+const promises = [promise1, promise2];
 
-// Promise.allSettled(promises).
-//   then((results) => results.forEach((result) => console.log(result.status)));
+Promise.allSettled(promises).
+  then((results) => results.forEach((result) => console.log(result.status)));
 
 // expected output:
 // "fulfilled"
@@ -33,32 +33,32 @@ let Promise = require('./Promise')
 
 
 
-//Promis.all
-var p1 = new Promise((resolve, reject) => { 
-    setTimeout(() => resolve('one'), 1000); 
-  }); 
-  var p2 = new Promise((resolve, reject) => { 
-    setTimeout(() => resolve('two'), 2000); 
-  });
-  var p3 = new Promise((resolve, reject) => {
-    setTimeout(() => resolve('three'), 3000);
-  });
-  var p4 = new Promise((resolve, reject) => {
-    setTimeout(() => resolve('four'), 4000);
-  });
-  var p5 = new Promise((resolve, reject) => {
-    reject(new Error('reject'));
-  });
+// //Promis.all
+// var p1 = new Promise((resolve, reject) => { 
+//     setTimeout(() => resolve('one'), 1000); 
+//   }); 
+//   var p2 = new Promise((resolve, reject) => { 
+//     setTimeout(() => resolve('two'), 2000); 
+//   });
+//   var p3 = new Promise((resolve, reject) => {
+//     setTimeout(() => resolve('three'), 3000);
+//   });
+//   var p4 = new Promise((resolve, reject) => {
+//     setTimeout(() => resolve('four'), 4000);
+//   });
+//   var p5 = new Promise((resolve, reject) => {
+//     reject(new Error('reject'));
+//   });
   
   
-  // Using .catch:
-  Promise.all([p1, p2, p3, p4,p5])
-  .then(values => { 
-    console.log(values);
-  })
-  .catch(error => { 
-    console.error(error.message)
-  });
+//   // Using .catch:
+//   Promise.all([p1, p2, p3, p4,p5])
+//   .then(values => { 
+//     console.log(values);
+//   })
+//   .catch(error => { 
+//     console.error(error.message)
+//   });
   
 
 // var p1 = Promise.resolve(3);
