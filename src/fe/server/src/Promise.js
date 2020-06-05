@@ -139,6 +139,43 @@ Promise.prototype.then = function (onFullfilled, onRejected) {
     return promise2;
 }
 
+Promise.resolve = function(value){
+    return new Promise((resolve,reject)=>{
+        resolve(value);
+    });
+}
+
+Promise.prototype.catch = function(onRejected){
+    this.then(null,onRejected);
+}
+
+Promise.all = function(promiseArr){
+    let results = [];
+    let len = promiseArr.length;
+    let finishedCount = 0;
+    return new Promise((resolve,reject)=>{
+        for(let i = 0;i<len;i++){
+            if(promiseArr[i] && promiseArr[i].then && typeof promiseArr[i].then === 'function'){
+                promiseArr[i].then(res=>{
+                    results[i] = res;
+                    finishedCount++;
+                    if(finishedCount>=len){
+                        resolve(results);
+                    }
+                },err=>{
+                    reject(err);
+                })
+            } else {
+                results[i] = promiseArr[i];
+                finishedCount++;
+                if(finishedCount>=len){
+                    resolve(results);
+                }
+            }
+        }
+    });
+}
+
 Promise.deferred = function () {
     let deferred = {};
     deferred.promise = new Promise((resolve, reject) => {
