@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./src/fe/server/index.js",
     "debug": "node --inspect-brk ./src/fe/server/index.js",
-    "promise-test":"promises-aplus-tests ./src/fe/server/static/promise.js"
+    "promise-test": "promises-aplus-tests ./src/fe/server/static/promise.js"
   },
   "repository": {
     "type": "git",
