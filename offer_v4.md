@@ -1,10 +1,10 @@
 ## 树
-* 236. 二叉树的最近公共祖先
+* [236. 二叉树的最近公共祖先]
     * [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-3/)
     * 思路
         1. 回溯法求q和p的路径
         2. 对比两条路径，找到最后一个相同节点
-* 235. 二叉搜索树的最近公共祖先
+* [235. 二叉搜索树的最近公共祖先]
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--17/)
 * 面试题55 - II. 平衡二叉树(O(n))
 [解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-on-by-lucky/)
