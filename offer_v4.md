@@ -1,4 +1,4 @@
-## 树
+### 树
 * 面试题26. 树的子结构
     * [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
     * 在A树中找和B相同节点，然后再对比
@@ -19,7 +19,6 @@
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
 * 面试题37. 序列化二叉树
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-die-dai-bfs-b/)
-### 遍历
 * 面试题28. 对称的二叉树
 [解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyx-2/)
 * 面试题27. 二叉树的镜像(递归/迭代)
