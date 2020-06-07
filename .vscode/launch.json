@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v3/validateparentless.js"
+            "program": "${workspaceFolder}/src/v3/1.js"
         }
     ]
 }

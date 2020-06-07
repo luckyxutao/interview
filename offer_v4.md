@@ -1,3 +1,11 @@
+
+### 滑动窗口(连续子串、序列)
+* 面试题57 - II. 和为s的连续正数序列
+[解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
+* 面试题59 - I. 滑动窗口的最大值(滑动窗口)
+[解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
+* 面试题48. 最长不含重复字符的子字符串
+[解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-3/)
 ### 树
 * 面试题07. 重建二叉树(基于前序/中序)
 [解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxut-3/)

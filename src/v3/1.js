@@ -1,28 +1,34 @@
-function cutRope(number)
-{
+/**
+ * @param {number} target
+ * @return {number[][]}
+ */
+var findContinuousSequence = function(target) {
+    let res = [];
     /*
-        枚举所有和为i的结果，从中找到最大的
-    
+    1. 连续子集，连续字符串，首先想到滑动窗口
     */
-    let dp = [0,0,1,2];
-    for(let i = 4;i<=number;i++){
-        /*
-        1. 枚举所有和为4的，组合 找到最大的
-        */
-        let tempMax = 0;
-        for(let j =1;j<i;j++){
-            //都不拆分
-            let res1 = j*(i-j);
-            //都拆
-            let res2 = dp[j]*dp[j-i];
-            //左拆 右不拆分
-            let res3 = dp[j]*(i-j);
-            // 左不拆 右拆分
-            let res4 = j* dp[i-j];
-            tempMax = Math.max(tempMax,res1,res2,res3,res4);
+    let lo = 1, hi = 1;
+    let winArr = [];
+    let winSum = 0;//用来记录窗口sum
+    //不等于target,至少2个数
+    while(hi<target){
+        //向右增大窗口
+        winSum+= hi;
+        winArr.push(hi);
+        hi++;
+        //调整窗口
+        while(winSum > target){
+            //调整窗口左侧
+            winSum-= lo;
+            lo++;
+            winArr.shift();
         }
-        dp[i] = tempMax;
+        //从窗口提取有用信息
+        if(winSum === target){
+            res.push(winArr);
+        }
     }
-    return dp[number];
-}
-cutRope(4)
+    return res;
+};
+
+findContinuousSequence(9);
