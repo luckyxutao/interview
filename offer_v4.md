@@ -1,4 +1,8 @@
 
+### 哈希map
+* 面试题03. 数组中重复的数字
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
+
 ### 滑动窗口(连续子串、序列)
 * 面试题57 - II. 和为s的连续正数序列
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
