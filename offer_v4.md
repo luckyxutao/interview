@@ -3,7 +3,8 @@
 * 面试题03. 数组中重复的数字
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 * 面试题35. 复杂链表的复制
-[解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
+    * map(oldNode,newNode), newNode.random = map.get(oldNode.random)
+    * [解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
 
 ### 滑动窗口(连续子串、序列)
 * 面试题57 - II. 和为s的连续正数序列
