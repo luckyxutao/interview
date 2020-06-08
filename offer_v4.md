@@ -1,4 +1,7 @@
 
+### 分治法
+* [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+[解析](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/mian-shi-ti-51-shu-zu-zhong-de-ni-xu-dui-by-luckyx/)
 ### 动态规划
 * [面试题62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-27/)
