@@ -34,15 +34,12 @@
 ### 树
 * 面试题07. 重建二叉树(基于前序/中序)
 [解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxut-3/)
-* 面试题26. 树的子结构
-    * [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
+* 面试题26. 树的子结构 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
     * 在A树中找和B相同节点，然后再对比
-* 面试题34. 二叉树中和为某一值的路径
-    * [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-14/)
+* 面试题34. 二叉树中和为某一值的路径 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-14/)
     * 思路
         * 回溯法,需要注意**路径是到叶子节点**,而不是找到就算
-* [236. 二叉树的最近公共祖先]
-    * [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-3/)
+* [236. 二叉树的最近公共祖先][解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-3/)
     * 思路
         1. 回溯法求q和p的路径。2.对比两条路径，找到最后一个相同节点
 * [235. 二叉搜索树的最近公共祖先]
