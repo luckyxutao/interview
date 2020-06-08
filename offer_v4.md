@@ -21,7 +21,6 @@
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
 * 面试题35. 复杂链表的复制 [解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
     * map(oldNode,newNode), newNode.random = map.get(oldNode.random)
-
 ### 滑动窗口(连续子串、序列)
 * [567. 字符串的排列]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
@@ -37,11 +36,9 @@
 * 面试题26. 树的子结构 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
     * 在A树中找和B相同节点，然后再对比
 * 面试题34. 二叉树中和为某一值的路径 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-14/)
-    * 思路
-        * 回溯法,需要注意**路径是到叶子节点**,而不是找到就算
+    * 回溯法,需要注意**路径是到叶子节点**,而不是找到就算
 * [236. 二叉树的最近公共祖先][解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-3/)
-    * 思路
-        1. 回溯法求q和p的路径。2.对比两条路径，找到最后一个相同节点
+    * 回溯法求q和p的路径。2.对比两条路径，找到最后一个相同节点
 * [235. 二叉搜索树的最近公共祖先]
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--17/)
 * 面试题55 - II. 平衡二叉树(O(n))
