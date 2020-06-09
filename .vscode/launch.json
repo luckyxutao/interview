@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/v4/checkInclusion.js"
+            "program": "${workspaceFolder}/src/v4/3.js"
         }
     ]
 }
