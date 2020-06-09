@@ -48,6 +48,8 @@
 * [面试题62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-27/)
 ### 链表
+* [面试题18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+[解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-3/)
 * [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/)
 [解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/mian-shi-ti-24-fan-zhuan-lian-biao-by-luckyxutao/)
 * [面试题36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
