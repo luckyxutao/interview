@@ -1,3 +1,13 @@
+## 拓展
+### 字符串
+* [`14. 最长公共前缀`](https://leetcode-cn.com/problems/longest-common-prefix/)
+[解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-by-luckyxutao/)
+### 滑动窗口(连续子串、序列)
+* [567. 字符串的排列]
+[解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
+
+
+## 剑指offer
 ### 二分查找
 * [面试题53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-19/)
