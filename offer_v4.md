@@ -1,5 +1,7 @@
 ## 拓展
 ### 字符串
+* [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+[解析](https://leetcode-cn.com/problems/add-two-numbers/solution/2-liang-shu-xiang-jia-chu-deng-shu-xue-by-luckyxut/)
 * [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-by-luckyxutao/)
 ### 滑动窗口(连续子串、序列)
@@ -14,6 +16,9 @@
 * [面试题15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/solution/mian-shi-ti-15-er-jin-zhi-zhong-1de-ge-shu-by-luck/)
 
+### 排序
+* [面试题45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+[解析](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-10/)
 
 ### 二分查找
 * [面试题53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
