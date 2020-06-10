@@ -1,9 +1,9 @@
 
 Function.prototype.call2 = function(context,...args){
-    let oldValu = context._xx_;
-    context._xx_ = this;
-    let result = context._xx_(...args);
-    context._xx_ = oldValu;
+    let fn = Symbol();
+    context[fn] = this;
+    let result = context[fn](...args);
+    delete context[fn];
     return result;
 }
 
