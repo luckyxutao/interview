@@ -14,7 +14,7 @@
 * [13.deepClone](./13.deepClone.js)
 * [14.Object.keys](./object.keys.js)
 * [15.hasOwnProperty]('./hasOwnProperty.md)
-
+* [16.WeakMap]('./weakmap.md)
 ### 面试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
