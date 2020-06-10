@@ -14,6 +14,7 @@
 * [13.deepClone](./13.deepClone.js)
 
 ### 面试题
+[https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
 * [不使用类似for,while填充数组](./ti/2.bu_shi_yong_for_while_fill_arr.js)
 
