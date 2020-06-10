@@ -129,4 +129,31 @@ Promise.deferred = function () {
     });
     return deferred;
 }
+
+Promise.all = function(promiseArr){
+    let count = 0;
+    let results = [];
+    return new Promise((resolve,reject)=>{
+        for(let i =0;i<promiseArr.lengh;i++){
+            if( typeof promiseArr[i].then === 'function'){
+                promiseArr[i].then(res=>{
+                    results[i] = res;
+                    count++;
+                    if(count>=promiseArr.lengh){
+                        resolve(results);
+                    }
+                },(err)=>{
+                    reject(err);
+                })
+            } else {
+                results[i] = promiseArr[i];
+                count++;
+                if(count>=promiseArr.lengh){
+                    resolve(results);
+                }
+            }
+        }
+    });
+}
+
 module.exports = Promise;
