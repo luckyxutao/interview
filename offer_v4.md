@@ -13,6 +13,8 @@
 
 ## 剑指offer
 
+
+
 ### 栈/队列
 
 * [面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
@@ -83,6 +85,8 @@
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xia-13/)
 
 ### 数学
+* [面试题16. 数值的整数次方(递归）](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+[解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-di-g-2/)
 * [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12n-by-luckyxutao-2/)
 * [面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
