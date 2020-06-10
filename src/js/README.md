@@ -15,8 +15,16 @@
 * [14.Object.keys](./object.keys.js)
 * [15.hasOwnProperty](./hasOwnProperty.md)
 * [16.WeakMap](./16.weakmap.md)
+
+
 ### 面试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
 * [不使用类似for,while填充数组](./ti/2.bu_shi_yong_for_while_fill_arr.js)
 
+
+
+
+### 文章
+[【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
+[要去大厂应该把这些面试题](https://www.jianshu.com/p/aee284a31a8b)
