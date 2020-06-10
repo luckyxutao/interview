@@ -12,6 +12,8 @@
 * [12.1.JSON.parse](./12.1.JSON.parse.js)
 * [12.2.JSON.stringify](./12.2.JSON.stringify.js)
 * [13.deepClone](./13.deepClone.js)
+* [14.Object.keys](./object.keys.js)
+* [15.hasOwnProperty]('./hasOwnProperty.md)
 
 ### 面试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
