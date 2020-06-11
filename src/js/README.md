@@ -23,7 +23,9 @@
 * [不使用类似for,while填充数组](./ti/2.bu_shi_yong_for_while_fill_arr.js)
 
 
-
+### 项目
+* [大文件断点续传](./ti/4.挑战性的项目.md)
+* [个人中心/个人主页改版](./ti/4.挑战性的项目.md)
 
 ### 文章
 [【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
