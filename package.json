@@ -20,12 +20,14 @@
   },
   "homepage": "https://github.com/luckyxutao/interview#readme",
   "dependencies": {
+    "crypto": "^1.0.1",
     "ejs": "^3.0.2",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^8.0.8",
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.1",
-    "promises-aplus-tests": "^2.1.2"
+    "promises-aplus-tests": "^2.1.2",
+    "ws": "^7.3.0"
   }
 }
