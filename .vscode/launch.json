@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/websocket/websocket.js"
+            "program": "${workspaceFolder}/1.js"
         }
     ]
 }
