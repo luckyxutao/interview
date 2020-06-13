@@ -24,6 +24,10 @@
 * [红绿灯问题](./ti/3.红绿灯问题.js)
 
 ### [react](../react/README.md)
+### 知识点
+* [diff算法](./react/diff.md)
+* [懒加载原理](./react/lazy.md)
+* [合成事件](./react/合成事件.md)
 
 ### 项目
 * [大文件断点续传](./ti/4.挑战性的项目.md)
