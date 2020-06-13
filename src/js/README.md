@@ -15,7 +15,7 @@
 * [14.Object.keys](./基础/object.keys.js)
 * [15.hasOwnProperty](./基础/hasOwnProperty.md)
 * [16.WeakMap](./基础/16.weakmap.md)
-
+* [正则](./基础/正则.png)
 
 ### 面试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
