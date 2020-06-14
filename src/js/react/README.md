@@ -7,3 +7,7 @@ setState或props变化后，生成新Tree
 * 重新渲染
     1. 协调阶段，对比两颗tree找到差异并生成effectlist
     2. commit阶段,将effectlist执行，操作dom
+
+### 性能优化
+* 函数组件
+    

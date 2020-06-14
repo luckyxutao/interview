@@ -25,6 +25,7 @@
 
 ### [react](../react/README.md)
 ### 知识点
+* [优化](./react/函数组件优化.md)
 * [diff算法](./react/diff.md)
 * [懒加载原理](./react/lazy.md)
 * [合成事件](./react/合成事件.md)
