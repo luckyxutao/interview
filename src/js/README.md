@@ -16,15 +16,17 @@
 * [15.hasOwnProperty](./基础/hasOwnProperty.md)
 * [16.WeakMap](./基础/16.weakmap.md)
 * [正则](./基础/正则.png)
-* [safeGet](./基础/safeGet.js)
-* [flat](./基础/flattern.js)
+
 ### [css](./基础/css.md)
 
-### 面试题
+### 笔试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
 * [不使用类似for,while填充数组](./ti/2.bu_shi_yong_for_while_fill_arr.js)
 * [红绿灯问题](./ti/3.红绿灯问题.js)
+* [并发请求](./基础/并发请求.js)
+* [safeGet](./基础/safeGet.js)
+* [flat](./基础/flattern.js)
 
 ### [react](../react/README.md)
 * [优化](./react/函数组件优化.md)
