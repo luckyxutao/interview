@@ -17,6 +17,7 @@
 * [16.WeakMap](./基础/16.weakmap.md)
 * [正则](./基础/正则.png)
 * [safeGet](./基础/safeGet.js)
+* [flat](./基础/flattern.js)
 ### [css](./基础/css.md)
 
 ### 面试题

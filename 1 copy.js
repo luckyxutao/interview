@@ -5,9 +5,10 @@ let r3 = parse(obj, 'd[2]');// = 3;
 let r4 = parse(obj, 'e[0].f[0]');// = 4;
 
 function parse(obj, str) {
-
+    let q = str.replace(//g)
 }
 //e[0].f[0] => obj['e'][0]['f'][0]
 //d[2]=> obj[d][2]
 //b.c => obj['b']['c']
+
 console.log(obj['e'][0]['f'][0])
