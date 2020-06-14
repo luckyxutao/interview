@@ -31,6 +31,8 @@ const target = {
     field3: {
         child: 'child'
     },
+    name:true,
+    age:'ccc',
     field4: [2, 4, 8]
 };
 

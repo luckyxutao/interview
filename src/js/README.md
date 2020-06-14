@@ -16,11 +16,9 @@
 * [15.hasOwnProperty](./基础/hasOwnProperty.md)
 * [16.WeakMap](./基础/16.weakmap.md)
 * [正则](./基础/正则.png)
-
-### [css](./基础/css.md)
+* [冻结对象](./基础/freeze.md)
 
 ### 笔试题
-[https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
 * [红绿灯问题](./ti/3.红绿灯问题.js)
 * [并发请求](./基础/并发请求.js)
@@ -46,6 +44,9 @@
 * [loader](./webpack/webpack-loader.md)
 * [代码分割](./webpack/webpack-split.md)
 
+### [css](./基础/css.md)
+
+
 ### 项目
 * [大文件断点续传](./ti/4.挑战性的项目.md)
 * [个人中心/个人主页改版](./ti/4.挑战性的项目.md)
@@ -54,3 +55,4 @@
 [拼多多和酷家乐面试经历总结](http://www.taoweng.site/index.php/archives/318/)
 [【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
 [要去大厂应该把这些面试题](https://www.jianshu.com/p/aee284a31a8b)
+[https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
