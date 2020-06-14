@@ -25,6 +25,7 @@
 * [safeGet](./基础/safeGet.js)
 * [flat](./基础/flattern.js)
 * [填充数组](./ti/fill.js)
+* [promise-retry](./ti/retry.js)
 
 ### 网络
 * [http-headers](./网络/http.headers.md)
@@ -56,3 +57,4 @@
 [【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
 [要去大厂应该把这些面试题](https://www.jianshu.com/p/aee284a31a8b)
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
+[题](https://github.com/qappleh/Interview)
