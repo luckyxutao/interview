@@ -22,11 +22,11 @@
 ### 笔试题
 [https://ideone.com/AyDIMP#stdin](https://ideone.com/AyDIMP#stdin)
 * [正则处理编码问题](./ti/1.luan_ma_wen_ti.js)
-* [不使用类似for,while填充数组](./ti/2.bu_shi_yong_for_while_fill_arr.js)
 * [红绿灯问题](./ti/3.红绿灯问题.js)
 * [并发请求](./基础/并发请求.js)
 * [safeGet](./基础/safeGet.js)
 * [flat](./基础/flattern.js)
+* [填充数组](./ti/fill.js)
 
 ### 网络
 * [http-headers](./网络/http.headers.md)
