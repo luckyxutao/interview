@@ -16,6 +16,7 @@
 * [15.hasOwnProperty](./基础/hasOwnProperty.md)
 * [16.WeakMap](./基础/16.weakmap.md)
 * [正则](./基础/正则.png)
+* [safeGet](./基础/safeGet.js)
 ### [css](./基础/css.md)
 
 ### 面试题
@@ -31,6 +32,7 @@
 * [合成事件](./react/合成事件.md)
 
 ## webpack
+* [好文](https://notes.jindll.com/webpack/26%20Webpack%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.html#webpack-%E6%B5%81%E7%A8%8B%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 * [插件](./webpack/插件.md)
 * [babel-import-plugin](https://luckyxutao.github.io/2019/11/25/babel/)
 * [热更新](./webpack/webpack-hmr.md)
