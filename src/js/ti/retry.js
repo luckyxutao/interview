@@ -17,18 +17,19 @@ function getData() {
 function myGetData(getData, times, delay) {
     return new Promise(function (resolve, reject) {
         function attempt() {
-            getData().then(resolve, err => {
-                console.log(`还有 ${times} 次尝试`)
-                if (0 == times) {
-                    reject(err)
+            getData().then(resolve, (err) => {
+                if (times > 0) {
+                    times--;
+                    setTimeout(()=>{
+                        attempt();
+                    },delay);
                 } else {
-                    times--
-                    setTimeout(attempt, delay)
+                    reject(err);
                 }
             });
         }
-        attempt()
-    })
+        attempt();
+    });
 }
 
-myGetData(getData, 3, 100)
+myGetData(getData, 1, 100)
