@@ -7,7 +7,8 @@
 ### 滑动窗口(连续子串、序列)
 * [567. 字符串的排列]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
-
+* [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+[解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
 
 ***
 
