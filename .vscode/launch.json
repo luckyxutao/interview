@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/leetcode/v4/multipy.js"
+            "program": "${workspaceFolder}/src/leetcode/v4/simplify-path.js"
         }
     ]
 }

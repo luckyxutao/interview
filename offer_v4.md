@@ -10,6 +10,14 @@
 * [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
 [解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
 
+
+### 栈/队列
+* [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+[解析](https://leetcode-cn.com/problems/simplify-path/solution/71-jian-hua-lu-jing-fu-zhu-zhan-by-luckyxutao/)
+
+
+
+
 ***
 
 
