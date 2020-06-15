@@ -16,6 +16,7 @@
 * if-modifed-since
 
 ### 响应headers
+* Connection: Keep-Alive
 * Content-type
 * Content-encoding
 * Content-length
