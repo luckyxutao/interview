@@ -26,6 +26,9 @@
 * [flat](./基础/flattern.js)
 * [填充数组](./ti/fill.js)
 * [promise-retry](./ti/retry.js)
+* [一维数组转树](./ti/一维数组转树.js)
+* [一维数组转树II](./ti/一维数组转树II.js)
+* [二维数组转树](./ti/二维数组转树.js)
 
 ### 网络
 * [http-headers](./网络/http.headers.md)
@@ -53,6 +56,7 @@
 * [个人中心/个人主页改版](./ti/4.挑战性的项目.md)
 
 ### 文章
+[积累](http://obkoro1.com/web_accumulate/codeBlack/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84%E7%BB%93%E6%9E%84%E8%BD%AC%E5%8C%96.html#%E4%BC%A0%E8%BF%9B%E5%8E%BB%E7%9A%84%E6%95%B0%E7%BB%84%EF%BC%9A)
 [拼多多和酷家乐面试经历总结](http://www.taoweng.site/index.php/archives/318/)
 [【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
 [要去大厂应该把这些面试题](https://www.jianshu.com/p/aee284a31a8b)
