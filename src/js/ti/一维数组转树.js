@@ -7,21 +7,19 @@ var data=[
 ];
 
 function arr2Tree(arr){
-    if(!arr||!arr.length){
-        return [];
-    }
-    let res = [];
-    arr.forEach(element=>{
-        let parentId = element.parentId;
-        arr.forEach(ele2=>{
-            if(ele2.id === parentId){
-                if(!ele2.child){
-                    ele2.child = [];
+    arr.forEach(item=>{
+        let id = item.id;
+        arr.forEach(item2=>{
+            if(item2.parentId === id){
+                if(!item.child){
+                    item.child=[];
                 }
-                ele2.child.push(element);
+                item.child.push(item2);
             }
         });
     });
-    return arr.filter(ele=>ele.parentId === 0)
+    return data.filter(v=>v.parentId === 0);
 }
+
+
 console.log(JSON.stringify(arr2Tree(data)));

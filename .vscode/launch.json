@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/js/ti/一维数组转树II.js"
+            "program": "${workspaceFolder}/src/js/ti/一维数组转树II copy.js"
         }
     ]
 }
