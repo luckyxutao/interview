@@ -4,17 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style type="text/css">
+        .box{
+            position:relative;
+            width:200px;
+            height:200px;
+            margin: 0 auto;
+        }
+        .box::before{
+            position:absolute;
+            left:0;
+            top:0;
+            width:200%;
+            height:200%;
+            border:solid 1px red;
+            content:'';
+            transform:scale(0.5);
+            transform-origin:0 0;
+        }
+        </style>
 </head>
 <body>
-    <script>
-        setTimeout(() => {
-            console.log('1111');
-            
-        }, 500);
-
-        setTimeout(() => {
-            console.log('2222');
-        }, 1000);
-    </script>
+    <div class="box"></div>
 </body>
 </html>
