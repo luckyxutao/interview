@@ -56,6 +56,12 @@
 * [个人中心/个人主页改版](./ti/4.挑战性的项目.md)
 
 ### 文章
+[面经](https://codecocoa.com/t/24540?ip=1)
+[原生JS灵魂之问](https://juejin.im/post/5dbebbfa51882524c507fddb)
+[原生JS灵魂之问](https://juejin.im/post/5e8dc6fd6fb9a03c97753dea#heading-14)
+[原生JS灵魂之问](https://juejin.im/post/5dd8b3a851882572f56b578f#heading-70)
+[typescript](https://jkchao.github.io/typescript-book-chinese/project/compilationContext.html#typescript-%E7%BC%96%E8%AF%91)
+[木易杨](https://muyiy.cn/question/)
 [积累](http://obkoro1.com/web_accumulate/codeBlack/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84%E7%BB%93%E6%9E%84%E8%BD%AC%E5%8C%96.html#%E4%BC%A0%E8%BF%9B%E5%8E%BB%E7%9A%84%E6%95%B0%E7%BB%84%EF%BC%9A)
 [拼多多和酷家乐面试经历总结](http://www.taoweng.site/index.php/archives/318/)
 [【ES6基础】Map与WeakMap](https://juejin.im/post/5cce38e55188257a9f46962d)
