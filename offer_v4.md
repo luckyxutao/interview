@@ -1,5 +1,7 @@
 ## 拓展
 ### 字符串
+* [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+[解析](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-zi-fu-chuan-jie-fa-by-luckyxutao/)
 * [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 [解析](https://leetcode-cn.com/problems/add-two-numbers/solution/2-liang-shu-xiang-jia-chu-deng-shu-xue-by-luckyxut/)
 * [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)

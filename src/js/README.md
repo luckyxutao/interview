@@ -29,6 +29,7 @@
 * [一维数组转树](./ti/一维数组转树.js)
 * [一维数组转树II](./ti/一维数组转树II.js)
 * [二维数组转树](./ti/二维数组转树.js)
+* [async/await](./ti/模拟asyncII.js)
 
 ### 网络
 * [http-headers](./网络/http.headers.md)

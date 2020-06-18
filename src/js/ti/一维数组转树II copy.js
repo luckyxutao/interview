@@ -60,7 +60,7 @@ function mergeToTree(treeArr,linkedList){
         if(!target){
             treeArr.push(linkedList);
         } else {
-            let cur = target;
+            let cur = *10target;
             let cur2 = linkedList;
             let prev = target;
             while(cur && cur2 &&  cur.value === cur2.value ){
