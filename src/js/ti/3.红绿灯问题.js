@@ -25,25 +25,44 @@ function yellow(){
     console.log('yellow');
 }
 
-var light = function(timmer, cb){
-    return new Promise(function(resolve, reject) {
-        setTimeout(function() {
-            cb();
+function light(delay,cb){
+    return new Promise((resolve,reject)=>{
+        setTimeout(() => {
             resolve();
-        }, timmer);
-    });
-};
-
-var step = function() {
-    Promise.resolve().then(function(){
-        return light(3000, red);
-    }).then(function(){
-        return light(2000, green);
-    }).then(function(){
-        return light(1000, yellow);
-    }).then(function(){
-        step();
+            cb();
+        }, delay);
     });
 }
+
+async function step(){
+    await light(3000,red).then(res=>{})
+    await light(2000,green);
+    await light(1000,yellow);
+    step();
+}
+
+
+
+
+// var light = function(timmer, cb){
+//     return new Promise(function(resolve, reject) {
+//         setTimeout(function() {
+//             cb();
+//             resolve();
+//         }, timmer);
+//     });
+// };
+
+// var step = function() {
+//     Promise.resolve().then(function(){
+//         return light(3000, red);
+//     }).then(function(){
+//         return light(2000, green);
+//     }).then(function(){
+//         return light(1000, yellow);
+//     }).then(function(){
+//         step();
+//     });
+// }
 
 step();
