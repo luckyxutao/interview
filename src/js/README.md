@@ -41,6 +41,7 @@
 * [合成事件](./react/合成事件.md)
 
 ## webpack
+* [react设计理解](https://libin1991.github.io/2020/04/02/%E4%BB%8EChromeV8%E6%BA%90%E7%A0%81%E7%9C%8BJS%E6%95%B0%E7%BB%84/#more)
 * [好文](https://notes.jindll.com/webpack/26%20Webpack%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.html#webpack-%E6%B5%81%E7%A8%8B%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 * [插件](./webpack/插件.md)
 * [babel-import-plugin](https://luckyxutao.github.io/2019/11/25/babel/)

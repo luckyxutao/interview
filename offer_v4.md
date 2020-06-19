@@ -18,6 +18,8 @@
 [解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
 
 ### 左右指针
+* [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
+[解析](https://leetcode-cn.com/problems/3sum-closest/solution/16-zui-jie-jin-de-san-shu-zhi-he-pai-xu-shuang-z-2/)
 * [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
 [解析](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-pai-xu-zuo-you-zhi-zhen-by-lucky/)
 
@@ -29,6 +31,9 @@
 * [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 [解析](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ipdi-zhi-hui-su-fa-by-luckyxutao/)
 
+### 数学
+* [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+[解析](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-er-fen-cha-zhao-fa-by-luckyx/)
 
 ***
 
