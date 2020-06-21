@@ -14,8 +14,6 @@
 ### 滑动窗口(连续子串、序列)
 * [567. 字符串的排列]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
-* [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
-[解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
 
 ### 左右指针
 * [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
@@ -32,8 +30,17 @@
 [解析](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ipdi-zhi-hui-su-fa-by-luckyxutao/)
 
 ### 数学
+* [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+[解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
+* [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
+[解析](https://leetcode-cn.com/problems/add-strings/solution/415-zi-fu-chuan-xiang-jia-si-lu-jian-dan-by-luckyx/)
 * [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 [解析](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-er-fen-cha-zhao-fa-by-luckyx/)
+
+### map/set
+* [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+[解析](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/349-liang-ge-shu-zu-de-jiao-ji-by-luckyxutao/)
+
 
 ***
 

@@ -5,6 +5,9 @@ require只是初次加载时把值挂载到module.exports对象上，之后会�
 模块是动态加载的，每次require都会获取最新的导出结果，可以将require写到条件中
 
 ### exports和module.exports区别
+    1. commonjs模块输出的是值的复制(原始类型), es6模块输出的是值的引用地址
+    2. commonjs是运行时加载，es6模块是编译时输出接口(导出对象的引用)
+* commonjs把导出值挂载到module.exports对象上，es6模块输出的不是对象，而是对象引用
 
 
 ### commonjs require工作原理
