@@ -26,7 +26,9 @@
 ### 栈/队列
 * [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
 [解析](https://leetcode-cn.com/problems/simplify-path/solution/71-jian-hua-lu-jing-fu-zhu-zhan-by-luckyxutao/)
-
+### DFS搜索
+* [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+[解析](https://leetcode-cn.com/problems/max-area-of-island/solution/695-dao-yu-de-zui-da-mian-ji-dfs-by-luckyxutao/)
 ### 回溯
 * [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 [解析](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ipdi-zhi-hui-su-fa-by-luckyxutao/)
