@@ -245,7 +245,7 @@
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/mian-shi-ti-32-iicong-shang-dao-xia-bian-li-by-luc/)
 * [面试题32 - I. 从上到下打印二叉树]
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/mian-shi-ti-32-i-cong-shang-dao-xia-da-yin-er-c-22/)
-* [144. 二叉树的前序遍历(DFS)]
+* [144. 二叉树的前序遍历(DFS-1)]
 [解析](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao-2/)
 * [94. 二叉树的中序遍历(DFS)-1]
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/94-er-cha-shu-de-zhong-xu-bian-li-di-gui-die-dai-b/)
