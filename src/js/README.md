@@ -1,7 +1,7 @@
 ### js基础
 * [0.Object.create-1](./基础/0.create.js)
 * [1.new关键字-1](./基础/1.new.js)
-* [4.call](./基础/4.call.js)
+* [4.call-1](./基础/4.call.js)
 * [5.bind](./基础/5.bind.js)
 * [6.extend](./基础/6.extend.js)
 * [7.柯里化](./基础/7.curry.js)
