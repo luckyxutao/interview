@@ -227,7 +227,7 @@
     * 回溯法求q和p的路径。2.对比两条路径，找到最后一个相同节点
 * [235. 二叉搜索树的最近公共祖先]
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--17/)
-* 面试题55 - II. 平衡二叉树(O(n))
+* 面试题55 - II. 平衡二叉树(O(n)-2)
 [解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-on-by-lucky/)
 * 面试题55 - I. 二叉树的深度-1
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
