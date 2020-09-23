@@ -229,7 +229,7 @@
 [解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu--17/)
 * 面试题55 - II. 平衡二叉树(O(n))
 [解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-on-by-lucky/)
-* 面试题55 - I. 二叉树的深度
+* 面试题55 - I. 二叉树的深度-1
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
 * 面试题37. 序列化二叉树-1
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-die-dai-bfs-b/)
