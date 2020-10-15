@@ -201,7 +201,7 @@
 * [面试题60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/mian-shi-ti-60-nge-tou-zi-de-dian-shu-by-luckyxuta/)
 ### 哈希map
-* [`1. 两数之和`](https://leetcode-cn.com/problems/two-sum/)
+* [`1. 两数之和-1`](https://leetcode-cn.com/problems/two-sum/)
 [解析](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-by-luckyxutao/)
 * 面试题03. 数组中重复的数字-1
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
