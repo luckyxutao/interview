@@ -198,7 +198,7 @@
 [解析](https://leetcode-cn.com/problems/qiu-12n-lcof/solution/mian-shi-ti-64-qiu-12n-by-luckyxutao-2/)
 * [面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
 [解析](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/solution/mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chu-11/)
-* [面试题60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
+* [面试题60. n个骰子的点数-1](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/mian-shi-ti-60-nge-tou-zi-de-dian-shu-by-luckyxuta/)
 ### 哈希map
 * [`1. 两数之和-1`](https://leetcode-cn.com/problems/two-sum/)
