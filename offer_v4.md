@@ -190,7 +190,7 @@
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xia-13/)
 
 ### 数学
-* [**面试题44. 数字序列中某一位的数字**](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)
+* [**面试题44. 数字序列中某一位的数字-00000000000000000**](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-d-11/)
 * [面试题16. 数值的整数次方(递归）-1](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/solution/mian-shi-ti-16-shu-zhi-de-zheng-shu-ci-fang-di-g-2/)
