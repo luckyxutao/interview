@@ -169,7 +169,7 @@
 [解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/mian-shi-ti-49-chou-shu-by-luckyxutao-2/)
 * [面试题66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-lucky-2/)
-* [面试题14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+* [面试题14- I. 剪绳子-1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-by-luckyxutao-3/)
 * [面试题62. 圆圈中最后剩下的数字-1](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-27/)
