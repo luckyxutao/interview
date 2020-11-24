@@ -168,7 +168,7 @@
 * [面试题49. 丑数-1](https://leetcode-cn.com/problems/chou-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/mian-shi-ti-49-chou-shu-by-luckyxutao-2/)
 [解析](https://www.jianshu.com/p/3d367ceca929)
-* [面试题66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
+* [面试题66. 构建乘积数组-1](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
 [解析](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/mian-shi-ti-66-gou-jian-cheng-ji-shu-zu-by-lucky-2/)
 * [面试题14- I. 剪绳子-1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-by-luckyxutao-3/)
