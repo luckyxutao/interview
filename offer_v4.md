@@ -161,7 +161,7 @@
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solution/mian-shi-ti-10-ii-qing-wa-tiao-tai-jie-wen-ti-do-5/)
 * [面试题47. 礼物的最大价值-1](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 [解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-dong-tai--2/)
-* [面试题63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
+* [面试题63. 股票的最大利润-1](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 [解析](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/mian-shi-ti-63-gu-piao-de-zui-da-li-run-dong-tai-4/)
 * [面试题42. 连续子数组的最大和-1](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 [解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-4/)
