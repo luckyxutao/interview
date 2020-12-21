@@ -154,7 +154,7 @@
 
 * [面试题33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/solution/mian-shi-ti-33-er-cha-sou-suo-shu-de-hou-xu-bia-16/)
-* [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+* [面试题51. 数组中的逆序对-1](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/mian-shi-ti-51-shu-zu-zhong-de-ni-xu-dui-by-luckyx/)
 ### 动态规划
 * [面试题10- I. 斐波那契数列-1](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
