@@ -148,7 +148,7 @@
 [解析](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/solution/mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-z-12/)
 * [`14. 最长公共前缀`](https://leetcode-cn.com/problems/longest-common-prefix/)
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-by-luckyxutao/)
-* [面试题58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
+* [面试题58 - I. 翻转单词顺序-1](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
 [解析](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/solution/mian-shi-ti-58-i-fan-zhuan-dan-ci-shun-xu-by-luc-2/)
 ### 分治法
 
