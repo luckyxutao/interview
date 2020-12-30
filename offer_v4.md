@@ -138,7 +138,7 @@
 * [34. 在排序数组中查找元素的第一个和最后一个位置-1](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ### 字符串
-* [面试题67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
+* [面试题67. 把字符串转换成整数-1](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/mian-shi-ti-67-ba-zi-fu-chuan-zhuan-huan-cheng--10/)
 * [面试题05. 替换空格-1](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 [解析](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/xun-huan-chu-li-by-luckyxutao/)
