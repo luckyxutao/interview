@@ -84,7 +84,7 @@
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-by-luckyxuta/)
 
 ### 贪心
-* [面试题14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
+* [面试题14- II. 剪绳子 II-1](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
 [解析](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/solution/mian-shi-ti-14-ii-jian-sheng-zi-ii-by-luckyxutao/)
 
 
