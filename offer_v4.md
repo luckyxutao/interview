@@ -75,7 +75,7 @@
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
 
 ### 未知
-* [面试题61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
+* [面试题61. 扑克牌中的顺子-1](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/mian-shi-ti-61-bu-ke-pai-zhong-de-shun-zi-by-luc-2/)
 ### 回溯法
 * [面试题12. 矩阵中的路径-1](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
