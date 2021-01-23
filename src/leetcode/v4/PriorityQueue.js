@@ -27,9 +27,6 @@ class PriorityQueue {
         }
         this.pq[childIndex]= lastEle;
     }
-    size(){
-        return this.pq.length;
-    }
     sink(){
         let parentIndex = 0;
         let childIndex = this.left(parentIndex);
@@ -78,7 +75,7 @@ var MedianFinder = function() {
     this.min.push(num);
     this.max.push(this.min.top()*-1);
     this.min.pop();
-    if(this.min.size() < this.max.size()){
+    if(this.min.length < this.max.length){
         this.min.push(this.max.top()*-1);
         this.max.pop();
     }
@@ -86,7 +83,7 @@ var MedianFinder = function() {
   
   MedianFinder.prototype.findMedian = function() {
       const {min,max} = this;
-      if(min.size() > max.size()){
+      if(min.length > max.length){
           return this.min.top();
       } else {
           return 0.5 * (min.top() + max.top()*-1);

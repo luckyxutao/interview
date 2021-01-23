@@ -61,10 +61,11 @@ class MinHeap{
 }
 
 let arr = [5,7,2,6,1,10,4,100,3];
-// let iMap = new MinHeap();
-// for(let i = 0;i<arr.length;i++){
-//     iMap.push(arr[i]);
-// }
+let iMap = new MinHeap();
+for(let i = 0;i<arr.length;i++){
+    iMap.push(arr[i]);
+}
+console.log(iMap);
 
 function getLeastNumbers(arr,k){
     let minHeap = new MinHeap();
@@ -85,7 +86,7 @@ function getLeastNumbers(arr,k){
     }
     console.log(res)
 }
-getLeastNumbers(arr,3);
+// getLeastNumbers(arr,3);
 // console.log(iMap.top());
 // iMap.pop();
 // console.log(iMap);
