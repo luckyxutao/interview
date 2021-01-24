@@ -1,0 +1,129 @@
+{
+    "code": 200,
+    "info": "成功",
+    "data": {
+        "graphId": 66074,
+        "wordId": 312180,
+        "userChooseParam": true,
+        "level": 3,
+        "coOccurrenceCounts": [
+            4,
+            5
+        ],
+        "beginYear": 1980,
+        "endYear": 2021,
+        "impactFactors": [
+            3,
+            4
+        ],
+        "journalIds": [],
+        "nodes": [
+            {
+                "type": 1,
+                "id": 312180,
+                "word": "EGFR",
+                "count": 142,
+                "impactFactor": 1109.6149999999993,
+                "level": 0,
+                "center": true
+            },
+            {
+                "type": 1,
+                "id": 10675,
+                "word": "trastuzumab",
+                "count": 71,
+                "impactFactor": 2655.096,
+                "level": 2,
+                "center": false
+            },
+            {
+                "type": 1,
+                "id": 233991,
+                "word": "NSCLC",
+                "count": 94,
+                "impactFactor": 860.4080000000001,
+                "level": 1,
+                "center": false
+            },
+            {
+                "type": 1,
+                "id": 350572,
+                "word": "Breast cancer",
+                "count": 1567,
+                "impactFactor": 44600.80100000006,
+                "level": 1,
+                "center": false
+            },
+            {
+                "type": 1,
+                "id": 286984,
+                "word": "HER2",
+                "count": 129,
+                "impactFactor": 5080.5019999999995,
+                "level": 1,
+                "center": false
+            },
+            {
+                "type": 1,
+                "id": 104079,
+                "word": "epidermal growth factor receptor",
+                "count": 43,
+                "impactFactor": 380.23600000000005,
+                "level": 1,
+                "center": false
+            }
+        ],
+        "links": [
+            {
+                "type": 2,
+                "lid": 177284530,
+                "source": 312180,
+                "target": 233991,
+                "count": 12
+            },
+            {
+                "type": 2,
+                "lid": 1823599463,
+                "source": 286984,
+                "target": 350572,
+                "count": 66
+            },
+            {
+                "type": 2,
+                "lid": 1094681545,
+                "source": 10675,
+                "target": 350572,
+                "count": 25
+            },
+            {
+                "type": 2,
+                "lid": 1231909367,
+                "source": 312180,
+                "target": 350572,
+                "count": 12
+            },
+            {
+                "type": 2,
+                "lid": 1069005580,
+                "source": 286984,
+                "target": 10675,
+                "count": 19
+            },
+            {
+                "type": 2,
+                "lid": 1827237780,
+                "source": 312180,
+                "target": 286984,
+                "count": 16
+            },
+            {
+                "type": 2,
+                "lid": 432631988,
+                "source": 312180,
+                "target": 104079,
+                "count": 15
+            }
+        ],
+        "shortPaths": null
+    }
+}
