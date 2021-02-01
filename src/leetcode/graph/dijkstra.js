@@ -1,38 +1,41 @@
-class Graph{
-    constructor(props){
-        this.adj = {};
+class BreadthFirstPaths{
+    constructor(s){
+        this.marked = {}
+        this.edgeTo ={}
+        this.s = s;
     }
-    setData({links,nodes}){
-        this.links  = links;
-        this.nodes = nodes;
-        this.adj = this.convert_graph(nodes,links)
+      //和深搜相同
+    hasPathTo(v){        //从起点开始能否到达顶点v
+        return this.marked[v];
     }
-     convert_graph(nodes,links) {
-        var j, k, l, len, len1, map, n, ref, map = {},ref = nodes;
-        // let links = links;
-        for (j = 0, len = ref.length; j < len; j++) {
-            n = ref[j];
-            for (k = 0, len1 = links.length; k < len1; k++) {
-                l = links[k];
-                if (n.id === l.source) {
-                    if (!(n.id in map)) {
-                        map[n.id] = {};
-                    }
-                    map[n.id][l.target] = l.count;
-                }
-                if (n.id === l.target) {
-                    if (!(n.id in map)) {
-                        map[n.id] = {};
-                    }
-                    map[n.id][l.source] = l.count;
+    pathTo(v){
+        if(!this.hasPathTo(v)){
+            return null;
+        }
+        const path = [];//通过栈来储存路径
+        const {s,edgeTo} = this;
+        for (let x=v;x!=s;x=edgeTo[x]){         //因为edgeTo储存的是最后一个到的顶点，所以从v开始逆着找，直到找到起点s
+            path.push(x);
+        }
+        path.push(s);
+        return path;
+    }
+    bfs(graph){
+        const {s} = this;
+        const queue = [s];
+        this.marked[s] = true;
+        while(queue.length){
+            const v = queue.pop();
+            for(let w in graph.adj[v]){
+                if(!this.marked[w]){
+                    this.edgeTo[w] = v;
+                    this.marked[w] = true;
+                    queue.unshift(w);
                 }
             }
         }
-        return map;
-    };
+    }
 }
+//https://www.jianshu.com/p/e38ce26eb45e
 
-
-module.exports = {
-    Graph
-}
+module.exports =BreadthFirstPaths
