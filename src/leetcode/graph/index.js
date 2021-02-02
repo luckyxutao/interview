@@ -60,7 +60,7 @@ function printPath(nodes,prevs,nId){
     console.log(nId);
 }
 const prevs = dijkstra(g,934137);
-printPath(g.nodes,prevs,353758)
+printPath(g.nodes,prevs,291893)
 /*
 Breast cancer
 leve2 
