@@ -2,12 +2,12 @@
     "code": 200,
     "info": "成功",
     "data": {
-        "graphId": 36256,
-        "wordId": 837094,
+        "graphId": 75265,
+        "wordId": 934137,
         "userChooseParam": true,
         "level": 2,
         "coOccurrenceCounts": [
-            4
+            5
         ],
         "beginYear": 1979,
         "endYear": 2021,
@@ -19,128 +19,56 @@
         "nodes": [
             {
                 "type": 1,
-                "id": 837094,
-                "word": "EGFR",
-                "count": 468,
-                "impactFactor": 4318.649999999999,
+                "id": 934137,
+                "word": "Breast cancer",
+                "count": 1901,
+                "impactFactor": 43953.77500000005,
                 "level": 0,
                 "center": true
             },
             {
                 "type": 1,
-                "id": 621800,
-                "word": "Nivolumab",
-                "count": 207,
-                "impactFactor": 2044.1630000000014,
+                "id": 222467,
+                "word": "invasion",
+                "count": 365,
+                "impactFactor": 3021.0059999999994,
                 "level": 2,
                 "center": false
             },
             {
                 "type": 1,
-                "id": 1000459,
-                "word": "ALK",
-                "count": 85,
-                "impactFactor": 2845.352999999999,
+                "id": 189760,
+                "word": "metastasis",
+                "count": 1215,
+                "impactFactor": 15031.278000000038,
                 "level": 1,
                 "center": false
             },
             {
                 "type": 1,
-                "id": 552876,
-                "word": "Prognosis",
-                "count": 1899,
-                "impactFactor": 22567.919999999966,
-                "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 594831,
-                "word": "PI3K",
-                "count": 388,
-                "impactFactor": 5211.977000000005,
+                "id": 819897,
+                "word": "Estrogen receptor",
+                "count": 140,
+                "impactFactor": 1278.1819999999989,
                 "level": 1,
                 "center": false
             },
             {
                 "type": 1,
-                "id": 43398,
-                "word": "targeted therapy",
-                "count": 675,
-                "impactFactor": 11918.939000000028,
-                "level": 1,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 986916,
-                "word": "Afatinib",
-                "count": 45,
-                "impactFactor": 467.4239999999998,
+                "id": 975803,
+                "word": "Angiogenesis",
+                "count": 1138,
+                "impactFactor": 9499.614,
                 "level": 2,
                 "center": false
             },
             {
                 "type": 1,
-                "id": 900227,
-                "word": "Chemotherapy",
-                "count": 1259,
-                "impactFactor": 19243.45999999999,
+                "id": 887128,
+                "word": "Colorectal cancer",
+                "count": 1282,
+                "impactFactor": 21378.25399999994,
                 "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 597574,
-                "word": "PD-1",
-                "count": 437,
-                "impactFactor": 4325.292000000002,
-                "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 235891,
-                "word": "immunotherapy",
-                "count": 2601,
-                "impactFactor": 32578.434999999838,
-                "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 597467,
-                "word": "PD-L1",
-                "count": 450,
-                "impactFactor": 8546.390999999994,
-                "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 371638,
-                "word": "autophagy",
-                "count": 2699,
-                "impactFactor": 23717.88800000027,
-                "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 262480,
-                "word": "glioblastoma",
-                "count": 826,
-                "impactFactor": 7366.527000000036,
-                "level": 1,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 685791,
-                "word": "Lung cancer",
-                "count": 990,
-                "impactFactor": 11263.882000000029,
-                "level": 1,
                 "center": false
             },
             {
@@ -154,500 +82,86 @@
             },
             {
                 "type": 1,
-                "id": 934137,
-                "word": "Breast cancer",
-                "count": 1901,
-                "impactFactor": 43953.77500000005,
-                "level": 1,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 289213,
-                "word": "epidermal growth factor receptor",
-                "count": 163,
-                "impactFactor": 1349.8840000000002,
-                "level": 1,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 967442,
-                "word": "Apoptosis",
-                "count": 1995,
-                "impactFactor": 14142.87099999998,
+                "id": 353758,
+                "word": "cancer",
+                "count": 3409,
+                "impactFactor": 63852.29999999923,
                 "level": 2,
                 "center": false
             },
             {
                 "type": 1,
-                "id": 941651,
-                "word": "Biomarkers",
-                "count": 1607,
-                "impactFactor": 21550.064999999908,
+                "id": 836135,
+                "word": "EMT",
+                "count": 313,
+                "impactFactor": 4839.563000000001,
                 "level": 2,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 633750,
-                "word": "NSCLC",
-                "count": 395,
-                "impactFactor": 4268.392999999998,
-                "level": 1,
-                "center": false
-            },
-            {
-                "type": 1,
-                "id": 710645,
-                "word": "KRAS",
-                "count": 202,
-                "impactFactor": 4167.583999999997,
-                "level": 1,
                 "center": false
             }
         ],
         "links": [
             {
                 "type": 2,
-                "lid": 1534979707,
-                "source": 941651,
-                "target": 43398,
-                "count":1
+                "lid": 1148300483,
+                "source": 189760,
+                "target": 887128,
+                "count": 56
             },
             {
                 "type": 2,
-                "lid": 1922963604,
-                "source": 371638,
-                "target": 594831,
-                "count":1
+                "lid": 1795950207,
+                "source": 934137,
+                "target": 819897,
+                "count": 55
             },
             {
                 "type": 2,
-                "lid": 1080378606,
-                "source": 235891,
-                "target": 371638,
-                "count":1
+                "lid": 1152947851,
+                "source": 189760,
+                "target": 836135,
+                "count": 66
             },
             {
                 "type": 2,
-                "lid": 595790990,
-                "source": 837094,
+                "lid": 1120647775,
+                "source": 189760,
+                "target": 975803,
+                "count": 67
+            },
+            {
+                "type": 2,
+                "lid": 1325762464,
+                "source": 189760,
+                "target": 222467,
+                "count": 76
+            },
+            {
+                "type": 2,
+                "lid": 1332860425,
+                "source": 353758,
+                "target": 975803,
+                "count": 59
+            },
+            {
+                "type": 2,
+                "lid": 1124378280,
+                "source": 934137,
+                "target": 189760,
+                "count": 101
+            },
+            {
+                "type": 2,
+                "lid": 624331546,
+                "source": 934137,
                 "target": 768413,
-                "count":1
+                "count": 75
             },
             {
                 "type": 2,
-                "lid": 241845223,
-                "source": 685791,
-                "target": 1000459,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 871066981,
-                "source": 837094,
-                "target": 594831,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1538707513,
-                "source": 900227,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1248543995,
-                "source": 235891,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1648541010,
-                "source": 552876,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1194178237,
-                "source": 235891,
-                "target": 768413,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1057562777,
-                "source": 597467,
-                "target": 552876,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1050853950,
-                "source": 235891,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 2029043564,
-                "source": 371638,
-                "target": 900227,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 916859067,
-                "source": 685791,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1330145110,
-                "source": 597467,
-                "target": 941651,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 763260124,
-                "source": 633750,
-                "target": 941651,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 913970270,
-                "source": 900227,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 902470382,
-                "source": 967442,
-                "target": 594831,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1695019296,
-                "source": 621800,
-                "target": 597574,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 2100107139,
-                "source": 941651,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 917698076,
-                "source": 941651,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 888683350,
-                "source": 837094,
-                "target": 710645,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1163557109,
-                "source": 900227,
-                "target": 552876,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1162632572,
-                "source": 633750,
-                "target": 235891,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1080534483,
-                "source": 633750,
-                "target": 552876,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1135821701,
-                "source": 235891,
-                "target": 552876,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1946020938,
-                "source": 633750,
-                "target": 371638,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1600205016,
-                "source": 837094,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1085211795,
-                "source": 552876,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 767105927,
-                "source": 633750,
-                "target": 986916,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 741130771,
-                "source": 837094,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 715479012,
-                "source": 900227,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 709727370,
-                "source": 967442,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1733508761,
-                "source": 262480,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 703201441,
-                "source": 633750,
-                "target": 710645,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 825312509,
-                "source": 552876,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1329306101,
-                "source": 597467,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1950698250,
-                "source": 371638,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1242412381,
-                "source": 597467,
-                "target": 621800,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 733880559,
-                "source": 837094,
-                "target": 633750,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1248071990,
-                "source": 597467,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 2031932361,
-                "source": 371638,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1564359272,
-                "source": 837094,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 2018447638,
-                "source": 967442,
-                "target": 900227,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 759532318,
-                "source": 633750,
-                "target": 900227,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 888318511,
-                "source": 837094,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 734454439,
-                "source": 633750,
-                "target": 1000459,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 917047114,
-                "source": 837094,
-                "target": 289213,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 765283960,
-                "source": 633750,
-                "target": 967442,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 2098083303,
-                "source": 967442,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 919721912,
-                "source": 967442,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1243394678,
-                "source": 633750,
-                "target": 597467,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1607286567,
-                "source": 941651,
-                "target": 597574,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 880755604,
-                "source": 371638,
-                "target": 262480,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 899607537,
-                "source": 594831,
-                "target": 934137,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1621730139,
-                "source": 633750,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1689359687,
-                "source": 597574,
-                "target": 685791,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1617052827,
-                "source": 685791,
-                "target": 43398,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1972712687,
-                "source": 371638,
-                "target": 710645,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 961420468,
-                "source": 837094,
-                "target": 1000459,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 857639393,
-                "source": 685791,
-                "target": 710645,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 97186613,
-                "source": 633750,
-                "target": 621800,
-                "count":1
-            },
-            {
-                "type": 2,
-                "lid": 1694036999,
-                "source": 633750,
-                "target": 597574,
-                "count":1
+                "lid": 1294330106,
+                "source": 189760,
+                "target": 353758,
+                "count": 144
             }
         ],
         "shortPaths": null
