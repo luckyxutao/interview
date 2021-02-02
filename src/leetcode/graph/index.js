@@ -10,6 +10,7 @@ g.setData(graph);
 function dijkstra(g,startId){
     const distanceMap = {};
     const accessedSet = {};
+    const prevs = {};
     let size = g.size();
     const {nodes} = g;
     for(let i = 1;i<size;i++){
@@ -18,6 +19,7 @@ function dijkstra(g,startId){
     accessedSet[startId] = true;
     for(let nId in g.adj[startId]){
         distanceMap[nId] = 1;
+        prevs[nId] = startId;
     }
     for(let i = 1;i<size;i++){
         let minDistanceFromStart = Number.MAX_VALUE;
@@ -41,15 +43,24 @@ function dijkstra(g,startId){
             let weight =1;
             let preDistance = distanceMap[nId]
             if(weight !== Number.MAX_VALUE && (minDistanceFromStart+weight)<preDistance){
-                distanceMap[nId] = minDistanceFromStart + weight
+                distanceMap[nId] = minDistanceFromStart + weight;
+                prevs[nId] = minDistanceIndex;
             }
         }
     }
-    return distanceMap;
+    return prevs;
 }
-
-dijkstra(g,934137);
-
+function printPath(nodes,prevs,nId){
+    if(!nId){
+        return;
+    }
+    if(nId){
+        printPath(nodes,prevs,prevs[nId])
+    }
+    console.log(nId);
+}
+const prevs = dijkstra(g,934137);
+printPath(g.nodes,prevs,353758)
 /*
 Breast cancer
 leve2 
