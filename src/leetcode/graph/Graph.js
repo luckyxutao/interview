@@ -5,12 +5,12 @@ class Graph{
     setData({links,nodes}){
         this.links  = links;
         this.nodes = nodes;
-        this.adj = this.convert_graph(nodes,links)
+        this.adj = this.buildAdjTable(nodes,links)
     }
     size(){
         return this.nodes.length;
     }
-     convert_graph(nodes,links) {
+    buildAdjTable(nodes,links) {
         var j, k, l, len, len1, map, n, ref, map = {},ref = nodes;
         // let links = links;
         for (j = 0, len = ref.length; j < len; j++) {
