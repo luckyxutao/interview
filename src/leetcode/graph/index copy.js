@@ -112,7 +112,7 @@ for(let i = 0;i<shortest_path.length;i++){
     nodeIds.push(...singlePathNodeIds)
     linkIds.push(...singlePathLinkIds);
 }
-console.log();
+console.log(nodeIds,linkIds);
 // let shortest_path = [];
 // console.timeEnd("共花费了");
 // printPath(g.nodes,prevs,213896,shortest_path);
