@@ -14,13 +14,16 @@ class PriorityQueue {
     parent(index){
         return Math.floor((index-1)/2);
     }
+    size(){
+        return this.pq.length;
+    }
     swim(){
         //最后一个元素 开始上浮
         let childIndex = this.pq.length-1;
         let lastEle = this.pq[childIndex];
         let parentIndex = this.parent(childIndex);
         //一直和新元素比较
-        while(childIndex>0 && lastEle<this.pq[parentIndex]){
+        while(childIndex>0 && lastEle>this.pq[parentIndex]){
             this.pq[childIndex] = this.pq[parentIndex];
             childIndex = parentIndex;
             parentIndex = this.parent(childIndex);
@@ -34,10 +37,10 @@ class PriorityQueue {
         let size = this.pq.length;
         while(childIndex<size){
             //如果 有右孩子，且
-            if(childIndex+1<size && this.pq[childIndex+1]< this.pq[childIndex]){
+            if(childIndex+1<size && this.pq[childIndex+1]>this.pq[childIndex]){
                 childIndex++;
             }
-            if(topEle <this.pq[childIndex]){
+            if(topEle > this.pq[childIndex]){
                 break;
             }
             this.pq[parentIndex] = this.pq[childIndex];
@@ -59,49 +62,23 @@ class PriorityQueue {
     }
 }
 module.exports = PriorityQueue;
-/**
- * initialize your data structure here.
- */
-var MedianFinder = function() {
-    this.min = new PriorityQueue();
-    this.max = new PriorityQueue();
-  };
-  
-  /** 
-   * @param {number} num
-   * @return {void}
-   */
-  MedianFinder.prototype.addNum = function(num) {
-    this.min.push(num);
-    this.max.push(this.min.top()*-1);
-    this.min.pop();
-    if(this.min.length < this.max.length){
-        this.min.push(this.max.top()*-1);
-        this.max.pop();
-    }
-  };
-  
-  MedianFinder.prototype.findMedian = function() {
-      const {min,max} = this;
-      if(min.length > max.length){
-          return this.min.top();
-      } else {
-          return 0.5 * (min.top() + max.top()*-1);
-      }
-};
 
-var m = new MedianFinder();
-m.addNum(2);
-m.addNum(3);
-m.addNum(4);
-console.log(m.findMedian());
 
-// let arr = [5,7,2,6,1,10,4,100,3];
-// let iMap = new PriorityQueue();
-// for(let i = 0;i<arr.length;i++){
-//     iMap.push(arr[i]*-1);
-// }
-// console.log(iMap.top()*-1);
+let arr = [5,7,2,6,1,10,4,100,3];
+let iMap = new PriorityQueue();
+for(let i = 0;i<arr.length;i++){
+    iMap.push(arr[i]);
+}
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+iMap.pop()
+console.log(iMap.top());
 // // class MinHeap{
 // //     constructor(){
 // //         // 存储元素的数组
