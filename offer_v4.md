@@ -73,7 +73,7 @@
 [解析](xxx)
 * [面试题41. 数据流中的中位数-1](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
-
+[解析](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg)
 ### 未知
 * [面试题61. 扑克牌中的顺子-1](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/mian-shi-ti-61-bu-ke-pai-zhong-de-shun-zi-by-luc-2/)
