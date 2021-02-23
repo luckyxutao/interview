@@ -55,7 +55,7 @@
 ### map/set
 * [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 [解析](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/349-liang-ge-shu-zu-de-jiao-ji-by-luckyxutao/)
-* [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+* [128. 最长连续序列-1](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 [解析](https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/128-zui-chang-lian-xu-xu-lie-by-luckyxutao/)
 
 ***
