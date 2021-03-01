@@ -43,7 +43,7 @@
 [解析](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ipdi-zhi-hui-su-fa-by-luckyxutao/)
 
 ### 数学
-* [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
+* [60. 第k个排列-1](https://leetcode-cn.com/problems/permutation-sequence/)
 [解析](https://leetcode-cn.com/problems/permutation-sequence/solution/60-di-kge-pai-lie-by-luckyxutao/)
 * [43. 字符串相乘-1](https://leetcode-cn.com/problems/multiply-strings/)
 [解析](https://leetcode-cn.com/problems/multiply-strings/solution/43-zi-fu-chuan-xiang-cheng-by-luckyxutao/)
