@@ -33,7 +33,7 @@
 [解析](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-pai-xu-zuo-you-zhi-zhen-by-lucky/)
 
 ### 栈/队列
-* [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+* [71. 简化路径-1](https://leetcode-cn.com/problems/simplify-path/)
 [解析](https://leetcode-cn.com/problems/simplify-path/solution/71-jian-hua-lu-jing-fu-zhu-zhan-by-luckyxutao/)
 ### DFS搜索
 * [695. 岛屿的最大面积-1](https://leetcode-cn.com/problems/max-area-of-island/)
