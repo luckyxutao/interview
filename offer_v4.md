@@ -21,7 +21,7 @@
 ### 滑动窗口(连续子串、序列)
 * [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 [解析](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/solution/674-zui-chang-lian-xu-di-zeng-xu-lie-hua-dong-chua/)
-* [567. 字符串的排列]
+* [567. 字符串的排列-1]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
 
 ### 左右指针
