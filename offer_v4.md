@@ -15,7 +15,7 @@
 ### 二分
 * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
-* [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
+* [704. 二分查找-1](https://leetcode-cn.com/problems/binary-search/)
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao-2/)
 
 ### 滑动窗口(连续子串、序列)
