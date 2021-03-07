@@ -15,6 +15,7 @@
 ### 二分
 * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
+[解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/er-fen-sou-suo-by-luckyxutao-h2xd/)
 * [704. 二分查找-1](https://leetcode-cn.com/problems/binary-search/)
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao-2/)
 
