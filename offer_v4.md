@@ -5,7 +5,7 @@
 [解析](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/215-shu-zu-zhong-de-di-kge-zui-da-yuan-su-by-lucky/)
 
 ### 字符串
-* [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+* [9. 回文数-1](https://leetcode-cn.com/problems/palindrome-number/)
 [解析](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-zi-fu-chuan-jie-fa-by-luckyxutao/)
 * [2. 两数相加-1](https://leetcode-cn.com/problems/add-two-numbers/)
 [解析](https://leetcode-cn.com/problems/add-two-numbers/solution/2-liang-shu-xiang-jia-chu-deng-shu-xue-by-luckyxut/)
