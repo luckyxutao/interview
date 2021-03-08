@@ -9,7 +9,7 @@
 [解析](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-zi-fu-chuan-jie-fa-by-luckyxutao/)
 * [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 [解析](https://leetcode-cn.com/problems/add-two-numbers/solution/2-liang-shu-xiang-jia-chu-deng-shu-xue-by-luckyxut/)
-* [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+* [14. 最长公共前缀-1](https://leetcode-cn.com/problems/longest-common-prefix/)
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-zhu-lie-dui-bi-by/)
 
 ### 二分
