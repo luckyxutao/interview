@@ -8,9 +8,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 ### 树
 * [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
-
-
-
+* [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+[解析](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/solution/hou-xu-bian-li-si-xiang-shi-xian-by-luck-ns5n/)
 
 
 
