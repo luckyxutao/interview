@@ -16,7 +16,7 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://mp.weixin.qq.com/s/9RKzBcr3I592spAsuMH45g)、[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/)
 * [543. 二叉树的直径-1](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 [解析](https://leetcode-cn.com/problems/diameter-of-binary-tree/solution/zi-jie-ti-ku-543-jian-dan-er-cha-shu-de-dq7om/)
-
+* [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 
 
 
