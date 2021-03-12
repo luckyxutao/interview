@@ -19,9 +19,9 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/diameter-of-binary-tree/solution/zi-jie-ti-ku-543-jian-dan-er-cha-shu-de-dq7om/)
 * [572. 另一个树的子树-1](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 [解析](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/di-gui-shi-xian-zi-shu-cha-zhao-by-lucky-1xyx/)、[解析2](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/ling-yi-ge-shu-de-zi-shu-by-leetcode-solution/)
-### 哈希表
+### 链表
 * [1. 两数之和-1](https://leetcode-cn.com/problems/two-sum/)
-
+* [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 
 
