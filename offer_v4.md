@@ -21,6 +21,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/di-gui-shi-xian-zi-shu-cha-zhao-by-lucky-1xyx/)、[解析2](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/ling-yi-ge-shu-de-zi-shu-by-leetcode-solution/)
 ### 哈希表
 * [1. 两数之和-1](https://leetcode-cn.com/problems/two-sum/)
+* [49. 字母异位词分组-1](https://leetcode-cn.com/problems/group-anagrams/)
+[解析](https://leetcode-cn.com/problems/group-anagrams/solution/ha-xi-biao-jian-pai-xu-by-luckyxutao-k38t/)
 ### 链表
 * [3. 无重复字符的最长子串-1](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
