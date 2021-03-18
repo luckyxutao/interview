@@ -27,7 +27,7 @@ https://blog.csdn.net/Time2017/article/details/106432341
 * [3. 无重复字符的最长子串-1](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
 * [560. 和为K的子数组-1x](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
-[解析](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/hashmapsi-lu-by-luckyxutao-sryl/)
+[解析](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/hashmapsi-lu-by-luckyxutao-sryl/)、[解析](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/bao-li-jie-fa-qian-zhui-he-qian-zhui-he-you-hua-ja/)
 
 
 
