@@ -32,8 +32,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 ### 链表
 * [3. 无重复字符的最长子串-1](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
-
-
+* [19. 删除链表的倒数第 N 个结点-1](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+[解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/hua-jie-suan-fa-19-shan-chu-lian-biao-de-dao-shu-d/)
 
 -----------
  收藏
