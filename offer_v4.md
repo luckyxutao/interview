@@ -38,7 +38,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-1](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
-
+* [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+[解析]()
 -----------
  收藏
 -----------
