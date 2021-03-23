@@ -43,6 +43,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 ### 回溯算法
 * [17. 电话号码的字母组合-1](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 [解析](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/biao-zhun-hui-su-fa-shi-xian-by-luckyxut-d1lx/)
+* [22. 括号生成-1](https://leetcode-cn.com/problems/generate-parentheses/)
+[解析](https://leetcode-cn.com/problems/generate-parentheses/solution/hui-su-fa-by-luckyxutao-5w6f/)
 -----------
  收藏
 -----------
