@@ -6,6 +6,11 @@
 https://www.cnblogs.com/yxy2081/p/13553236.html
 
 https://blog.csdn.net/Time2017/article/details/106432341
+
+### 经典题目
+* [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
+[解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
+
 ### 树
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
