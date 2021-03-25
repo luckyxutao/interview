@@ -46,6 +46,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 * [22. 括号生成-1](https://leetcode-cn.com/problems/generate-parentheses/)
 [解析](https://leetcode-cn.com/problems/generate-parentheses/solution/hui-su-fa-by-luckyxutao-5w6f/)
 * [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+* [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
+[解析](https://leetcode-cn.com/problems/word-search/solution/biao-zhun-hui-su-fa-by-luckyxutao-pelm/)
 
 -----------
  收藏
