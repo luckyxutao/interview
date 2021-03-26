@@ -12,6 +12,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
 * [88. 合并两个有序数组-1](https://leetcode-cn.com/problems/merge-sorted-array/)
 [解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/88-he-bing-liang-ge-you-xu-shu-zu-shuang-bu76/)
+* [121. 买卖股票的最佳时机-1](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+
 ### 树
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
