@@ -16,6 +16,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 * [125. 验证回文串-1](https://leetcode-cn.com/problems/valid-palindrome/)
 [解析](https://leetcode-cn.com/problems/valid-palindrome/solution/shuang-zhi-zhen-fa-by-luckyxutao-9iui/)
 * [102. 二叉树的层序遍历-1](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+* [138. 复制带随机指针的链表-1](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+[解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/hashmapjie-jue-by-luckyxutao-i1ds/)
 
 ### 树
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
