@@ -1,44 +1,56 @@
 /**
- * @param {number[]} nums1
- * @param {number[]} nums2
- * @return {number[]}
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
  */
-var intersection = function(nums1, nums2) {
-    let st = new Set(nums1);
-    let st2 = new Set(nums2);
-    let res = [];
-    for(let n of st){
-        if(st2.has(n)){
-            res.push(n);
+/**
+ * @param {TreeNode} root
+ * @return {number[][]}
+ */
+ var levelOrder = function(root) {
+     let res = [];
+    if(!root){
+        return res;
+    }
+    let queue = [root];
+    let cur;
+    let tmpArr = [];
+    while(queue.length){
+        let levelLen = queue.length;
+        let i = 0;
+        tmpArr.length = 0;
+        while(i<levelLen){
+            cur = queue.pop();
+            tmpArr.push(cur.val);
+            cur.left && queue.unshift(cur.left);
+            cur.right && queue.unshift(cur.right);
+            i++;
         }
+        res.push([...tmpArr])
     }
     return res;
 };
-nums1 = [4,9,5], nums2 = [9,4,9,8,4]
-console.log(intersection(nums1,nums2))
+
+
 /*
 
-给定两个数组，编写一个函数来计算它们的交集。
 
- 
+给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
 
-示例 1：
+说明：本题中，我们将空字符串定义为有效的回文串。
 
-输入：nums1 = [1,2,2,1], nums2 = [2,2]
-输出：[2]
-示例 2：
+示例 1:
 
-输入：nums1 = [4,9,5], nums2 = [9,4,9,8,4]
-输出：[9,4]
- 
+输入: "A man, a plan, a canal: Panama"
+输出: true
+示例 2:
 
-说明：
-
-输出结果中的每个元素一定是唯一的。
-我们可以不考虑输出结果的顺序。
-
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/intersection-of-two-arrays
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+输入: "race a car"
+输出: false
 
 */
+const constructTreeFromArray = require('../lib/constructTreeFromArray');
+console.log(levelOrder(constructTreeFromArray([1,2,3,4,5])))

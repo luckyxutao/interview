@@ -15,12 +15,3 @@ Function.prototype.bind = function(context,...args){
    fBound.prototype = new fNop();
    return fBound;
 }
-let obj = {
-    name :'xutao'
-}
-function print(a,b){
-    console.log(a+ this.name + b);
-}
-
-let Func = print.bind(obj,'a');
-Func('b')
