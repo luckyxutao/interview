@@ -21,6 +21,9 @@ https://blog.csdn.net/Time2017/article/details/106432341
 * [146. LRU 缓存机制]
 * [200. 岛屿数量-1](https://leetcode-cn.com/problems/number-of-islands/)
 [解析](https://leetcode-cn.com/problems/number-of-islands/solution/biao-zhun-de-dfsjie-fa-by-luckyxutao-mfby/)
+* [42. 接雨水-1](https://leetcode-cn.com/problems/trapping-rain-water/)
+[解析](https://leetcode-cn.com/problems/trapping-rain-water/solution/bei-wang-lu-mo-shi-by-luckyxutao-a56a/)
+
 
 ### 树
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
