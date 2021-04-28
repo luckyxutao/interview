@@ -25,3 +25,6 @@ function sum(a:string|number,b:string|number){
     return ''
 }
 ```
+### 访问修饰符
+ * private 类内部使用，子类、实例不可访问
+ * protected 类内部、派生类可见
