@@ -14,6 +14,19 @@ type 运算的本质就是类型别名，将 number 这个基本类型别名为 
   * 用之前需要强制通过 as等类型转换后再使用
 ### overload
 ```javascript
+function add(a: number, b: number): number;
+function add(a: string, b: string): string;
+function add(a: string, b: number): string;
+function add(a: number, b: string): string;
+function add(a: Combinable, b: Combinable) {
+  // type Combinable = string | number;
+  if (typeof a === 'string' || typeof b === 'string') {
+    return a.toString() + b.toString();
+  }
+  return a + b;
+}
+
+
 function sum(a:number,b:number):number;
 function sum(a:string,b:string):string;
 function sum(a:string|number,b:string|number){
