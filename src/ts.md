@@ -12,3 +12,16 @@ type 运算的本质就是类型别名，将 number 这个基本类型别名为 
   * TS 强制我们在进一步确认 unknown 的类型之前无法对其进行任何操作。
   * 通过 typeof instanceof 以及定义的类型断言等方法可以把 unknown 缩小到执行的类型，从而执行合法的操作。
   * 用之前需要强制通过 as等类型转换后再使用
+### overload
+```javascript
+function sum(a:number,b:number):number;
+function sum(a:string,b:string):string;
+function sum(a:string|number,b:string|number){
+    if(typeof a === 'string'){
+        return a + b;
+    } else if(typeof a === 'number' && typeof b === 'number'){
+        return a + b;
+    }
+    return ''
+}
+```
