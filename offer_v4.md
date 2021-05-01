@@ -31,6 +31,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/he-bing-shu-zu-fa-shi-xian-by-luckyxutao-0zr2/)
 * [11. 盛最多水的容器-1](https://leetcode-cn.com/problems/container-with-most-water/)
 [解析](https://leetcode-cn.com/problems/container-with-most-water/solution/biao-zhun-de-zuo-you-zhi-zhen-by-luckyxu-p3dn/)
+* [15. 三数之和-1](https://leetcode-cn.com/problems/3sum/)
+[解析](https://leetcode-cn.com/problems/3sum/solution/pai-xu-zuo-you-zhi-zhen-by-luckyxutao-z6z5/)
 * [31. 下一个排列-1](https://leetcode-cn.com/problems/next-permutation/)
 [解析](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-luckyxutao-7kye/)
 
