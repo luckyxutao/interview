@@ -42,6 +42,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/er-fen-cha-zhao-jie-jue-fang-an-by-lucky-soog/)
 * [54. 螺旋矩阵-1](https://leetcode-cn.com/problems/spiral-matrix/)
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/si-lu-jian-dan-yi-ci-xing-tong-guo-by-lu-exnc/)
+* [56. 合并区间-1](https://leetcode-cn.com/problems/merge-intervals/)
+[解析](https://leetcode-cn.com/problems/merge-intervals/solution/si-lu-jian-dan-by-luckyxutao-uy7a/)
 
 ### 树
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
@@ -64,7 +66,6 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/hashmapsi-lu-by-luckyxutao-sryl/)、[解析](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/bao-li-jie-fa-qian-zhui-he-qian-zhui-he-you-hua-ja/)
 * [953. 验证外星语词典-1](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)
 [解析](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/solution/hashmapjian-dan-shi-xian-by-luckyxutao-7skw/)
-
 
 ### 链表
 * [3. 无重复字符的最长子串-1](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
