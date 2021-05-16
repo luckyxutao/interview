@@ -27,7 +27,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/minimum-window-substring/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-oj3t/)
 
 ### 字符串
-
+* [680. 验证回文字符串 Ⅱ-1](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+[解析](https://leetcode-cn.com/problems/valid-palindrome-ii/solution/shuang-zhi-zhen-can-kao-guan-fang-by-luc-ldp6/)
 * [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
 * [165. 比较版本号-1](https://leetcode-cn.com/problems/compare-version-numbers/)
 [解析](https://leetcode-cn.com/problems/compare-version-numbers/solution/guan-fang-jie-fa-by-luckyxutao-4cbj/)
