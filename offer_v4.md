@@ -7,6 +7,10 @@ https://www.cnblogs.com/yxy2081/p/13553236.html
 
 https://blog.csdn.net/Time2017/article/details/106432341
 
+### 栈
+* [20. 有效的括号-1](https://leetcode-cn.com/problems/valid-parentheses/)
+[解析](https://leetcode-cn.com/problems/valid-parentheses/solution/zhan-xing-zhi-pan-duan-by-luckyxutao-j4fl/)
+
 ### 经典题目
 * [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
