@@ -1,2 +1,2 @@
 #### javascript
-[Promise.all-1]
+* [Promise.all-1]
