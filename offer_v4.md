@@ -8,7 +8,7 @@ https://www.cnblogs.com/yxy2081/p/13553236.html
 https://blog.csdn.net/Time2017/article/details/106432341
 
 ### 栈与堆
-* [移除无效括号-1](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)
+* [1249. 移除无效的括号-1](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)
 [解析](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/solution/shi-yong-zhan-he-stringbuildershi-xian-b-4pu6/)
 * [20. 有效的括号-1](https://leetcode-cn.com/problems/valid-parentheses/)
 [解析](https://leetcode-cn.com/problems/valid-parentheses/solution/zhan-xing-zhi-pan-duan-by-luckyxutao-j4fl/)
