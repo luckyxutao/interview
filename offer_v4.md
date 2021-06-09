@@ -18,8 +18,9 @@ https://blog.csdn.net/Time2017/article/details/106432341
 ### 经典题目
 * [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
-* [88. 合并两个有序数组-1](https://leetcode-cn.com/problems/merge-sorted-array/)
+* [88. 合并两个有序数组-2](https://leetcode-cn.com/problems/merge-sorted-array/)
 [解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/88-he-bing-liang-ge-you-xu-shu-zu-shuang-bu76/)
+[解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/liang-shu-zu-he-bing-jian-dan-si-lu-shi-0prl8/)
 * [121. 买卖股票的最佳时机-1](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 * [125. 验证回文串-1](https://leetcode-cn.com/problems/valid-palindrome/)
 [解析](https://leetcode-cn.com/problems/valid-palindrome/solution/shuang-zhi-zhen-fa-by-luckyxutao-9iui/)
