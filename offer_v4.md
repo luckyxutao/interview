@@ -19,8 +19,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/top-k-frequent-words/solution/pai-xu-shu-liang-tong-ji-shi-xian-by-luc-u4o8/)
 * [215. 数组中的第K个最大元素-1](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 ### 分治
-* [23. 合并K个升序链表-0](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
-
+* [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+[解析:归并排序]()
 ### 经典题目
 * [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
