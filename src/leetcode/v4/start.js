@@ -1,37 +1,29 @@
-const PriorityQueue = require('../lib/PriorityQueueCmp');//最大堆
-function topKFrequent(words, k) {
-
-    let maxQueue = new PriorityQueue((a,b)=>{
-      return a>b;
-    });
-    for(let i =0;i<words.length;i++){
-      const w = words[i];
-      if(maxQueue.size()<k){
-        maxQueue.push(w);
-      } else {
-        if(maxQueue.top() < w){
-          maxQueue.push(w)
-          maxQueue.pop();
-       }
-      }
-    }
-    const results = [];
-    while(maxQueue.size()>0){
-      results.unshift(maxQueue.pop())
-    }
-    return results;
+var kClosest = function(points, k) {
+  let sorted = mergeSort(points,0,points.length-1);
+  return sorted.slice(0,k);
 };
-
-    // let maxQueue = new PriorityQueue((a,b)=>{
-    //   return a<b;
-    // });
-    // [4,2,115,1,3,15].forEach(v=>{
-    //   maxQueue.push(v);
-    // });
-    // // maxQueue.pop()
-    // maxQueue.pop()
-    // // maxQueue.pop()
-    // console.log(maxQueue)
-  const   words =[1,10,2,19,180,32,8], k = 3;
-
-console.log(topKFrequent(words,k));
+function mergeSort(points,low,hi){
+if(low>=hi){
+  return [points[low]];
+}
+let mid = Math.floor((low+hi)/2);
+let a = mergeSort(points,low,mid);
+let b = mergeSort(points,mid+1,hi);
+return merge(a,b);
+}
+function merge(a,b){
+let res = [];
+while(a.length && b.length){
+  if(distance(a[0])<=distance(b[0])){
+    res.push(a.shift());
+  } else {
+    res.push(b.shift());
+  }
+}
+  return a.length ? res.concat(a) : res.concat(b);
+}
+function distance([x,y]){
+return Math.pow(x,2) + Math.pow(y,2);
+}
+const points = [[3,3],[5,-1],[-2,4]], K = 2;
+console.log(kClosest(points,K))
