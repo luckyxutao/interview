@@ -10,6 +10,12 @@
 
 
 ### 笔试
+* [给 JavaScript 的 String 原生对象添加一个名为 trim 的原型方法]()
+```javascript
+  String.prototype.myTrim = function(){
+    return this.replace(/^\s*|\s*$/g,'')
+  }
+```
 * [给定起止日期，返回中间的所有月份]()
 ```javascript
 const getRangeMonth = (startDateStr = '', endDateStr = '') => {
