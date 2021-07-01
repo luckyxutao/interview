@@ -7,6 +7,8 @@ https://www.cnblogs.com/yxy2081/p/13553236.html
 
 https://blog.csdn.net/Time2017/article/details/106432341
 ### 数学
+* [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
+[解析](https://leetcode-cn.com/problems/add-binary/solution/67-er-jin-zhi-qiu-he-mo-ni-jia-fa-by-luc-rgqe/)
 * [7. 整数反转-1](https://leetcode-cn.com/problems/reverse-integer/)
 [解析](https://leetcode-cn.com/problems/reverse-integer/solution/zheng-shu-fan-zhuan-qu-zheng-yun-suan-by-6bw2/)
 * [8. 字符串转换整数 (atoi)-1](https://leetcode-cn.com/problems/string-to-integer-atoi/)
