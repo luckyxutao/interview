@@ -9,6 +9,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 ### 数学
 * [1013. 将数组分成和相等的三个部分-0](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)
 * [384. 打乱数组-0](https://leetcode-cn.com/problems/shuffle-an-array/)
+* [202. 快乐数-1](https://leetcode-cn.com/problems/happy-number/)
+[解析](https://leetcode-cn.com/problems/happy-number/solution/kuai-man-zhi-zhen-202-kuai-le-shu-by-luc-kuk8/)
 * [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
 [解析](https://leetcode-cn.com/problems/add-binary/solution/67-er-jin-zhi-qiu-he-mo-ni-jia-fa-by-luc-rgqe/)
 * [7. 整数反转-1](https://leetcode-cn.com/problems/reverse-integer/)
