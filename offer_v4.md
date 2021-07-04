@@ -6,6 +6,8 @@
 https://www.cnblogs.com/yxy2081/p/13553236.html
 
 https://blog.csdn.net/Time2017/article/details/106432341
+
+
 ### 数学
 * [1013. 将数组分成和相等的三个部分-0](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)
 * [384. 打乱数组-0](https://leetcode-cn.com/problems/shuffle-an-array/)
@@ -65,6 +67,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 [解析](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/zi-ding-yi-pai-xu-fang-an-by-luckyxutao-35c8/)
 
 ### 数组
+* [384. 打乱数组-1](https://leetcode-cn.com/problems/shuffle-an-array/)
+[解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-kcuh/)
 * [4. 寻找两个正序数组的中位数-1](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 [解析](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/he-bing-shu-zu-fa-shi-xian-by-luckyxutao-0zr2/)
 * [11. 盛最多水的容器-1](https://leetcode-cn.com/problems/container-with-most-water/)
