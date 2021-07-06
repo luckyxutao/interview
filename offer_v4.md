@@ -210,7 +210,7 @@ https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 ### 堆
 * [面试题40. 最小的k个数-1](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 [解析](xxx)
-* [面试题41. 数据流中的中位数-1](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
+* [面试题41. 数据流中的中位数-2](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/cha-ru-pai-xu-shi-xian-shu-ju-liu-de-zhong-wei-shu/)
 [解析](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg)
 ### 未知
