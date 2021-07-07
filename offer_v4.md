@@ -8,6 +8,10 @@ https://www.cnblogs.com/yxy2081/p/13553236.html
 https://blog.csdn.net/Time2017/article/details/106432341
 
 https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
+
+### 设计
+* [380. O(1) 时间插入、删除和获取随机元素-1](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+[解析](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/solution/shu-zu-map-by-luckyxutao-fxad/)
 ### 数学
 * [1013. 将数组分成和相等的三个部分-0](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)
 * [384. 打乱数组-1](https://leetcode-cn.com/problems/shuffle-an-array/)
