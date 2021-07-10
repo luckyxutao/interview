@@ -13,6 +13,7 @@ https://blog.csdn.net/Time2017/article/details/106432341
 https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 
 ### 动态规划
+* [70. 爬楼梯-1]()
 * [64. 最小路径和-1](https://leetcode-cn.com/problems/minimum-path-sum/)
 [解析](https://leetcode-cn.com/problems/minimum-path-sum/solution/dong-tai-gui-hua-shi-xian-si-lu-qing-xi-de51c/)
 
