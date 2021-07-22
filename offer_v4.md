@@ -13,6 +13,8 @@ https://blog.csdn.net/Time2017/article/details/106432341
 https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 
 ### 动态规划
+* [5. 最长回文子串-1](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+[解析](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zhong-xin-kuo-san-si-lu-by-luckyxutao-iwfa/)
 * [139. 单词拆分-1](https://leetcode-cn.com/problems/word-break/)
 [解析](https://leetcode-cn.com/problems/word-break/solution/can-kao-liao-guan-fang-ti-jie-by-luckyxu-bhzo/)
 * [322. 零钱兑换-1](https://leetcode-cn.com/problems/coin-change/)
