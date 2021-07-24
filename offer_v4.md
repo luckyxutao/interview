@@ -318,7 +318,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 动态规划
 * [面试题10- I. 斐波那契数列-1](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-g-4/)
-* [面试题10- II. 青蛙跳台阶问题-2](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+* [面试题10- II. 青蛙跳台阶问题-3](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solution/mian-shi-ti-10-ii-qing-wa-tiao-tai-jie-wen-ti-do-5/)
 * [面试题47. 礼物的最大价值-1](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 [解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-dong-tai--2/)
