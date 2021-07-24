@@ -65,7 +65,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [121. 买卖股票的最佳时机-1](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 * [125. 验证回文串-1](https://leetcode-cn.com/problems/valid-palindrome/)
 [解析](https://leetcode-cn.com/problems/valid-palindrome/solution/shuang-zhi-zhen-fa-by-luckyxutao-9iui/)
-* [102. 二叉树的层序遍历-1](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+* [102. 二叉树的层序遍历-2](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 * [138. 复制带随机指针的链表-1](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 [解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/hashmapjie-jue-by-luckyxutao-i1ds/)
 * [146. LRU 缓存机制-0]
