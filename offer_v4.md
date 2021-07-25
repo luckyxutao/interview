@@ -139,7 +139,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
 * [19. 删除链表的倒数第 N 个结点-1](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/hua-jie-suan-fa-19-shan-chu-lian-biao-de-dao-shu-d/)
-* [21. 合并两个有序链表-1](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* [21. 合并两个有序链表-2](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-1](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
