@@ -112,6 +112,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-1](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [104. 二叉树的最大深度-1](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
 * [124. 二叉树中的最大路径和-1](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
