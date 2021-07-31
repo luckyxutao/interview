@@ -55,6 +55,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [692. 前K个高频单词-1](https://leetcode-cn.com/problems/top-k-frequent-words/)
 [解析](https://leetcode-cn.com/problems/top-k-frequent-words/solution/pai-xu-shu-liang-tong-ji-shi-xian-by-luc-u4o8/)
 * [215. 数组中的第K个最大元素-1](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+[堆排序思路](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/dui-pai-xu-si-lu-shi-xian-by-luckyxutao-0jic/)
+
 ### 分治
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 [解析:归并排序]()
