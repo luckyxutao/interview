@@ -265,6 +265,8 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui--13/)
 
 ### 位运算
+* [231. 2 的幂-1](https://leetcode-cn.com/problems/power-of-two/submissions/)
+[解析](https://leetcode-cn.com/problems/power-of-two/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-1w90/)
 * [面试题56 - II. 数组中数字出现的次数 II-1](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/mian-shi-ti-56-ii-shu-zu-zhong-shu-zi-chu-xian-d-9/)
 * [面试题56 - I. 数组中数字出现的次数-1](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
