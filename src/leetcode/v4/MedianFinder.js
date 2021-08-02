@@ -43,3 +43,48 @@ MedianFinder.prototype.findMedian = function() {
  * obj.addNum(num)
  * var param_2 = obj.findMedian()
  */
+
+/**
+ * initialize your data structure here.
+ */
+ var MedianFinder = function() {
+    this.store = [];
+  };
+  
+  /** 
+   * @param {number} num
+   * @return {void}
+   [1]
+   */
+  MedianFinder.prototype.addNum = function(num) {
+    if(!this.store.length){
+      this.store.push(num);
+    } else {
+      let i = this.store.length-1;
+      let pos = this.store.length;
+      while(i>=0 && num < this.store[i]){
+        if(i<0){
+          break;
+        }
+        pos--;
+        i--;
+      }
+      this.store.splice(pos,0,num);
+    }
+  };
+  
+  MedianFinder.prototype.findMedian = function() {
+    let len = this.store.length;
+    let midIndex = Math.floor((this.store.length) /2);
+    if(len % 2 ==0){
+      return (this.store[midIndex] + this.store[midIndex-1])*0.5;
+    } else {
+      return this.store[midIndex];
+    }
+  };
+  
+  var i = new MedianFinder();
+  i.addNum(1);
+  i.addNum(2);
+  // i.findMedian();
+  console.log(i.findMedian());
