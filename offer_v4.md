@@ -118,6 +118,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-1](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [662. 二叉树最大宽度-1](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)
+[解析](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/solution/ceng-xu-bian-li-qing-song-jie-ti-by-isbo-78e1/)
 * [104. 二叉树的最大深度-2](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 * [98. 验证二叉搜索树-1](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
