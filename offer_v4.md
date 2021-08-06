@@ -111,7 +111,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/er-fen-cha-zhao-jie-jue-fang-an-by-lucky-soog/)
 * [54. 螺旋矩阵-1](https://leetcode-cn.com/problems/spiral-matrix/)
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/si-lu-jian-dan-yi-ci-xing-tong-guo-by-lu-exnc/)
-* [56. 合并区间-1](https://leetcode-cn.com/problems/merge-intervals/)
+* [56. 合并区间-2](https://leetcode-cn.com/problems/merge-intervals/)
 [解析](https://leetcode-cn.com/problems/merge-intervals/solution/si-lu-jian-dan-by-luckyxutao-uy7a/)
 * [238. 除自身以外数组的乘积-1](https://leetcode-cn.com/problems/product-of-array-except-self/)
 [解析](https://leetcode-cn.com/submissions/detail/175398491/)
