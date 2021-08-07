@@ -94,6 +94,8 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/zi-ding-yi-pai-xu-fang-an-by-luckyxutao-35c8/)
 
 ### 数组
+* [179. 最大数-1](https://leetcode-cn.com/problems/largest-number/)
+[解析](https://leetcode-cn.com/problems/largest-number/solution/dui-pai-xu-si-lu-by-luckyxutao-z3ke/)
 * [384. 打乱数组-1](https://leetcode-cn.com/problems/shuffle-an-array/)
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-kcuh/)
 * [4. 寻找两个正序数组的中位数-1](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
