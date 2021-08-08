@@ -64,6 +64,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析:归并排序]()
 ### 经典题目
 * [151. 翻转字符串里的单词-1](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+[解析](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/zi-xing-bian-xie-han-shu-shi-xian-by-luc-j3af/)
 * [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
 * [88. 合并两个有序数组-3](https://leetcode-cn.com/problems/merge-sorted-array/)
