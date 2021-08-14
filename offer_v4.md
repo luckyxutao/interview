@@ -37,7 +37,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-86hj/)
 * [202. 快乐数-1](https://leetcode-cn.com/problems/happy-number/)
 [解析](https://leetcode-cn.com/problems/happy-number/solution/kuai-man-zhi-zhen-202-kuai-le-shu-by-luc-kuk8/)
-* [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
+* [415. 字符串相加-2](https://leetcode-cn.com/problems/add-strings/)
 [解析](https://leetcode-cn.com/problems/add-binary/solution/67-er-jin-zhi-qiu-he-mo-ni-jia-fa-by-luc-rgqe/)
 * [7. 整数反转-2](https://leetcode-cn.com/problems/reverse-integer/)
 [解析](https://leetcode-cn.com/problems/reverse-integer/solution/si-lu-jian-dan-by-luckyxutao-xolc/)
