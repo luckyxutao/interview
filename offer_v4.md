@@ -70,7 +70,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/zi-xing-bian-xie-han-shu-shi-xian-by-luc-j3af/)
 * [53. 最大子序和-1](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
-* [88. 合并两个有序数组-3](https://leetcode-cn.com/problems/merge-sorted-array/)
+* [88. 合并两个有序数组-4](https://leetcode-cn.com/problems/merge-sorted-array/)
 [解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/88-he-bing-liang-ge-you-xu-shu-zu-shuang-bu76/)
 [解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/liang-shu-zu-he-bing-jian-dan-si-lu-shi-0prl8/)
 * [121. 买卖股票的最佳时机-2](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
