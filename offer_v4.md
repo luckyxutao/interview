@@ -125,6 +125,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-2](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [226. 翻转二叉树-1](https://leetcode-cn.com/problems/invert-binary-tree/)
 * [257. 二叉树的所有路径-1](https://leetcode-cn.com/problems/binary-tree-paths/)
 [解析](https://leetcode-cn.com/problems/binary-tree-paths/solution/biao-zhun-hui-su-suan-fa-shi-xian-by-luc-ne35/)
 * [662. 二叉树最大宽度-1](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)
