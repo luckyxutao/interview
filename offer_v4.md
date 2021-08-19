@@ -188,7 +188,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-zhu-lie-dui-bi-by/)
 
 ### 二分
-* [153. 寻找旋转排序数组中的最小值-1](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+* [153. 寻找旋转排序数组中的最小值-2](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/solution/can-kao-guan-fang-si-lu-shi-xian-soeasy-djfdr/)
 * [33. 搜索旋转排序数组-1](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
