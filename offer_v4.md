@@ -13,6 +13,9 @@ https://blog.csdn.net/Time2017/article/details/106432341
 https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 
 https://github.com/afatcoder/LeetcodeTop
+### 排序
+* [快速排序-1]
+* [堆排序-1]
 ### dfs矩阵
 * [329. 矩阵中的最长递增路径-1](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/dfsbei-wang-lu-ji-yi-by-luckyxutao-l3ma/)
