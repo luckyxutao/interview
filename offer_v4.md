@@ -167,7 +167,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-4](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
-* [2. 两数相加-1](https://leetcode-cn.com/problems/add-two-numbers/)
+* [2. 两数相加-2](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 回溯算法
 * [17. 电话号码的字母组合-1](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
