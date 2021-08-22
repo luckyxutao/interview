@@ -313,7 +313,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 二维矩阵
 * [面试题13. 机器人的运动范围-1](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 [解析](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/solution/mian-shi-ti-13-ji-qi-ren-de-yun-dong-fan-wei-by-4/)
-* [面试题29. 顺时针打印矩阵-2](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+* [面试题29. 顺时针打印矩阵-3](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 [解析](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-si-l-2/)
 
 ### 二分/左右指针
