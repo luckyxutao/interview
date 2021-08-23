@@ -129,6 +129,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-2](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [112. 路径总和-1](https://leetcode-cn.com/problems/path-sum/)
+[解析](https://leetcode-cn.com/problems/path-sum/solution/shen-du-you-xian-sou-suo-shi-xian-by-luc-5qhy/)
 * [129. 求根节点到叶节点数字之和-1](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 [解析](https://leetcode-cn.com/problems/same-tree/solution/di-gui-si-lu-by-luckyxutao-6lxs/)
 * [100. 相同的树-1](https://leetcode-cn.com/problems/same-tree/)
