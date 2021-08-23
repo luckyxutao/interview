@@ -48,7 +48,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [7. 整数反转-2](https://leetcode-cn.com/problems/reverse-integer/)
 [解析](https://leetcode-cn.com/problems/reverse-integer/solution/si-lu-jian-dan-by-luckyxutao-xolc/)
 [解析](https://leetcode-cn.com/problems/reverse-integer/solution/zheng-shu-fan-zhuan-qu-zheng-yun-suan-by-6bw2/)
-* [8. 字符串转换整数 (atoi)-1](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [8. 字符串转换整数 (atoi)-2](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 ### 双指针
 [240. 搜索二维矩阵 II-1](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
