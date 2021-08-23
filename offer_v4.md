@@ -163,6 +163,8 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/solution/hashmapjian-dan-shi-xian-by-luckyxutao-7skw/)
 
 ### 链表
+* [141. 环形链表-1](https://leetcode-cn.com/problems/linked-list-cycle/)
+[解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/kuai-man-zhi-zhen-si-lu-shi-xian-by-luck-ofp2/)
 * [328. 奇偶链表-1](https://leetcode-cn.com/problems/odd-even-linked-list/)
 [解析](https://leetcode-cn.com/problems/odd-even-linked-list/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-ylol/)
 * [3. 无重复字符的最长子串-3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
