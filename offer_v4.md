@@ -115,7 +115,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/3sum/solution/pai-xu-zuo-you-zhi-zhen-by-luckyxutao-z6z5/)
 * [31. 下一个排列-1](https://leetcode-cn.com/problems/next-permutation/)
 [解析](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-luckyxutao-7kye/)
-* [33. 搜索旋转排序数组-1](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+* [33. 搜索旋转排序数组-2](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/er-fen-sou-suo-by-luckyxutao-h2xd/)
 * [34. 在排序数组中查找元素的第一个和最后一个位置-1](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
