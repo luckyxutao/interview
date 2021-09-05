@@ -107,6 +107,8 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/zi-ding-yi-pai-xu-fang-an-by-luckyxutao-35c8/)
 
 ### 数组
+* [1013. 将数组分成和相等的三个部分-1](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)
+[解析](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/solution/jian-dan-si-lu-shi-xian-by-luckyxutao-m7zl/)
 * [189. 旋转数组-1](https://leetcode-cn.com/problems/rotate-array/)
 [解析](https://leetcode-cn.com/problems/rotate-array/solution/jian-dan-si-lu-shi-xian-by-luckyxutao-t8tx/）
 * [179. 最大数-2](https://leetcode-cn.com/problems/largest-number/)
