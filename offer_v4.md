@@ -32,7 +32,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [322. 零钱兑换-1](https://leetcode-cn.com/problems/coin-change/)
 [解析](https://leetcode-cn.com/problems/coin-change/solution/dong-tai-gui-hua-shi-xian-by-luckyxutao-ec5z/)
 * [70. 爬楼梯-3]()
-* [64. 最小路径和-1](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [64. 最小路径和-2](https://leetcode-cn.com/problems/minimum-path-sum/)
 [解析](https://leetcode-cn.com/problems/minimum-path-sum/solution/dong-tai-gui-hua-shi-xian-si-lu-qing-xi-de51c/)
 
 ### 设计
