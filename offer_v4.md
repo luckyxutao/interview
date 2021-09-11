@@ -192,7 +192,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [78. 子集-1](https://leetcode-cn.com/problems/subsets/)
 * [17. 电话号码的字母组合-1](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 [解析](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/biao-zhun-hui-su-fa-shi-xian-by-luckyxut-d1lx/)
-* [22. 括号生成-1](https://leetcode-cn.com/problems/generate-parentheses/)
+* [22. 括号生成-2](https://leetcode-cn.com/problems/generate-parentheses/)
 [解析](https://leetcode-cn.com/problems/generate-parentheses/solution/hui-su-fa-by-luckyxutao-5w6f/)
 * [46. 全排列-3](https://leetcode-cn.com/problems/permutations/)
 * [79. 单词搜索-1](https://leetcode-cn.com/problems/word-search/)
