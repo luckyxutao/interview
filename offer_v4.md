@@ -72,6 +72,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 [解析:归并排序]()
 ### 经典题目
+* [459. 重复的子字符串-1](https://leetcode-cn.com/problems/repeated-substring-pattern/)
+[解析](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-luckyx-i7c4/)
 * [55. 跳跃游戏-1](https://leetcode-cn.com/problems/jump-game/solution/)
 [解析](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-luckyxutao-2p9o/)
 * [557. 反转字符串中的单词 III-1](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
