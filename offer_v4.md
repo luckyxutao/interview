@@ -14,7 +14,7 @@ https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 
 https://github.com/afatcoder/LeetcodeTop
 ### 排序
-* [快速排序-1]
+* [快速排序-2]
 * [堆排序-1]
 * [归并排序-1]
 ### dfs矩阵
