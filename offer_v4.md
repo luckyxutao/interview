@@ -15,7 +15,7 @@ https://www.bookstack.cn/read/wind-liang-eetcode/9a47627cc09f5235.md
 https://github.com/afatcoder/LeetcodeTop
 ### 排序
 * [快速排序-2]
-* [堆排序-1]
+* [堆排序-2](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/xie-gei-qian-duan-tong-xue-de-ti-jie-yi-kt5p2/)
 * [归并排序-2]
 ### dfs矩阵
 * [329. 矩阵中的最长递增路径-1](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
