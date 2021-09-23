@@ -83,7 +83,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [557. 反转字符串中的单词 III-1](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
 * [151. 翻转字符串里的单词-1](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 [解析](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/zi-xing-bian-xie-han-shu-shi-xian-by-luc-j3af/)
-* [53. 最大子序和-2](https://leetcode-cn.com/problems/maximum-subarray/)
+* [53. 最大子序和-3](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
 * [88. 合并两个有序数组-5](https://leetcode-cn.com/problems/merge-sorted-array/)
 [解析](https://leetcode-cn.com/problems/merge-sorted-array/solution/88-he-bing-liang-ge-you-xu-shu-zu-shuang-bu76/)
