@@ -21,6 +21,10 @@ https://github.com/afatcoder/LeetcodeTop
 * [329. 矩阵中的最长递增路径-1](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/dfsbei-wang-lu-ji-yi-by-luckyxutao-l3ma/)
 ### 动态规划
+* [63. 不同路径 II-1](https://leetcode-cn.com/problems/unique-paths-ii/)
+[解析](https://leetcode-cn.com/problems/unique-paths-ii/solution/bu-tong-lu-jing-ii-by-leetcode-solution-2/)
+* [62. 不同路径-1](https://leetcode-cn.com/problems/unique-paths/)
+[解析](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-luckyxutao-s6ov/)
 * [300. 最长递增子序列-2](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-shi-xian-by-luckyxutao-q83d/)
 * [198. 打家劫舍-1](https://leetcode-cn.com/problems/house-robber/)
@@ -74,8 +78,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ### 经典题目
-* [63. 不同路径 II-1](https://leetcode-cn.com/problems/unique-paths-ii/)
-[解析](https://leetcode-cn.com/problems/unique-paths-ii/solution/bu-tong-lu-jing-ii-by-leetcode-solution-2/)
+
 * [50. Pow(x, n)-1](https://leetcode-cn.com/problems/powx-n/)
 [解析](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-by-luckyxutao-jaq1/)
 * [136. 只出现一次的数字-1](https://leetcode-cn.com/problems/single-number/)
