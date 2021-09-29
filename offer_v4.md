@@ -78,7 +78,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ### 经典题目
-
+* [260. 只出现一次的数字 III-1](https://leetcode-cn.com/problems/single-number-iii/)
+[解析](https://leetcode-cn.com/problems/single-number-iii/solution/260-zhi-chu-xian-yi-ci-de-shu-zi-iii-by-s5u98/)
 * [50. Pow(x, n)-1](https://leetcode-cn.com/problems/powx-n/)
 [解析](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-by-luckyxutao-jaq1/)
 * [136. 只出现一次的数字-1](https://leetcode-cn.com/problems/single-number/)
