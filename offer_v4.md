@@ -163,6 +163,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-2](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [654. 最大二叉树-1](https://leetcode-cn.com/problems/maximum-binary-tree/)
+[解析](https://leetcode-cn.com/problems/maximum-binary-tree/solution/654-zui-da-er-cha-shu-by-luckyxutao-2sig/)
 * [112. 路径总和-1](https://leetcode-cn.com/problems/path-sum/)
 [解析](https://leetcode-cn.com/problems/path-sum/solution/shen-du-you-xian-sou-suo-shi-xian-by-luc-5qhy/)
 * [129. 求根节点到叶节点数字之和-1](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
