@@ -112,7 +112,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [146. LRU 缓存机制-0]
 * [200. 岛屿数量-1](https://leetcode-cn.com/problems/number-of-islands/)
 [解析](https://leetcode-cn.com/problems/number-of-islands/solution/biao-zhun-de-dfsjie-fa-by-luckyxutao-mfby/)
-* [42. 接雨水-1](https://leetcode-cn.com/problems/trapping-rain-water/)
+* [42. 接雨水-2](https://leetcode-cn.com/problems/trapping-rain-water/)
 [解析](https://leetcode-cn.com/problems/trapping-rain-water/solution/bei-wang-lu-mo-shi-by-luckyxutao-a56a/)
 * [76. 最小覆盖子串-1](https://leetcode-cn.com/problems/minimum-window-substring/)
 [解析](https://leetcode-cn.com/problems/minimum-window-substring/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-oj3t/)
