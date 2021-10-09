@@ -38,7 +38,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zhong-xin-kuo-san-si-lu-by-luckyxutao-iwfa/)
 * [139. 单词拆分-1](https://leetcode-cn.com/problems/word-break/)
 [解析](https://leetcode-cn.com/problems/word-break/solution/can-kao-liao-guan-fang-ti-jie-by-luckyxu-bhzo/)
-* [322. 零钱兑换-1](https://leetcode-cn.com/problems/coin-change/)
+* [322. 零钱兑换-2](https://leetcode-cn.com/problems/coin-change/)
 [解析](https://leetcode-cn.com/problems/coin-change/solution/dong-tai-gui-hua-shi-xian-by-luckyxutao-ec5z/)
 * [70. 爬楼梯-4]()
 * [64. 最小路径和-3](https://leetcode-cn.com/problems/minimum-path-sum/)
