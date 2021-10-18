@@ -214,7 +214,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/hua-jie-suan-fa-19-shan-chu-lian-biao-de-dao-shu-d/)
 * [21. 合并两个有序链表-5](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
-* [206. 反转链表-6](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [206. 反转链表-7](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
 * [2. 两数相加-2](https://leetcode-cn.com/problems/add-two-numbers/)
 
