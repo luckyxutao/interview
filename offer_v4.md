@@ -211,7 +211,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [3. 无重复字符的最长子串-5](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
 * [19. 删除链表的倒数第 N 个结点-3](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
-[解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/hua-jie-suan-fa-19-shan-chu-lian-biao-de-dao-shu-d/)
+[解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c5q9/)
 * [21. 合并两个有序链表-5](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-7](https://leetcode-cn.com/problems/reverse-linked-list/)
