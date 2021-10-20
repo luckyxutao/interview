@@ -19,7 +19,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/water-bottles/solution/1518-huan-jiu-wen-ti-by-luckyxutao-wuiv/)
 
 ### 排序
-* [快速排序-2]
+* [快速排序-3]
 * [堆排序-3](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/xie-gei-qian-duan-tong-xue-de-ti-jie-yi-kt5p2/)
 * [归并排序-2]
 * [169. 多数元素-1](https://leetcode-cn.com/problems/majority-element/)
