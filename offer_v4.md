@@ -203,7 +203,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/solution/hashmapjian-dan-shi-xian-by-luckyxutao-7skw/)
 
 ### 链表
-* [160. 相交链表-1](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/）
+* [160. 相交链表-2](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/）
 [解析](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/160-xiang-jiao-lian-biao-by-luckyxutao-0zka/)
 * [141. 环形链表-3](https://leetcode-cn.com/problems/linked-list-cycle/)
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/kuai-man-zhi-zhen-si-lu-shi-xian-by-luck-ofp2/)
