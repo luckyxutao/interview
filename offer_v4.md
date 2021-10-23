@@ -111,7 +111,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [138. 复制带随机指针的链表-1](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 [解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/hashmapjie-jue-by-luckyxutao-i1ds/)
 * [146. LRU 缓存机制-0]
-* [200. 岛屿数量-1](https://leetcode-cn.com/problems/number-of-islands/)
+* [200. 岛屿数量-2](https://leetcode-cn.com/problems/number-of-islands/)
 [解析](https://leetcode-cn.com/problems/number-of-islands/solution/biao-zhun-de-dfsjie-fa-by-luckyxutao-mfby/)
 * [42. 接雨水-2](https://leetcode-cn.com/problems/trapping-rain-water/)
 [解析](https://leetcode-cn.com/problems/trapping-rain-water/solution/bei-wang-lu-mo-shi-by-luckyxutao-a56a/)
