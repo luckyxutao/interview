@@ -272,6 +272,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-pai-xu-zuo-you-zhi-zhen-by-lucky/)
 
 ### 栈/队列
+* [232. 用栈实现队列-1](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 * [71. 简化路径-1](https://leetcode-cn.com/problems/simplify-path/)
 [解析](https://leetcode-cn.com/problems/simplify-path/solution/71-jian-hua-lu-jing-fu-zhu-zhan-by-luckyxutao/)
 ### DFS搜索
