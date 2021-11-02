@@ -165,6 +165,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-2](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
+* [103. 二叉树的锯齿形层序遍历-1](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+[解析](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/solution/103-er-cha-shu-de-ju-chi-xing-ceng-xu-bi-pkw2/)
 * [101. 对称二叉树-1](https://leetcode-cn.com/problems/symmetric-tree/)
 [解析](https://leetcode-cn.com/problems/symmetric-tree/solution/101-dui-cheng-er-cha-shu-by-luckyxutao-3aq9/)
 * [230. 二叉搜索树中第K小的元素-1](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
