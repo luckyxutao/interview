@@ -331,7 +331,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 回溯法
 * [面试题12. 矩阵中的路径-1](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 [解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/mian-shi-ti-12-ju-zhen-zhong-de-lu-jing-by-lucky-2/)
-* [面试题38. 字符串的排列-1](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
+* [面试题38. 字符串的排列-2](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 [解析](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-by-luckyxuta/)
 
 ### 贪心
