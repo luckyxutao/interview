@@ -192,7 +192,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [104. 二叉树的最大深度-4](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 * [98. 验证二叉搜索树-2](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
-* [124. 二叉树中的最大路径和-1](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+* [124. 二叉树中的最大路径和-2](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 [解析](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/solution/hou-xu-bian-li-si-xiang-shi-xian-by-luck-ns5n/)
 * [199. 二叉树的右视图-4](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 [解析](https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/199-er-cha-shu-de-you-shi-tu-by-luckyxut-yr2i/)
