@@ -84,6 +84,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ### 经典题目
+* [468. 验证IP地址-1](https://leetcode-cn.com/problems/validate-ip-address/)
+[解析](https://leetcode-cn.com/problems/validate-ip-address/solution/468-yan-zheng-ipdi-zhi-by-luckyxutao-7ni3/)
 * [260. 只出现一次的数字 III-1](https://leetcode-cn.com/problems/single-number-iii/)
 [解析](https://leetcode-cn.com/problems/single-number-iii/solution/260-zhi-chu-xian-yi-ci-de-shu-zi-iii-by-s5u98/)
 * [50. Pow(x, n)-1](https://leetcode-cn.com/problems/powx-n/)
