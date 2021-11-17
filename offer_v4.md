@@ -68,7 +68,7 @@ https://github.com/afatcoder/LeetcodeTop
 [240. 搜索二维矩阵 II-1](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 
 ### 栈与堆
-* [1047. 删除字符串中的所有相邻重复项-1](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
+* [1047. 删除字符串中的所有相邻重复项-2](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 [解析](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/1047-shan-chu-zi-fu-chuan-zhong-de-suo-y-vwhe/)
 * [973. 最接近原点的 K 个点-1](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 [解析](https://leetcode-cn.com/problems/k-closest-points-to-origin/solution/973-zui-jie-jin-yuan-dian-de-k-ge-dian-p-itzz/)
