@@ -283,7 +283,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 左右指针
 * [11. 盛最多水的容器-1](https://leetcode-cn.com/problems/container-with-most-water/)
 [解析](https://leetcode-cn.com/problems/container-with-most-water/solution/11-sheng-zui-duo-shui-de-rong-qi-by-luckyxutao-2/)
-* [16. 最接近的三数之和-1](https://leetcode-cn.com/problems/3sum-closest/)
+* [16. 最接近的三数之和-2](https://leetcode-cn.com/problems/3sum-closest/)
 [解析](https://leetcode-cn.com/problems/3sum-closest/solution/16-zui-jie-jin-de-san-shu-zhi-he-pai-xu-shuang-z-2/)
 * [15. 三数之和-1](https://leetcode-cn.com/problems/3sum/)
 [解析](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-pai-xu-zuo-you-zhi-zhen-by-lucky/)
