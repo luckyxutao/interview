@@ -152,7 +152,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/container-with-most-water/solution/biao-zhun-de-zuo-you-zhi-zhen-by-luckyxu-p3dn/)
 * [15. 三数之和-3](https://leetcode-cn.com/problems/3sum/)
 [解析](https://leetcode-cn.com/problems/3sum/solution/pai-xu-zuo-you-zhi-zhen-by-luckyxutao-z6z5/)
-* [31. 下一个排列-1](https://leetcode-cn.com/problems/next-permutation/)
+* [31. 下一个排列-2](https://leetcode-cn.com/problems/next-permutation/)
 [解析](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-luckyxutao-7kye/)
 * [33. 搜索旋转排序数组-2](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
