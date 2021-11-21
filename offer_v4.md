@@ -97,7 +97,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/single-number/solution/136-zhi-chu-xian-yi-ci-de-shu-zi-by-luck-yv8q/)
 * [459. 重复的子字符串-1](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 [解析](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-luckyx-i7c4/)
-* [55. 跳跃游戏-1](https://leetcode-cn.com/problems/jump-game/solution/)
+* [55. 跳跃游戏-2](https://leetcode-cn.com/problems/jump-game/solution/)
 [解析](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-luckyxutao-2p9o/)
 * [557. 反转字符串中的单词 III-2](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
 * [151. 翻转字符串里的单词-2](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
