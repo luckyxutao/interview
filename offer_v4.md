@@ -100,7 +100,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [55. 跳跃游戏-2](https://leetcode-cn.com/problems/jump-game/solution/)
 [解析](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-luckyxutao-2p9o/)
 * [557. 反转字符串中的单词 III-2](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
-* [151. 翻转字符串里的单词-2](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [151. 翻转字符串里的单词-3](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 [解析](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/zi-xing-bian-xie-han-shu-shi-xian-by-luc-j3af/)
 * [53. 最大子序和-4](https://leetcode-cn.com/problems/maximum-subarray/)
 [解析](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-by-luckyxutao-m96w/)
