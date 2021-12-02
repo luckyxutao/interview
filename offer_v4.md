@@ -21,7 +21,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 排序
 * [1356. 根据数字二进制下 1 的数目排序-1](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
 * [快速排序-5]
-* [堆排序-4](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/xie-gei-qian-duan-tong-xue-de-ti-jie-yi-kt5p2/)
+* [堆排序-5](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/xie-gei-qian-duan-tong-xue-de-ti-jie-yi-kt5p2/)
 * [归并排序-3]
 * [169. 多数元素-2](https://leetcode-cn.com/problems/majority-element/)
 ### dfs矩阵
