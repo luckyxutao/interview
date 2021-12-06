@@ -132,7 +132,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [680. 验证回文字符串 Ⅱ-2](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 [解析](https://leetcode-cn.com/problems/valid-palindrome-ii/solution/shuang-zhi-zhen-can-kao-guan-fang-by-luc-ldp6/)
 * [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
-* [165. 比较版本号-4](https://leetcode-cn.com/problems/compare-version-numbers/)
+* [165. 比较版本号-5](https://leetcode-cn.com/problems/compare-version-numbers/)
 [解析](https://leetcode-cn.com/problems/compare-version-numbers/solution/guan-fang-jie-fa-by-luckyxutao-4cbj/)
 * [937. 重新排列日志文件-1](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
 [解析](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/zi-ding-yi-pai-xu-fang-an-by-luckyxutao-35c8/)
@@ -361,7 +361,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 位运算
 * [191. 位1的个数-1](https://leetcode-cn.com/problems/number-of-1-bits/)
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao-qmue/)
-* [231. 2 的幂-1](https://leetcode-cn.com/problems/power-of-two/submissions/)
+* [231. 2 的幂-2](https://leetcode-cn.com/problems/power-of-two/submissions/)
 [解析](https://leetcode-cn.com/problems/power-of-two/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-1w90/)
 * [面试题56 - II. 数组中数字出现的次数 II-1](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/mian-shi-ti-56-ii-shu-zu-zhong-shu-zi-chu-xian-d-9/)
@@ -518,7 +518,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/mian-shi-ti-32-i-cong-shang-dao-xia-da-yin-er-c-22/)
 * [144. 二叉树的前序遍历(DFS-3)]
 [解析](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao-2/)
-* [94. 二叉树的中序遍历(DFS)-4]
+* [94. 二叉树的中序遍历(DFS)-5]
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/94-er-cha-shu-de-zhong-xu-bian-li-di-gui-die-dai-b/)
 * [145. 二叉树的后序遍历(DFS)-1]
 [解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-die-dai-di-gui-by/)
