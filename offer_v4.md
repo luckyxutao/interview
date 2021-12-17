@@ -169,7 +169,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/merge-intervals/solution/si-lu-jian-dan-by-luckyxutao-uy7a/)
 * [238. 除自身以外数组的乘积-1](https://leetcode-cn.com/problems/product-of-array-except-self/)
 [解析](https://leetcode-cn.com/submissions/detail/175398491/)
-* [628. 三个数的最大乘积-2](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
+* [628. 三个数的最大乘积-3](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
 * [783. 二叉搜索树节点最小距离-1](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
