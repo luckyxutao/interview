@@ -518,7 +518,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/mian-shi-ti-32-i-cong-shang-dao-xia-da-yin-er-c-22/)
 * [144. 二叉树的前序遍历(DFS-5)]
 [解析](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-luckyxutao-2/)
-* [94. 二叉树的中序遍历(DFS)-6]
+* [94. 二叉树的中序遍历(DFS)-7]
 [解析](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/94-er-cha-shu-de-zhong-xu-bian-li-di-gui-die-dai-b/)
 * [145. 二叉树的后序遍历(DFS)-2]
 [解析](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-die-dai-di-gui-by/)
