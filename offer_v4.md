@@ -97,7 +97,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-by-luckyxutao-jaq1/)
 * [136. 只出现一次的数字-1](https://leetcode-cn.com/problems/single-number/)
 [解析](https://leetcode-cn.com/problems/single-number/solution/136-zhi-chu-xian-yi-ci-de-shu-zi-by-luck-yv8q/)
-* [459. 重复的子字符串-1](https://leetcode-cn.com/problems/repeated-substring-pattern/)
+* [459. 重复的子字符串-2](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 [解析](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-luckyx-i7c4/)
 * [55. 跳跃游戏-2](https://leetcode-cn.com/problems/jump-game/solution/)
 [解析](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-luckyxutao-2p9o/)
