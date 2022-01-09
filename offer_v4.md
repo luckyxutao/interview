@@ -44,7 +44,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/word-break/solution/can-kao-liao-guan-fang-ti-jie-by-luckyxu-bhzo/)
 * [322. 零钱兑换-3](https://leetcode-cn.com/problems/coin-change/)
 [解析](https://leetcode-cn.com/problems/coin-change/solution/dong-tai-gui-hua-shi-xian-by-luckyxutao-ec5z/)
-* [70. 爬楼梯-6]()
+* [70. 爬楼梯-7]()
 * [64. 最小路径和-3](https://leetcode-cn.com/problems/minimum-path-sum/)
 [解析](https://leetcode-cn.com/problems/minimum-path-sum/solution/dong-tai-gui-hua-shi-xian-si-lu-qing-xi-de51c/)
 
@@ -235,7 +235,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-8](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
-* [2. 两数相加-3](https://leetcode-cn.com/problems/add-two-numbers/)
+* [2. 两数相加-4](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 回溯算法
 * [39. 组合总和-1](https://leetcode-cn.com/problems/combination-sum/)
@@ -445,7 +445,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 链表
 * [面试题52. 两个链表的第一个公共节点-1](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 [解析](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/mian-shi-ti-52-liang-ge-lian-biao-de-di-yi-ge-g-13/)
-* [面试题22. 链表中倒数第k个节点-2](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+* [面试题22. 链表中倒数第k个节点-3](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c5q9/)
 * [面试题06. 从尾到头打印链表-1](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 [解析](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/solution/mian-shi-ti-06-cong-wei-dao-tou-da-yin-lian-bia-24/)
