@@ -215,6 +215,8 @@ https://github.com/afatcoder/LeetcodeTop
 * [572. 另一个树的子树-1](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 [解析](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/di-gui-shi-xian-zi-shu-cha-zhao-by-lucky-1xyx/)、[解析2](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/ling-yi-ge-shu-de-zi-shu-by-leetcode-solution/)
 ### 哈希表
+* [350. 两个数组的交集 II-1](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+[解析](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode-solution/)
 * [1. 两数之和-6](https://leetcode-cn.com/problems/two-sum/)
 * [49. 字母异位词分组-1](https://leetcode-cn.com/problems/group-anagrams/)
 [解析](https://leetcode-cn.com/problems/group-anagrams/solution/ha-xi-biao-jian-pai-xu-by-luckyxutao-k38t/)
