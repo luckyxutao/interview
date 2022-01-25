@@ -438,7 +438,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-dong-tai--2/)
 * [面试题63. 股票的最大利润-1](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 [解析](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/mian-shi-ti-63-gu-piao-de-zui-da-li-run-dong-tai-4/)
-* [面试题42. 连续子数组的最大和-3](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+* [面试题42. 连续子数组的最大和-4](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 [解析](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/mian-shi-ti-42-lian-xu-zi-shu-zu-de-zui-da-he-by-4/)
 * [面试题49. 丑数-1](https://leetcode-cn.com/problems/chou-shu-lcof/)
 [解析](https://leetcode-cn.com/problems/chou-shu-lcof/solution/mian-shi-ti-49-chou-shu-by-luckyxutao-2/)
