@@ -194,7 +194,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/path-sum/solution/shen-du-you-xian-sou-suo-shi-xian-by-luc-5qhy/)
 * [129. 求根节点到叶节点数字之和-2](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 [解析](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/solution/129-qiu-gen-jie-dian-dao-xie-jie-dian-sh-8l4s/)
-* [100. 相同的树-1](https://leetcode-cn.com/problems/same-tree/)
+* [100. 相同的树-2](https://leetcode-cn.com/problems/same-tree/)
 [解析](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/solution/shen-du-you-xian-shi-xian-by-luckyxutao-5leo/)
 * [226. 翻转二叉树-3](https://leetcode-cn.com/problems/invert-binary-tree/)
 * [257. 二叉树的所有路径-2](https://leetcode-cn.com/problems/binary-tree-paths/)
