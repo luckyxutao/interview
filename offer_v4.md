@@ -321,7 +321,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
 [解析](https://leetcode-cn.com/problems/add-strings/solution/si-lu-jian-dan-jia-fa-mo-ni-by-luckyxuta-cge8/)
 [解析](https://leetcode-cn.com/problems/add-strings/solution/415-zi-fu-chuan-xiang-jia-si-lu-jian-dan-by-luckyx/)
-* [69. x 的平方根-2](https://leetcode-cn.com/problems/sqrtx/)
+* [69. x 的平方根-3](https://leetcode-cn.com/problems/sqrtx/)
 [解析](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-er-fen-cha-zhao-fa-by-luckyx/)
 
 ### map/set
@@ -371,7 +371,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui--13/)
 
 ### 位运算
-* [191. 位1的个数-1](https://leetcode-cn.com/problems/number-of-1-bits/)
+* [191. 位1的个数-2](https://leetcode-cn.com/problems/number-of-1-bits/)
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao-qmue/)
 * [231. 2 的幂-2](https://leetcode-cn.com/problems/power-of-two/submissions/)
 [解析](https://leetcode-cn.com/problems/power-of-two/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-1w90/)
