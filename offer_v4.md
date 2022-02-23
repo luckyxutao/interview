@@ -321,7 +321,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [415. 字符串相加-1](https://leetcode-cn.com/problems/add-strings/)
 [解析](https://leetcode-cn.com/problems/add-strings/solution/si-lu-jian-dan-jia-fa-mo-ni-by-luckyxuta-cge8/)
 [解析](https://leetcode-cn.com/problems/add-strings/solution/415-zi-fu-chuan-xiang-jia-si-lu-jian-dan-by-luckyx/)
-* [69. x 的平方根-3](https://leetcode-cn.com/problems/sqrtx/)
+* [69. x 的平方根-4](https://leetcode-cn.com/problems/sqrtx/)
 [解析](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-er-fen-cha-zhao-fa-by-luckyx/)
 
 ### map/set
