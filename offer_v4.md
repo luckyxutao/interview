@@ -90,6 +90,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [23. 合并K个升序链表-1](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ### 经典题目
+* [217. 存在重复元素-1](https://leetcode-cn.com/problems/contains-duplicate/)
 * [268. 丢失的数字-2](https://leetcode-cn.com/problems/missing-number/)
 [解析](https://leetcode-cn.com/problems/missing-number/solution/268-diu-shi-de-shu-zi-by-luckyxutao-stti/)
 * [242. 有效的字母异位词-1](https://leetcode-cn.com/problems/valid-anagram/)
