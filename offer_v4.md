@@ -291,7 +291,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-luckyxutao-2/)
 
 ### 滑动窗口(连续子串、序列)
-* [209. 长度最小的子数组-1](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+* [209. 长度最小的子数组-2](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
 [解析](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/209-chang-du-zui-xiao-de-zi-shu-zu-by-lu-t3fj/)
 * [674. 最长连续递增序列-2](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 [解析](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/solution/674-zui-chang-lian-xu-di-zeng-xu-lie-hua-dong-chua/)
