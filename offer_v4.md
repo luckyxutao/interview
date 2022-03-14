@@ -91,7 +91,7 @@ https://github.com/afatcoder/LeetcodeTop
 
 ### 经典题目
 * [105. 从前序与中序遍历序列构造二叉树-1](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-* [面试题 16.01. 交换数字-1](https://leetcode-cn.com/problems/swap-numbers-lcci/)
+* [面试题 16.01. 交换数字-2](https://leetcode-cn.com/problems/swap-numbers-lcci/)
 [解析](https://leetcode-cn.com/problems/swap-numbers-lcci/solution/mian-shi-ti-1601-jiao-huan-shu-zi-by-luc-7gpm/)
 * [217. 存在重复元素-1](https://leetcode-cn.com/problems/contains-duplicate/)
 * [268. 丢失的数字-2](https://leetcode-cn.com/problems/missing-number/)
