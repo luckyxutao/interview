@@ -70,7 +70,7 @@ https://github.com/afatcoder/LeetcodeTop
 
 ### 双指针
 [240. 搜索二维矩阵 II-2](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
-[344. 反转字符串-1](https://leetcode-cn.com/problems/reverse-string/)
+[344. 反转字符串-2](https://leetcode-cn.com/problems/reverse-string/)
 
 ### 栈与堆
 * [1047. 删除字符串中的所有相邻重复项-2](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
@@ -239,7 +239,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/solution/83-shan-chu-pai-xu-lian-biao-zhong-de-zh-24f0/)
 * [160. 相交链表-2](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/）
 [解析](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/160-xiang-jiao-lian-biao-by-luckyxutao-0zka/)
-* [141. 环形链表-7](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [141. 环形链表-8](https://leetcode-cn.com/problems/linked-list-cycle/)
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/kuai-man-zhi-zhen-si-lu-shi-xian-by-luck-ofp2/)
 * [328. 奇偶链表-1](https://leetcode-cn.com/problems/odd-even-linked-list/)
 [解析](https://leetcode-cn.com/problems/odd-even-linked-list/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-ylol/)
