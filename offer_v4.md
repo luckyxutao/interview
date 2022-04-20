@@ -316,7 +316,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [695. 岛屿的最大面积-3](https://leetcode-cn.com/problems/max-area-of-island/)
 [解析](https://leetcode-cn.com/problems/max-area-of-island/solution/695-dao-yu-de-zui-da-mian-ji-dfs-by-luckyxutao/)
 ### 回溯
-* [93. 复原IP地址-3](https://leetcode-cn.com/problems/restore-ip-addresses/)
+* [93. 复原IP地址-4](https://leetcode-cn.com/problems/restore-ip-addresses/)
 [解析](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ipdi-zhi-hui-su-fa-by-luckyxutao/)
 
 ### 数学
@@ -356,6 +356,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [面试题61. 扑克牌中的顺子-1](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/mian-shi-ti-61-bu-ke-pai-zhong-de-shun-zi-by-luc-2/)
 ### 回溯法
+* [39. 组合总和-1](https://leetcode-cn.com/problems/combination-sum/)
 * [面试题12. 矩阵中的路径-1](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 [解析](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/solution/mian-shi-ti-12-ju-zhen-zhong-de-lu-jing-by-lucky-2/)
 * [面试题38. 字符串的排列-2](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
