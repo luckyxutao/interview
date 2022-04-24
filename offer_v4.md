@@ -380,7 +380,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 位运算
 * [191. 位1的个数-2](https://leetcode-cn.com/problems/number-of-1-bits/)
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao-qmue/)
-* [231. 2 的幂-2](https://leetcode-cn.com/problems/power-of-two/submissions/)
+* [231. 2 的幂-3](https://leetcode-cn.com/problems/power-of-two/submissions/)
 [解析](https://leetcode-cn.com/problems/power-of-two/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-1w90/)
 * [面试题56 - II. 数组中数字出现的次数 II-1](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/mian-shi-ti-56-ii-shu-zu-zhong-shu-zi-chu-xian-d-9/)
