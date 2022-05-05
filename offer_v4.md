@@ -94,7 +94,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [面试题 16.01. 交换数字-2](https://leetcode-cn.com/problems/swap-numbers-lcci/)
 [解析](https://leetcode-cn.com/problems/swap-numbers-lcci/solution/mian-shi-ti-1601-jiao-huan-shu-zi-by-luc-7gpm/)
 * [217. 存在重复元素-1](https://leetcode-cn.com/problems/contains-duplicate/)
-* [268. 丢失的数字-2](https://leetcode-cn.com/problems/missing-number/)
+* [268. 丢失的数字-3](https://leetcode-cn.com/problems/missing-number/)
 [解析](https://leetcode-cn.com/problems/missing-number/solution/268-diu-shi-de-shu-zi-by-luckyxutao-stti/)
 * [242. 有效的字母异位词-1](https://leetcode-cn.com/problems/valid-anagram/)
 [解析](https://leetcode-cn.com/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)
