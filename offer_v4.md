@@ -32,7 +32,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/unique-paths-ii/solution/bu-tong-lu-jing-ii-by-leetcode-solution-2/)
 * [62. 不同路径-2](https://leetcode-cn.com/problems/unique-paths/)
 [解析](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-luckyxutao-s6ov/)
-* [300. 最长递增子序列-3](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [300. 最长递增子序列-4](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-shi-xian-by-luckyxutao-q83d/)
 * [198. 打家劫舍-2](https://leetcode-cn.com/problems/house-robber/)
 [解析](https://leetcode-cn.com/problems/house-robber/solution/dong-tai-gui-hua-can-kao-guan-fang-si-lu-tbeq/)
