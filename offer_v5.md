@@ -1,4 +1,6 @@
 ### 树
+* 面试题28. 对称的二叉树-1
+[解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyx-2/)
 * 面试题27. 二叉树的镜像(递归/迭代)-3
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/mian-shi-ti-27-er-cha-shu-de-jing-xiang-di-gui-die/)
 * 面试题54. 二叉搜索树的第k大节点-2
