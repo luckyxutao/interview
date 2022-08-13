@@ -3,6 +3,9 @@
 * 面试题37. 序列化二叉树-2
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-die-dai-bfs-b/)
 -------
+* 面试题55 - II. 平衡二叉树(O(n))-6
+[解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-on-by-lucky/)
+[解析](https://leetcode-cn.com/problems/balanced-binary-tree/solution/110-ping-heng-er-cha-shu-si-lu-jian-dan-tzrbr/)
 * 面试题55 - I. 二叉树的深度-1
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
 * 面试题28. 对称的二叉树-1
