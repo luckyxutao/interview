@@ -516,7 +516,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-die-dai-bfs-b/)
 *****
 
-* 面试题34. 二叉树中和为某一值的路径-2 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-14/)
+* 面试题34. 二叉树中和为某一值的路径-2023 [解析](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-z-14/)
     * 回溯法,需要注意**路径是到叶子节点**,而不是找到就算
 * [236. 二叉树的最近公共祖先-2023][解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-l-3/)
     * 回溯法求q和p的路径。2.对比两条路径，找到最后一个相同节点
