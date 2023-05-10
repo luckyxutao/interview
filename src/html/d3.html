@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+        }
+        li{
+            font-size: 20px;
+            font-family: Tahoma, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <svg class="area"></svg>
+      </div>
+    <script type="module">
+        import * as d3 from "https://cdn.skypack.dev/d3@7";
+        const data1 = [{x:10,y:100},{x:20,y:100},{x:30,y:100},{x:90,y:20},{x:220,y:10}]
+        const area = d3.area()
+                        .x(d=>d.x)
+                        .y1(d=>d.y)
+                        .y0(10)
+
+                        d3.select('.area')
+  .append('path')
+  .attr('d', area(data1))
+  .attr('stroke', 'blue')
+  .attr('fill', 'blue')
+        </script>
+</body>
+</html>

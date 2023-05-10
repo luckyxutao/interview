@@ -8,27 +8,34 @@
  */
 /**
  * @param {TreeNode} root
- * @return {boolean}
+ * @param {number} target
+ * @return {number[][]}
  */
- var isBalanced = function(root) {
-  if(!root){
-    return true;
-  }
-  let leftDepth = getDepth(root.left);
-  let rightDepth = getDepth(root.right);
-  if(Math.abs(leftDepth-rightDepth)>1){
-    return false;
-  }
-  return isBalanced(root.left) && isBalanced(root.right);
+var pathSum = function(root, target) {
+    let res = [];
+    if(!root){
+        return res;
+    }
+    dfsHelper(root,target,[],res);
+    return res;
 };
-function getDepth(root){
-  if(!root){
-    return 0;
-  }
-  return 1 + Math.max(getDepth(root.left),getDepth(root.right))
-}
-const { TreeNode, root } = require('../lib/TreeNode');
-const constructTreeFromArray = require('../lib/constructTreeFromArray');
+function dfsHelper(root,target,path,res){
+    if(!root){
+        return;
+    }
+    if(!root.left && !root.right){
+        if(target === root.val){
+            res.push([...path,root.val])
+            return
+        }
+        return 
+    }
+    path.push(root.val);
+    dfsHelper(root.left,target-root.val,path,res)
+    dfsHelper(root.right,target-root.val,path,res)
+    path.pop();
 
-var root2 = constructTreeFromArray([]);
-console.log(isBalanced(root2));
+}
+const constructTreeFromArray = require('../lib/constructTreeFromArray');
+let root2 = constructTreeFromArray([5,4,8,11,null,13,4,7,2,null,null,5,1]);
+console.log(pathSum(root2,22))
