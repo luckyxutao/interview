@@ -244,7 +244,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/kuai-man-zhi-zhen-si-lu-shi-xian-by-luck-ofp2/)
 * [328. 奇偶链表-1](https://leetcode-cn.com/problems/odd-even-linked-list/)
 [解析](https://leetcode-cn.com/problems/odd-even-linked-list/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-ylol/)
-* [3. 无重复字符的最长子串-10](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+* [3. 无重复字符的最长子串-2023](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [解析](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-tbvp/)
 * [19. 删除链表的倒数第 N 个结点-4](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c5q9/)
@@ -505,7 +505,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
 * 面试题59 - I. 滑动窗口的最大值(滑动窗口)-1
 [解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
-* 面试题48. 最长不含重复字符的子字符串-4
+* 面试题48. 最长不含重复字符的子字符串-2023
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-3/)
 ### 树
 * 面试题07. 重建二叉树(基于前序/中序)-4
