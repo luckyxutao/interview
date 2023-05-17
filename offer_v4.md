@@ -250,7 +250,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c5q9/)
 * [21. 合并两个有序链表-6](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
-* [206. 反转链表-15](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [206. 反转链表-2023](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
 * [2. 两数相加-4](https://leetcode-cn.com/problems/add-two-numbers/)
 
@@ -474,7 +474,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/solution/mian-shi-ti-25-he-bing-liang-ge-pai-xu-de-lian--11/)
 * [面试题18. 删除链表的节点-1](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 [解析](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/solution/mian-shi-ti-18-shan-chu-lian-biao-de-jie-dian-by-3/)
-* [面试题24. 反转链表-1](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/)
+* [面试题24. 反转链表-2023](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/)
 [解析](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/solution/mian-shi-ti-24-fan-zhuan-lian-biao-by-luckyxutao/)
 * [面试题36. 二叉搜索树与双向链表-1](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xia-13/)
