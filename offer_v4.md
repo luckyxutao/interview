@@ -380,7 +380,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution/mian-shi-ti-09-yong-liang-ge-zhan-shi-xian-dui--13/)
 
 ### 位运算
-* [191. 位1的个数-2](https://leetcode-cn.com/problems/number-of-1-bits/)
+* [191. 位1的个数-2023](https://leetcode-cn.com/problems/number-of-1-bits/)
 [解析](https://leetcode-cn.com/problems/number-of-1-bits/solution/191-wei-1de-ge-shu-by-luckyxutao-qmue/)
 * [231. 2 的幂-3](https://leetcode-cn.com/problems/power-of-two/submissions/)
 [解析](https://leetcode-cn.com/problems/power-of-two/solution/guan-fang-si-lu-shi-xian-by-luckyxutao-1w90/)
