@@ -274,7 +274,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/215-shu-zu-zhong-de-di-kge-zui-da-yuan-su-by-lucky/)
 
 ### 字符串
-* [9. 回文数-2](https://leetcode-cn.com/problems/palindrome-number/)
+* [9. 回文数-2023](https://leetcode-cn.com/problems/palindrome-number/)
 [解析](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-zi-fu-chuan-jie-fa-by-luckyxutao/)
 [解析2](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-by-luckyxutao-hvu2/)
 * [2. 两数相加-1](https://leetcode-cn.com/problems/add-two-numbers/)
