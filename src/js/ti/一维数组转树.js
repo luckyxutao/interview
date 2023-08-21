@@ -18,7 +18,7 @@ function arr2Tree(arr){
             }
         });
     });
-    return data.filter(v=>v.parentId === 0);
+    return arr.filter(v=>v.parent_key === -1);
 }
 
 
