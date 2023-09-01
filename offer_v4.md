@@ -252,7 +252,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/die-dai-di-gui-shi-xian-by-luckyxutao-hpah/)
 * [206. 反转链表-2023](https://leetcode-cn.com/problems/reverse-linked-list/)
 [解析](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-di-gui-shi-xian-by-luckyxutao-1zkt/)
-* [2. 两数相加-4](https://leetcode-cn.com/problems/add-two-numbers/)
+* [2. 两数相加-2023](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 回溯算法
 * [39. 组合总和-2](https://leetcode-cn.com/problems/combination-sum/)
