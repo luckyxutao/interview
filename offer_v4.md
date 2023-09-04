@@ -136,7 +136,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/minimum-window-substring/solution/biao-zhun-hua-dong-chuang-kou-by-luckyxu-oj3t/)
 
 ### 字符串
-* [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+* [67. 二进制求和-2023](https://leetcode-cn.com/problems/add-binary/)
 * [819. 最常见的单词-1](https://leetcode-cn.com/problems/most-common-word/)
 [解析](https://leetcode-cn.com/problems/most-common-word/solution/819-zui-chang-jian-de-dan-ci-jian-dan-si-wjf3/)
 * [680. 验证回文字符串 Ⅱ-2](https://leetcode-cn.com/problems/valid-palindrome-ii/)
