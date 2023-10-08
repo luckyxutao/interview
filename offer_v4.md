@@ -156,7 +156,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/rotate-array/solution/jian-dan-si-lu-shi-xian-by-luckyxutao-t8tx/）
 * [179. 最大数-2](https://leetcode-cn.com/problems/largest-number/)
 [解析](https://leetcode-cn.com/problems/largest-number/solution/dui-pai-xu-si-lu-by-luckyxutao-z3ke/)
-* [384. 打乱数组-1](https://leetcode-cn.com/problems/shuffle-an-array/)
+* [384. 打乱数组-2023](https://leetcode-cn.com/problems/shuffle-an-array/)
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-kcuh/)
 * [4. 寻找两个正序数组的中位数-3](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 [解析](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/he-bing-shu-zu-fa-shi-xian-by-luckyxutao-0zr2/)
