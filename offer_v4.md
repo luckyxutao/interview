@@ -418,7 +418,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/solution/mian-shi-ti-53-ii-0n-1zhong-que-shi-de-shu-zi-sh-2/)
 * [面试题53 - I. 在排序数组中查找数字-1](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zh-19/)
-* [704. 二分查找-1](https://leetcode-cn.com/problems/binary-search/)
+* [704. 二分查找-2023](https://leetcode-cn.com/problems/binary-search/)
 * [34. 在排序数组中查找元素的第一个和最后一个位置-1](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ### 字符串
