@@ -192,7 +192,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/solution/103-er-cha-shu-de-ju-chi-xing-ceng-xu-bi-pkw2/)
 * [101. 对称二叉树-2023](https://leetcode-cn.com/problems/symmetric-tree/)
 [解析](https://leetcode-cn.com/problems/symmetric-tree/solution/101-dui-cheng-er-cha-shu-by-luckyxutao-3aq9/)
-* [230. 二叉搜索树中第K小的元素-1](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+* [230. 二叉搜索树中第K小的元素-2023](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 * [429. N 叉树的层序遍历-2023](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
 [解析](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/solution/429-n-cha-shu-de-ceng-xu-bian-li-by-luck-86wa/)
 * [654. 最大二叉树-1](https://leetcode-cn.com/problems/maximum-binary-tree/)
