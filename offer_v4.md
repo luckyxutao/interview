@@ -175,7 +175,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/spiral-matrix-ii/solution/59-luo-xuan-ju-zhen-ii-si-lu-qing-xi-by-w5s2g/)
 * [54. 螺旋矩阵-3](https://leetcode-cn.com/problems/spiral-matrix/)
 [解析](https://leetcode-cn.com/problems/spiral-matrix/solution/si-lu-jian-dan-yi-ci-xing-tong-guo-by-lu-exnc/)
-* [56. 合并区间-3](https://leetcode-cn.com/problems/merge-intervals/)
+* [56. 合并区间-2023](https://leetcode-cn.com/problems/merge-intervals/)
 [解析](https://leetcode-cn.com/problems/merge-intervals/solution/si-lu-jian-dan-by-luckyxutao-uy7a/)
 * [238. 除自身以外数组的乘积-1](https://leetcode-cn.com/problems/product-of-array-except-self/)
 [解析](https://leetcode-cn.com/submissions/detail/175398491/)
