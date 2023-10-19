@@ -182,7 +182,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [628. 三个数的最大乘积-3](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 [解析](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/solution/san-ge-shu-de-zui-da-cheng-ji-by-leetcod-t9sb/)
 ### 树
-* [783. 二叉搜索树节点最小距离-1](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+* [783. 二叉搜索树节点最小距离-2023](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
 [解析](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/solution/783-er-cha-sou-suo-shu-jie-dian-zui-xiao-qmtz/)
 * [111. 二叉树的最小深度-2023](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 [解析](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/solution/111-er-cha-shu-de-zui-xiao-shen-du-by-lu-avhm/)
