@@ -501,7 +501,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 滑动窗口(连续子串、序列)
 * [567. 字符串的排列-1]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
-* 面试题57 - II. 和为s的连续正数序列-1
+* 面试题57 - II. 和为s的连续正数序列-2023
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
 * 面试题59 - I. 滑动窗口的最大值(滑动窗口)-2023
 [解析](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/)
