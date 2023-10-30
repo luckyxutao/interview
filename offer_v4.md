@@ -255,7 +255,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [2. 两数相加-2023](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 回溯算法
-* [39. 组合总和-2](https://leetcode-cn.com/problems/combination-sum/)
+* [39. 组合总和-2023](https://leetcode-cn.com/problems/combination-sum/)
 [解析](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-luckyxutao-8ygt/)、[解析2](https://leetcode-cn.com/problems/combination-sum/solution/by-luckyxutao-2299/)
 * [78. 子集-2023](https://leetcode-cn.com/problems/subsets/)
 * [17. 电话号码的字母组合-1](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
