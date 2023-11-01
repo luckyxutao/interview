@@ -125,7 +125,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [125. 验证回文串-2023](https://leetcode-cn.com/problems/valid-palindrome/)
 [解析](https://leetcode-cn.com/problems/valid-palindrome/solution/shuang-zhi-zhen-fa-by-luckyxutao-9iui/)
 * [102. 二叉树的层序遍历-2023](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-* [138. 复制带随机指针的链表-1](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+* [138. 复制带随机指针的链表-2023](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 [解析](https://leetcode-cn.com/problems/copy-list-with-random-pointer/solution/hashmapjie-jue-by-luckyxutao-i1ds/)
 * [146. LRU 缓存机制-0]
 * [200. 岛屿数量-2](https://leetcode-cn.com/problems/number-of-islands/)
