@@ -233,7 +233,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/solution/hashmapjian-dan-shi-xian-by-luckyxutao-7skw/)
 
 ### 链表
-* [876. 链表的中间结点-1](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+* [876. 链表的中间结点-2023](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 * [82. 删除排序链表中的重复元素 II-1](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/solution/82-shan-chu-pai-xu-lian-biao-zhong-de-zh-ca20/)
 * [83. 删除排序链表中的重复元素-1](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
