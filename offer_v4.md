@@ -258,7 +258,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [39. 组合总和-2023](https://leetcode-cn.com/problems/combination-sum/)
 [解析](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-luckyxutao-8ygt/)、[解析2](https://leetcode-cn.com/problems/combination-sum/solution/by-luckyxutao-2299/)
 * [78. 子集-2023](https://leetcode-cn.com/problems/subsets/)
-* [17. 电话号码的字母组合-1](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+* [17. 电话号码的字母组合-2023](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 [解析](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/biao-zhun-hui-su-fa-shi-xian-by-luckyxut-d1lx/)
 * [22. 括号生成-2](https://leetcode-cn.com/problems/generate-parentheses/)
 [解析](https://leetcode-cn.com/problems/generate-parentheses/solution/hui-su-fa-by-luckyxutao-5w6f/)
