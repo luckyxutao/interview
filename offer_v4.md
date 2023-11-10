@@ -50,7 +50,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/minimum-path-sum/solution/dong-tai-gui-hua-shi-xian-si-lu-qing-xi-de51c/)
 
 ### 设计
-* [面试题 01.06. 字符串压缩-1](https://leetcode-cn.com/problems/compress-string-lcci/)
+* [面试题 01.06. 字符串压缩-2023](https://leetcode-cn.com/problems/compress-string-lcci/)
 [解析](https://leetcode-cn.com/problems/compress-string-lcci/solution/mian-shi-ti-0106-zi-fu-chuan-ya-suo-by-l-wlm2/)
 * [380. O(1) 时间插入、删除和获取随机元素-1](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 [解析](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/solution/shu-zu-map-by-luckyxutao-fxad/)
