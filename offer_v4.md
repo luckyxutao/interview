@@ -219,7 +219,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://mp.weixin.qq.com/s/9RKzBcr3I592spAsuMH45g)、[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/)、[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-x-84yr/)
 * [543. 二叉树的直径-2023](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 [解析](https://leetcode-cn.com/problems/diameter-of-binary-tree/solution/zi-jie-ti-ku-543-jian-dan-er-cha-shu-de-dq7om/)
-* [572. 另一个树的子树-1](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+* [572. 另一个树的子树-2023](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 [解析](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/di-gui-shi-xian-zi-shu-cha-zhao-by-lucky-1xyx/)、[解析2](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/ling-yi-ge-shu-de-zi-shu-by-leetcode-solution/)
 ### 哈希表
 * [350. 两个数组的交集 II-1](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
