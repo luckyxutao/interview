@@ -55,7 +55,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [380. O(1) 时间插入、删除和获取随机元素-1](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 [解析](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/solution/shu-zu-map-by-luckyxutao-fxad/)
 ### 数学
-* [670. 最大交换-1](https://leetcode-cn.com/problems/maximum-swap/)
+* [670. 最大交换-2023](https://leetcode-cn.com/problems/maximum-swap/)
 [解析](https://leetcode-cn.com/problems/maximum-swap/solution/670-zui-da-jiao-huan-bao-li-fa-by-luckyx-hy6o/)
 * [384. 打乱数组-2023](https://leetcode-cn.com/problems/shuffle-an-array/)
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-kcuh/)
