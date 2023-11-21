@@ -186,7 +186,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/solution/783-er-cha-sou-suo-shu-jie-dian-zui-xiao-qmtz/)
 * [111. 二叉树的最小深度-2023](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 [解析](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/solution/111-er-cha-shu-de-zui-xiao-shen-du-by-lu-avhm/)
-* [114. 二叉树展开为链表-1](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+* [114. 二叉树展开为链表-2023](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 [解析](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/114-er-cha-shu-zhan-kai-wei-lian-biao-by-q4nr/)
 * [103. 二叉树的锯齿形层序遍历-2023](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 [解析](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/solution/103-er-cha-shu-de-ju-chi-xing-ceng-xu-bi-pkw2/)
