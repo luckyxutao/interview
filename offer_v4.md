@@ -28,7 +28,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [329. 矩阵中的最长递增路径-1](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/dfsbei-wang-lu-ji-yi-by-luckyxutao-l3ma/)
 ### 动态规划
-* [63. 不同路径 II-2](https://leetcode-cn.com/problems/unique-paths-ii/)
+* [63. 不同路径 II-2023](https://leetcode-cn.com/problems/unique-paths-ii/)
 [解析](https://leetcode-cn.com/problems/unique-paths-ii/solution/bu-tong-lu-jing-ii-by-leetcode-solution-2/)
 * [62. 不同路径-2023](https://leetcode-cn.com/problems/unique-paths/)
 [解析](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-luckyxutao-s6ov/)
