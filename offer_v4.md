@@ -88,7 +88,7 @@ https://github.com/afatcoder/LeetcodeTop
 [堆排序思路](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/dui-pai-xu-si-lu-shi-xian-by-luckyxutao-0jic/)
 
 ### 分治
-* [23. 合并K个升序链表-2](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+* [23. 合并K个升序链表-2023](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ### 经典题目
 * [105. 从前序与中序遍历序列构造二叉树-2023](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
