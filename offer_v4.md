@@ -283,7 +283,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-zhu-lie-dui-bi-by/)
 
 ### 二分
-* [35. 搜索插入位置-1](https://leetcode-cn.com/problems/search-insert-position/)
+* [35. 搜索插入位置-2023](https://leetcode-cn.com/problems/search-insert-position/)
 [解析](https://leetcode-cn.com/problems/search-insert-position/solution/by-luckyxutao-4pnj/)
 * [153. 寻找旋转排序数组中的最小值-2](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/solution/can-kao-guan-fang-si-lu-shi-xian-soeasy-djfdr/)
