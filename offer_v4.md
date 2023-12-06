@@ -169,7 +169,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [33. 搜索旋转排序数组-2](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/er-fen-sou-suo-by-luckyxutao-h2xd/)
-* [34. 在排序数组中查找元素的第一个和最后一个位置-3](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [34. 在排序数组中查找元素的第一个和最后一个位置-2023](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 [解析](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/er-fen-cha-zhao-jie-jue-fang-an-by-lucky-soog/)
 * [59. 螺旋矩阵 II-2023](https://leetcode-cn.com/problems/spiral-matrix-ii/)
 [解析](https://leetcode-cn.com/problems/spiral-matrix-ii/solution/59-luo-xuan-ju-zhen-ii-si-lu-qing-xi-by-w5s2g/)
