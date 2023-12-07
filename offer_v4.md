@@ -287,7 +287,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/search-insert-position/solution/by-luckyxutao-4pnj/)
 * [153. 寻找旋转排序数组中的最小值-2](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/solution/can-kao-guan-fang-si-lu-shi-xian-soeasy-djfdr/)
-* [33. 搜索旋转排序数组-1](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+* [33. 搜索旋转排序数组-2023](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/33-sou-suo-xuan-zhuan-pai-xu-shu-zu-by-luckyxutao/)
 [解析](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/solution/er-fen-sou-suo-by-luckyxutao-h2xd/)
 * [704. 二分查找-2023](https://leetcode-cn.com/problems/binary-search/)
