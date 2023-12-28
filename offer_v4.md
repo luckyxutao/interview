@@ -238,7 +238,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/solution/82-shan-chu-pai-xu-lian-biao-zhong-de-zh-ca20/)
 * [83. 删除排序链表中的重复元素-2023](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 [解析](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/solution/83-shan-chu-pai-xu-lian-biao-zhong-de-zh-24f0/)
-* [160. 相交链表-2](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/）
+* [160. 相交链表-2023](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/）
 [解析](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/160-xiang-jiao-lian-biao-by-luckyxutao-0zka/)
 * [141. 环形链表-2023](https://leetcode-cn.com/problems/linked-list-cycle/)
 [解析](https://leetcode-cn.com/problems/linked-list-cycle/solution/kuai-man-zhi-zhen-si-lu-shi-xian-by-luck-ofp2/)
