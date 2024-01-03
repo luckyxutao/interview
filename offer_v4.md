@@ -86,6 +86,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/top-k-frequent-words/solution/pai-xu-shu-liang-tong-ji-shi-xian-by-luc-u4o8/)
 * [215. 数组中的第K个最大元素-2023](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 [堆排序思路](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/dui-pai-xu-si-lu-shi-xian-by-luckyxutao-0jic/)
+* [347. 前 K 个高频元素-2023]([[https://leetcode-cn.com/problems/kth-largest-element-in-an-array/](https://leetcode.cn/problems/top-k-frequent-elements/description/)](https://leetcode.cn/problems/top-k-frequent-elements/description/))
 
 ### 分治
 * [23. 合并K个升序链表-2023](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
