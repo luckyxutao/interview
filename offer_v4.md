@@ -537,7 +537,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-kda-jie--7/)
 * 面试题32 - III. 从上到下打印二叉树 III-2023
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/solution/mian-shi-ti-32-iii-cong-shang-dao-xia-da-yin-er-9/)
-* 面试题32-II从上到下遍历-2023
+* 面试题32-II从上到下遍历-2024
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/mian-shi-ti-32-iicong-shang-dao-xia-bian-li-by-luc/)
 * [面试题32 - I. 从上到下打印二叉树-2024]
 [解析](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/mian-shi-ti-32-i-cong-shang-dao-xia-da-yin-er-c-22/)
