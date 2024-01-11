@@ -529,7 +529,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/balanced-binary-tree/solution/110-ping-heng-er-cha-shu-si-lu-jian-dan-tzrbr/)
 * 面试题55 - I. 二叉树的深度-2023
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
-* 面试题28. 对称的二叉树-2023
+* 面试题28. 对称的二叉树-2024
 [解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyx-2/)
 * 面试题27. 二叉树的镜像(递归/迭代)-2024
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/mian-shi-ti-27-er-cha-shu-de-jing-xiang-di-gui-die/)
