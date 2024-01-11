@@ -527,7 +527,7 @@ https://github.com/afatcoder/LeetcodeTop
 * 面试题55 - II. 平衡二叉树(O(n))-2023
 [解析](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-on-by-lucky/)
 [解析](https://leetcode-cn.com/problems/balanced-binary-tree/solution/110-ping-heng-er-cha-shu-si-lu-jian-dan-tzrbr/)
-* 面试题55 - I. 二叉树的深度-2023
+* 面试题55 - I. 二叉树的深度-2024
 [解析](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-di-gui-die-/)
 * 面试题28. 对称的二叉树-2024
 [解析](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-by-luckyx-2/)
