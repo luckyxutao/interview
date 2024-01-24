@@ -509,7 +509,7 @@ https://github.com/afatcoder/LeetcodeTop
 * 面试题48. 最长不含重复字符的子字符串-2023
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-3/)
 ### 树
-* [297. 二叉树的序列化与反序列化-2023](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)
+* [297. 二叉树的序列化与反序列化-2024](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)
 * 面试题07. 重建二叉树(基于前序/中序)-2023
 [解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxut-3/)
 * 面试题26. 树的子结构-2024 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
