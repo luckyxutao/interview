@@ -514,7 +514,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-luckyxut-3/)
 * 面试题26. 树的子结构-2024 [解析](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/mian-shi-ti-26-shu-de-zi-jie-gou-by-luckyxutao-3/)
     * 在A树中找和B相同节点，然后再对比
-* 面试题37. 序列化二叉树-2024
+* 面试题37. 序列化二叉树-2023
 [解析](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/mian-shi-ti-37-xu-lie-hua-er-cha-shu-die-dai-bfs-b/)
 *****
 
