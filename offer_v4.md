@@ -500,7 +500,7 @@ https://github.com/afatcoder/LeetcodeTop
 * 面试题35. 复杂链表的复制-2023 [解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
     * map(oldNode,newNode), newNode.random = map.get(oldNode.random)
 ### 滑动窗口(连续子串、序列)
-* [567. 字符串的排列-2023]
+* [567. 字符串的排列-2024]
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
 * 面试题57 - II. 和为s的连续正数序列-2024
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
