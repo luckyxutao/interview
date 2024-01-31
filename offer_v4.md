@@ -497,7 +497,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-by-luckyxutao/)
 * 面试题03. 数组中重复的数字-2024
 [解析](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi--11/)
-* 面试题35. 复杂链表的复制-2023 [解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
+* 面试题35. 复杂链表的复制-2024 [解析](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/solution/mian-shi-ti-35-fu-za-lian-biao-de-fu-zhi-by-luck-2/)
     * map(oldNode,newNode), newNode.random = map.get(oldNode.random)
 ### 滑动窗口(连续子串、序列)
 * [567. 字符串的排列-2024]
