@@ -504,8 +504,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/permutation-in-string/solution/567-zi-fu-chuan-de-pai-lie-si-lu-qing-xi-by-luckyx/)
 * 面试题57 - II. 和为s的连续正数序列-2024
 [解析](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-19/)
-* 239. 滑动窗口最大值-2024
-[解析]([https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-i-hua-dong-chuang-kou-de-zui-da--10/](https://leetcode.cn/problems/sliding-window-maximum/solutions/2633781/239-hua-dong-chuang-kou-zui-da-zhi-by-lu-3gwr/))
+* [239. 滑动窗口最大值-2024](https://leetcode.cn/problems/sliding-window-maximum/solutions/2633781/239-hua-dong-chuang-kou-zui-da-zhi-by-lu-3gwr/)
 * 面试题48. 最长不含重复字符的子字符串-2024
 [解析](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/mian-shi-ti-48-zui-chang-bu-han-zhong-fu-zi-fu-1-3/)
 ### 树
