@@ -465,7 +465,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [面试题62. 圆圈中最后剩下的数字-2](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 [解析](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/mian-shi-ti-62-yuan-quan-zhong-zui-hou-sheng-xi-27/)
 ### 链表
-* [面试题52. 两个链表的第一个公共节点-2023](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+* [面试题52. 两个链表的第一个公共节点-2024](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 [解析](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/mian-shi-ti-52-liang-ge-lian-biao-de-di-yi-ge-g-13/)
 * [面试题22. 链表中倒数第k个节点-2024](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 [解析](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c5q9/)
