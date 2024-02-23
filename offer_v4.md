@@ -449,7 +449,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-g-4/)
 * [面试题10- II. 青蛙跳台阶问题-2024](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 [解析](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solution/mian-shi-ti-10-ii-qing-wa-tiao-tai-jie-wen-ti-do-5/)
-* [面试题47. 礼物的最大价值-1](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
+* [面试题47. 礼物的最大价值-2024](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 [解析](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-dong-tai--2/)
 * [面试题63. 股票的最大利润-1](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 [解析](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/mian-shi-ti-63-gu-piao-de-zui-da-li-run-dong-tai-4/)
