@@ -278,7 +278,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [9. 回文数-2023](https://leetcode-cn.com/problems/palindrome-number/)
 [解析](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-zi-fu-chuan-jie-fa-by-luckyxutao/)
 [解析2](https://leetcode-cn.com/problems/palindrome-number/solution/9-hui-wen-shu-by-luckyxutao-hvu2/)
-* [2. 两数相加-2023](https://leetcode-cn.com/problems/add-two-numbers/)
+* [2. 两数相加-2024](https://leetcode-cn.com/problems/add-two-numbers/)
 [解析](https://leetcode-cn.com/problems/add-two-numbers/solution/2-liang-shu-xiang-jia-chu-deng-shu-xue-by-luckyxut/)
 * [14. 最长公共前缀-3](https://leetcode-cn.com/problems/longest-common-prefix/)
 [解析](https://leetcode-cn.com/problems/longest-common-prefix/solution/14-zui-chang-gong-gong-qian-zhui-zhu-lie-dui-bi-by/)
