@@ -225,7 +225,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 哈希表
 * [350. 两个数组的交集 II-1](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 [解析](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode-solution/)
-* [1. 两数之和-2023](https://leetcode-cn.com/problems/two-sum/)
+* [1. 两数之和-2024](https://leetcode-cn.com/problems/two-sum/)
 * [49. 字母异位词分组-1](https://leetcode-cn.com/problems/group-anagrams/)
 [解析](https://leetcode-cn.com/problems/group-anagrams/solution/ha-xi-biao-jian-pai-xu-by-luckyxutao-k38t/)
 * [560. 和为K的子数组-1x](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
