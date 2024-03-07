@@ -23,7 +23,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [快速排序-2023-1](https://leetcode.cn/problems/sort-an-array/)
 * [堆排序-2023](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/xie-gei-qian-duan-tong-xue-de-ti-jie-yi-kt5p2/)
 * [归并排序-2023-1]
-* [169. 多数元素-2023](https://leetcode-cn.com/problems/majority-element/)
+* [169. 多数元素-20241](https://leetcode-cn.com/problems/majority-element/)
 ### dfs矩阵
 * [329. 矩阵中的最长递增路径-1](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
 [解析](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/dfsbei-wang-lu-ji-yi-by-luckyxutao-l3ma/)
