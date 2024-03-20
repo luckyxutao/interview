@@ -80,7 +80,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/k-closest-points-to-origin/solution/973-zui-jie-jin-yuan-dian-de-k-ge-dian-p-itzz/)
 * [1249. 移除无效的括号-1](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)
 [解析](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/solution/shi-yong-zhan-he-stringbuildershi-xian-b-4pu6/)
-* [20. 有效的括号-2023](https://leetcode-cn.com/problems/valid-parentheses/)
+* [20. 有效的括号-2024](https://leetcode-cn.com/problems/valid-parentheses/)
 [解析](https://leetcode-cn.com/problems/valid-parentheses/solution/zhan-xing-zhi-pan-duan-by-luckyxutao-j4fl/)
 * [692. 前K个高频单词-1](https://leetcode-cn.com/problems/top-k-frequent-words/)
 [解析](https://leetcode-cn.com/problems/top-k-frequent-words/solution/pai-xu-shu-liang-tong-ji-shi-xian-by-luc-u4o8/)
