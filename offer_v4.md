@@ -57,7 +57,7 @@ https://github.com/afatcoder/LeetcodeTop
 ### 数学
 * [670. 最大交换-2023](https://leetcode-cn.com/problems/maximum-swap/)
 [解析](https://leetcode-cn.com/problems/maximum-swap/solution/670-zui-da-jiao-huan-bao-li-fa-by-luckyx-hy6o/)
-* [384. 打乱数组-2023](https://leetcode-cn.com/problems/shuffle-an-array/)
+* [384. 打乱数组-2024](https://leetcode-cn.com/problems/shuffle-an-array/)
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-kcuh/)
 [解析](https://leetcode-cn.com/problems/shuffle-an-array/solution/xi-pai-suan-fa-by-luckyxutao-86hj/)
 * [202. 快乐数-1](https://leetcode-cn.com/problems/happy-number/)
