@@ -210,7 +210,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [662. 二叉树最大宽度-2023](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)
 [解析](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/solution/ceng-xu-bian-li-qing-song-jie-ti-by-isbo-78e1/)
 * [104. 二叉树的最大深度-2024](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
-* [98. 验证二叉搜索树-2023](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+* [98. 验证二叉搜索树-2024](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
 * [124. 二叉树中的最大路径和-2](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 [解析](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/solution/hou-xu-bian-li-si-xiang-shi-xian-by-luck-ns5n/)
