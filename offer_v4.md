@@ -214,7 +214,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/zhong-xu-bian-li-jie-jue-by-luckyxutao-ltg5/)
 * [124. 二叉树中的最大路径和-2](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 [解析](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/solution/hou-xu-bian-li-si-xiang-shi-xian-by-luck-ns5n/)
-* [199. 二叉树的右视图-2023](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+* [199. 二叉树的右视图-2024](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 [解析](https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/199-er-cha-shu-de-you-shi-tu-by-luckyxut-yr2i/)
 * [236. 二叉树的最近公共祖先-4](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 [解析](https://mp.weixin.qq.com/s/9RKzBcr3I592spAsuMH45g)、[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/)、[解析](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-x-84yr/)
