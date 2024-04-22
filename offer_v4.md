@@ -200,7 +200,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/maximum-binary-tree/solution/654-zui-da-er-cha-shu-by-luckyxutao-2sig/)
 * [112. 路径总和-2023](https://leetcode-cn.com/problems/path-sum/)
 [解析](https://leetcode-cn.com/problems/path-sum/solution/shen-du-you-xian-sou-suo-shi-xian-by-luc-5qhy/)
-* [129. 求根节点到叶节点数字之和-2023](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
+* [129. 求根节点到叶节点数字之和-2024](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 [解析](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/solution/129-qiu-gen-jie-dian-dao-xie-jie-dian-sh-8l4s/)
 * [100. 相同的树-2024](https://leetcode-cn.com/problems/same-tree/)
 [解析](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/solution/shen-du-you-xian-shi-xian-by-luckyxutao-5leo/)
