@@ -142,7 +142,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/most-common-word/solution/819-zui-chang-jian-de-dan-ci-jian-dan-si-wjf3/)
 * [680. 验证回文字符串 Ⅱ-2024](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 [解析](https://leetcode.cn/problems/valid-palindrome-ii/solutions/252740/cong-liang-ce-xiang-zhong-jian-zhao-dao-bu-deng-de/)
-* [415. 字符串相加-2023](https://leetcode-cn.com/problems/add-strings/)
+* [415. 字符串相加-2024](https://leetcode-cn.com/problems/add-strings/)
 * [165. 比较版本号-2023](https://leetcode-cn.com/problems/compare-version-numbers/)
 [解析](https://leetcode-cn.com/problems/compare-version-numbers/solution/guan-fang-jie-fa-by-luckyxutao-4cbj/)
 * [937. 重新排列日志文件-1](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
