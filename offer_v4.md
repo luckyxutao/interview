@@ -102,7 +102,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)
 * [468. 验证IP地址-1](https://leetcode-cn.com/problems/validate-ip-address/)
 [解析](https://leetcode-cn.com/problems/validate-ip-address/solution/468-yan-zheng-ipdi-zhi-by-luckyxutao-7ni3/)
-* [260. 只出现一次的数字 III-2023](https://leetcode-cn.com/problems/single-number-iii/)
+* [260. 只出现一次的数字 III-2024](https://leetcode-cn.com/problems/single-number-iii/)
 [解析](https://leetcode-cn.com/problems/single-number-iii/solution/260-zhi-chu-xian-yi-ci-de-shu-zi-iii-by-s5u98/)
 * [50. Pow(x, n)-2024](https://leetcode-cn.com/problems/powx-n/)
 [解析](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-by-luckyxutao-jaq1/)
