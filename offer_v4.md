@@ -107,7 +107,7 @@ https://github.com/afatcoder/LeetcodeTop
 [解析](https://leetcode-cn.com/problems/single-number-iii/solution/260-zhi-chu-xian-yi-ci-de-shu-zi-iii-by-s5u98/)
 * [50. Pow(x, n)-2024](https://leetcode-cn.com/problems/powx-n/)
 [解析](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-by-luckyxutao-jaq1/)
-* [136. 只出现一次的数字-2023](https://leetcode-cn.com/problems/single-number/)
+* [136. 只出现一次的数字-2024](https://leetcode-cn.com/problems/single-number/)
 [解析](https://leetcode-cn.com/problems/single-number/solution/136-zhi-chu-xian-yi-ci-de-shu-zi-by-luck-yv8q/)
 * [459. 重复的子字符串-2023](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 [解析](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-luckyx-i7c4/)
