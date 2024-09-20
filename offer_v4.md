@@ -144,7 +144,7 @@ https://github.com/afatcoder/LeetcodeTop
 * [680. 验证回文字符串 Ⅱ-2024](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 [解析](https://leetcode.cn/problems/valid-palindrome-ii/solutions/252740/cong-liang-ce-xiang-zhong-jian-zhao-dao-bu-deng-de/)
 * [415. 字符串相加-2024](https://leetcode-cn.com/problems/add-strings/)
-* [165. 比较版本号-2023](https://leetcode-cn.com/problems/compare-version-numbers/)
+* [165. 比较版本号-2024](https://leetcode-cn.com/problems/compare-version-numbers/)
 [解析](https://leetcode-cn.com/problems/compare-version-numbers/solution/guan-fang-jie-fa-by-luckyxutao-4cbj/)
 * [937. 重新排列日志文件-1](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
 [解析](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/zi-ding-yi-pai-xu-fang-an-by-luckyxutao-35c8/)
